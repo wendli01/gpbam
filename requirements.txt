@@ -1,0 +1,44 @@
+# Core ML
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.0
+torchvision
+torchdata
+sentence-transformers
+
+# LLM / API
+openai
+requests
+
+# RAG / Vector search
+lancedb
+
+# Graph
+networkx
+
+# Database
+neo4j
+
+# Data processing
+pandas
+numpy
+scikit-learn
+lxml
+pdfplumber
+
+# Legal NLP
+legal-reference-extraction
+
+# Evaluation
+rouge_score
+seaborn
+adjustText
+
+# Utilities
+python-dotenv
+pyyaml
+tqdm
+tiktoken
+
+# Note: DGL (Deep Graph Library) must be installed separately via conda:
+#   conda install -c dglteam/label/th24_cu124 dgl
+# or from https://www.dgl.ai/pages/start.html for your CUDA version.

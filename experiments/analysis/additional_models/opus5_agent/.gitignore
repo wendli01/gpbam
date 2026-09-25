@@ -1,0 +1,11 @@
+# The per-agent outputs are inputs to a merge step whose merged output IS
+# vendored: essays/ -> opus5_agent.jsonl (build_jsonl.py), and
+# recitation/answers/ -> recitation_opus5_agent.csv (score_recitation.py), both
+# of which carry the answer text verbatim. Tracking both forms put 481 files
+# into every diff for a second copy of the same bytes.
+#
+# They stay on disk when you re-generate, and the merge steps read them from
+# here; they are simply not the repository's copy of the record.
+essays/
+recitation/answers/
+recitation/prompts/

@@ -1,0 +1,58 @@
+SEAT=Qwen/Qwen3.6-35B-A3B-FP8 effort=high workers=4 out=<scratch>/rejudge/out_qwen36
+skip  deepseek-ai/DeepSeek-V4-Flash                      (done)
+skip  qwen/qwen3.5-397b-a17b                             (done)
+skip  mistralai/mistral-large-2512                       (done)
+START mistralai/Mistral-Medium-3.5-128B                  panel 41.73  n=81
+DONE  mistralai/Mistral-Medium-3.5-128B                  81/81 parsed, mean  44.8, 0 err,    751s
+START openai/gpt-5-mini                                  panel 38.33  n=81
+DONE  openai/gpt-5-mini                                  81/81 parsed, mean  40.6, 0 err,   1079s
+START deepseek/deepseek-v3.2                             panel 38.15  n=81
+DONE  deepseek/deepseek-v3.2                             81/81 parsed, mean  44.6, 0 err,    958s
+START google/gemini-2.5-flash-lite                       panel 36.67  n=81
+DONE  google/gemini-2.5-flash-lite                       81/81 parsed, mean  42.0, 0 err,    788s
+START anthropic/claude-haiku-4.5                         panel 36.30  n=81
+DONE  anthropic/claude-haiku-4.5                         81/81 parsed, mean  39.5, 0 err,    986s
+START deepseek/deepseek-r1-0528                          panel 35.80  n=81
+DONE  deepseek/deepseek-r1-0528                          81/81 parsed, mean  39.8, 0 err,    773s
+START qwen/qwen3.5-122b-a10b                             panel 34.94  n=81
+DONE  qwen/qwen3.5-122b-a10b                             81/81 parsed, mean  41.0, 0 err,    811s
+START RedHatAI/gemma-4-31B-it-FP8-block                  panel 34.57  n=81
+DONE  RedHatAI/gemma-4-31B-it-FP8-block                  81/81 parsed, mean  41.6, 0 err,    775s
+START Qwen/Qwen3.6-35B-A3B-FP8                           panel 32.35  n=81
+DONE  Qwen/Qwen3.6-35B-A3B-FP8                           81/81 parsed, mean  36.9, 0 err,   1354s
+START qwen3-next-80b-a3b-instruct                        panel 31.60  n=81
+DONE  qwen3-next-80b-a3b-instruct                        81/81 parsed, mean  34.8, 0 err,   1212s
+START qwen/qwen3-235b-a22b-thinking-2507                 panel 30.74  n=81
+DONE  qwen/qwen3-235b-a22b-thinking-2507                 81/81 parsed, mean  36.5, 0 err,    898s
+START deepseek/deepseek-chat-v3-0324                     panel 28.89  n=81
+DONE  deepseek/deepseek-chat-v3-0324                     81/81 parsed, mean  31.4, 0 err,    887s
+START openai/gpt-oss-120b                                panel 28.52  n=81
+DONE  openai/gpt-oss-120b                                81/81 parsed, mean  30.7, 0 err,    948s
+START meta-llama/llama-4-maverick                        panel 24.81  n=81
+DONE  meta-llama/llama-4-maverick                        81/81 parsed, mean  27.3, 0 err,    761s
+START openai/gpt-5-nano                                  panel 23.46  n=81
+DONE  openai/gpt-5-nano                                  81/81 parsed, mean  23.1, 0 err,    772s
+START GaleneAI/Magistral-Small-2509-FP8-Dynamic          panel 23.02  n=81
+DONE  GaleneAI/Magistral-Small-2509-FP8-Dynamic          81/81 parsed, mean  26.8, 0 err,    792s
+START RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8   panel 22.84  n=81
+DONE  RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8   81/81 parsed, mean  24.6, 0 err,    906s
+START openai/gpt-4o-mini-2024-07-18                      panel 21.23  n=81
+DONE  openai/gpt-4o-mini-2024-07-18                      81/81 parsed, mean  23.0, 0 err,    870s
+START windprak/open_steuerllm                            panel 19.57  n=81
+DONE  windprak/open_steuerllm                            81/81 parsed, mean  20.4, 0 err,    797s
+START meta-llama/llama-3.3-70b-instruct                  panel 17.22  n=81
+DONE  meta-llama/llama-3.3-70b-instruct                  81/81 parsed, mean  17.5, 0 err,    888s
+START qwen/qwen3-32b                                     panel 10.99  n=81
+DONE  qwen/qwen3-32b                                     81/81 parsed, mean  12.3, 0 err,   2637s
+START utter-project/EuroLLM-22B-Instruct-2512            panel  9.75  n=81
+DONE  utter-project/EuroLLM-22B-Instruct-2512            81/81 parsed, mean  10.7, 0 err,    814s
+START mistralai/Ministral-3-14B-Reasoning-2512           panel  8.15  n=81
+DONE  mistralai/Ministral-3-14B-Reasoning-2512           81/81 parsed, mean   6.4, 0 err,    985s
+START ibm-granite/granite-4.1-3b                         panel  7.53  n=81
+DONE  ibm-granite/granite-4.1-3b                         81/81 parsed, mean   7.3, 0 err,    824s
+START Microsoft/Phi-4-mini-instruct                      panel  4.57  n=81
+DONE  Microsoft/Phi-4-mini-instruct                      81/81 parsed, mean   5.6, 0 err,    818s
+START meta-llama/llama-3.1-8b-instruct                   panel  4.44  n=81
+DONE  meta-llama/llama-3.1-8b-instruct                   81/81 parsed, mean   5.3, 0 err,    758s
+START mistralai/mistral-small-3.1-24b-instruct           panel  0.00  n=81
+DONE  mistralai/mistral-small-3.1-24b-instruct           81/81 parsed, mean   0.0, 0 err,    576s

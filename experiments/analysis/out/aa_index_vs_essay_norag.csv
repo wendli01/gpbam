@@ -1,0 +1,28 @@
+model,short,vendor,score,aa_index,aa_name,aa_slug,aa_estimated,effort_upper_bound
+meta-llama/llama-3.1-8b-instruct,llama-3.1-8b,Meta,4.814814814814815,7,Llama 3.1 Instruct 8B,llama-3-1-instruct-8b,True,False
+ibm-granite/granite-4.1-3b,granite-4.1-3b,IBM,7.530864197530864,4,Granite 4.1 3B,granite-4-1-3b,True,False
+mistralai/Ministral-3-14B-Reasoning-2512,Ministral-3-14B-R,Mistral,8.765432098765432,10,Ministral 3 14B,ministral-3-14b,True,False
+qwen/qwen3-32b,qwen3-32b,Alibaba,13.209876543209877,11,Qwen3 32B (Reasoning),qwen3-32b-instruct-reasoning,False,False
+meta-llama/llama-3.3-70b-instruct,llama-3.3-70b,Meta,16.790123456790123,9,Llama 3.3 Instruct 70B,llama-3-3-instruct-70b,True,False
+openai/gpt-4o-mini-2024-07-18,gpt-4o-mini,OpenAI,19.506172839506174,7,GPT-4o mini,gpt-4o-mini,True,False
+openai/gpt-5-nano,gpt-5-nano,OpenAI,21.48148148148148,20,GPT-5 nano (high),gpt-5-nano,True,False
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,Mistral-Small-3.2,Mistral,21.97530864197531,11,Mistral Small 3.2,mistral-small-3-2,False,False
+GaleneAI/Magistral-Small-2509-FP8-Dynamic,Magistral-Small,Mistral,23.333333333333332,11,Magistral Small 1.2,magistral-small-2509,False,False
+meta-llama/llama-4-maverick,llama-4-maverick,Meta,24.444444444444443,14,Llama 4 Maverick,llama-4-maverick,False,False
+deepseek/deepseek-chat-v3-0324,deepseek-chat-v3,DeepSeek,26.358024691358025,15,DeepSeek V3 0324,deepseek-v3-0324,False,False
+openai/gpt-oss-120b,gpt-oss-120b,OpenAI,29.753086419753085,24,gpt-oss-120b (high),gpt-oss-120b,False,False
+Qwen/Qwen3.6-35B-A3B-FP8,Qwen3.6-35B,Alibaba,30.617283950617285,32,Qwen3.6 35B A3B (Reasoning),qwen3-6-35b-a3b,False,False
+qwen3-next-80b-a3b-instruct,qwen3-next-80b,Alibaba,30.617283950617285,14,Qwen3 Next 80B A3B Instruct,qwen3-next-80b-a3b-instruct,True,False
+qwen/qwen3-235b-a22b-thinking-2507,qwen3-235b-think,Alibaba,31.11111111111111,20,Qwen3 235B A22B 2507 (Reasoning),qwen3-235b-a22b-instruct-2507-reasoning,False,False
+qwen/qwen3.5-122b-a10b,qwen3.5-122b,Alibaba,32.96296296296296,33,Qwen3.5 122B A10B (Reasoning),qwen3-5-122b-a10b,False,False
+deepseek/deepseek-r1-0528,deepseek-r1,DeepSeek,33.20987654320987,20,DeepSeek R1 0528 (May '25),deepseek-r1,True,False
+openai/gpt-5-mini,gpt-5-mini,OpenAI,34.81481481481482,26,GPT-5 mini (high),gpt-5-mini,False,False
+anthropic/claude-haiku-4.5,claude-haiku-4.5,Anthropic,34.81481481481482,30,Claude 4.5 Haiku (Reasoning),claude-4-5-haiku-reasoning,False,False
+google/gemini-2.5-flash-lite,gemini-2.5-fl-lite,Google,35.18518518518518,11,Gemini 2.5 Flash-Lite (Reasoning),gemini-2-5-flash-lite-reasoning,True,False
+deepseek/deepseek-v3.2,deepseek-v3.2,DeepSeek,36.79012345679013,33,DeepSeek V3.2 (Reasoning),deepseek-v3-2-reasoning,True,False
+mistralai/Mistral-Medium-3.5-128B,Mistral-Med-3.5,Mistral,37.407407407407405,30,Mistral Medium 3.5,mistral-medium-3-5,False,False
+mistralai/mistral-large-2512,mistral-large,Mistral,37.839506172839506,16,Mistral Large 3,mistral-large-3,False,False
+qwen/qwen3.5-397b-a17b,qwen3.5-397b,Alibaba,41.48148148148148,34,Qwen3.5 397B A17B (Reasoning),qwen3-5-397b-a17b,False,False
+deepseek-ai/DeepSeek-V4-Flash-0731,DeepSeek-V4-Flash-0731,DeepSeek,43.76543209876543,52,"DeepSeek V4 Flash 0731 (Reasoning, High Effort)",deepseek-v4-flash-0731,False,True
+google/gemini-3.7-flash,gemini-3.7-flash,Google,67.09876543209876,56,Gemini 3.7 Flash (High),gemini-3-7-flash-high,True,False
+anthropic/claude-opus-5,Claude-Opus-5,Anthropic,76.41975308641975,63,"Claude Opus 5 (Adaptive Reasoning, Max Effort)",claude-opus-5,False,True

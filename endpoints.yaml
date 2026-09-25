@@ -1,0 +1,261 @@
+# LLM Endpoint Routing Configuration
+# ------------------------------------
+# Each named endpoint needs a `base_url` and `token_env` (name of the env var holding the key).
+# Models not listed under `models:` fall through to `default_endpoint`.
+# Add a `model_id` override when the endpoint expects a different identifier than the one
+# used in this codebase (e.g. native OpenAI API needs "gpt-5-mini", not "openai/gpt-5-mini").
+
+endpoints:
+  openrouter:
+    base_url: "https://openrouter.ai/api/v1"
+    token_env: "openrouter_api"
+
+  nhr_fau:
+    base_url: "https://hub.nhr.fau.de/api/llmgw/v1"
+    token_env: "nhr_fau_api"
+
+  innkube:
+    base_url: "https://llms.innkube.fim.uni-passau.de"
+    token_env: "innkube_api"
+
+  openai_direct:
+    base_url: "https://api.openai.com/v1"
+    token_env: "OPENAI_API_KEY"
+
+  anthropic_direct:
+    base_url: "https://api.anthropic.com/v1"
+    token_env: "ANTHROPIC_API_KEY"
+
+  deepseek_direct:
+    base_url: "https://api.deepseek.com/v1"
+    token_env: "DEEPSEEK_API_KEY"
+
+  google_direct:
+    base_url: "https://generativelanguage.googleapis.com/v1beta/openai"
+    token_env: "GOOGLE_API_KEY"
+
+  mistral_direct:
+    base_url: "https://api.mistral.ai/v1"
+    token_env: "MISTRAL_API_KEY"
+
+  local_vllm:
+    base_url: "http://localhost:8000/v1"
+    token_env: "VLLM_API_KEY"   # set VLLM_API_KEY=EMPTY in .env for local servers
+
+# Default endpoint used for any model not explicitly listed below.
+default_endpoint: openrouter
+
+# Per-model routing.
+# Keys are the model IDs as used in config.py / experiment scripts.
+# `endpoint`  — which named endpoint above to use.
+# `model_id`  — optional; overrides the model identifier sent to the API.
+#               Use this when a native endpoint expects a different format
+#               (e.g. strip the "openai/" prefix for the real OpenAI API).
+#
+# Uncomment / edit entries to reroute a model.  Everything else stays on `default_endpoint`.
+models:
+  # --- OpenAI direct ---
+  # "openai/gpt-5-mini":
+  #   endpoint: openai_direct
+  #   model_id: "gpt-5-mini"
+  # "openai/gpt-5":
+  #   endpoint: openai_direct
+  #   model_id: "gpt-5"
+  # "openai/gpt-4o-2024-11-20":
+  #   endpoint: openai_direct
+  #   model_id: "gpt-4o-2024-11-20"
+
+  # "openai/gpt-5-mini":
+  #   endpoint: openai_direct
+  #   model_id: "gpt-5-mini"
+  # "openai/gpt-5.4-nano-2026-03-17":
+  #   endpoint: openai_direct
+  #   model_id: "gpt-5.4-nano-2026-03-17"
+
+  # --- Anthropic direct ---
+  # "anthropic/claude-haiku-4.5":
+  #   endpoint: anthropic_direct
+  #   model_id: "claude-haiku-4-5-20251001"
+  # "anthropic/claude-sonnet-4.5":
+  #   endpoint: anthropic_direct
+  #   model_id: "claude-sonnet-4-5"
+
+  # --- DeepSeek direct ---
+  # "deepseek/deepseek-v3.2":
+  #   endpoint: deepseek_direct
+  #   model_id: "deepseek-chat"
+  # "deepseek/deepseek-r1-0528":
+  #   endpoint: deepseek_direct
+  #   model_id: "deepseek-reasoner"
+
+  # --- Google direct ---
+  # "google/gemini-2.5-flash":
+  #   endpoint: google_direct
+  #   model_id: "gemini-2.5-flash"
+
+  # --- NHR@FAU ---
+  #
+  # ############################################################
+  # ##  "deepseek-ai/DeepSeek-V4-Flash" IS DEAD.               ##
+  # ##  The live deployment is  ...-V4-Flash-0731.             ##
+  # ##  The unsuffixed key is kept ONLY so existing code and    ##
+  # ##  stored CSVs that carry the old name keep resolving;     ##
+  # ##  it is an alias, not a deployment. Use -0731 in new      ##
+  # ##  code. Do not "restore" the unsuffixed model_id.         ##
+  # ############################################################
+  #
+  # Calling the unsuffixed group directly gets a LiteLLM 500 in under two
+  # seconds -- it cannot reach aquavan2.rrze.uni-erlangen.de:8000 at all,
+  # 15/15 probes on 2026-09-11. That is not an outage to wait out. It is a
+  # name that no longer routes anywhere, and it is what failed the DeepSeek
+  # judge seat on every LS arm that morning and what seventeen attempts at the
+  # oracle top-10 arm ran into before anyone looked at the error text.
+  #
+  # How the name came to lag the weights:
+  #
+  #   until 2026-08-01  "deepseek-ai/DeepSeek-V4-Flash" served the old (April)
+  #                     weights.
+  #   from 2026-08-01   FAU swapped in the 0731 checkpoint *without renaming the
+  #                     model*, announced only as a line on their website. It
+  #                     took weeks to notice, and the runs that straddled it had
+  #                     to be redone -- paper_table.MAIN_NORAG is the -0731
+  #                     re-generation for exactly this reason.
+  #   from 2026-09      after the week-long outage the deployment came back
+  #                     under its proper name, "...-V4-Flash-0731", and the old
+  #                     name stopped routing.
+  #
+  # So every DeepSeek result in the paper is 0731 weights; some of it was
+  # generated while the endpoint still called them by the old name. The name in
+  # a CSV does not identify the checkpoint -- the date does. What this aliasing
+  # does NOT fix is data from before 2026-08-01, which is on the April weights
+  # and must not be differenced against anything after it.
+  #
+  # Probe before queueing a long run (~55 tok/s cold; repeat probes hit the
+  # prompt cache and read far higher, so do not plan against those):
+  #
+  #   cd experiments && PYTHONPATH=analysis \
+  #     python analysis/endpoint_probe.py deepseek-ai/DeepSeek-V4-Flash-0731
+  #
+  # legacy alias -- see the banner above
+  "deepseek-ai/DeepSeek-V4-Flash":
+    endpoint: nhr_fau
+    model_id: "deepseek-ai/DeepSeek-V4-Flash-0731"
+  # the live deployment
+  "deepseek-ai/DeepSeek-V4-Flash-0731":
+    endpoint: nhr_fau
+    model_id: "deepseek-ai/DeepSeek-V4-Flash-0731"
+
+  # ############################################################
+  # ##  FALLBACK when NHR@FAU is down: OpenRouter, provider    ##
+  # ##  PINNED TO DeepInfra. Validated 2026-09-12.             ##
+  # ############################################################
+  #
+  # The provider matters more than the price. All of these serve the same 0731
+  # slug; only one reproduces the FAU seat.
+  #
+  #   DeepInfra   fp8   $0.06/$0.18   maxout 384,000   delta  -1.25, |d| 6.25, corr 0.896
+  #   Morph       bf16  $0.12/$0.35   maxout 943,718   delta +13.75, |d| 16.25 -- scores high
+  #   OpenInference fp8 $0.03/$0.07   maxout 393,216   11 of 12 prompts refused
+  #   Baidu       fp8   $0.04/$0.12   maxout 131,072   -- below the 384K DeepSeek
+  #                                                      recommends for high effort
+  #
+  # Measured against _gold_top10, the only arm carrying FAU DeepSeek judgements,
+  # on 8 cases stratified over its stored score range. The yardstick is the same
+  # judge re-run against itself on FAU, which lands at |d| 6.42 (Qwen3.6) and
+  # 8.46 (gpt-oss) with 33-40% exact agreement -- so DeepInfra's 6.25 and 38% is
+  # inside this judge's own run-to-run noise, not an instrument change.
+  #
+  # Send NO temperature, NO top_p and NO max_tokens, exactly as scoring.Judge
+  # already does. The model ships generation_config.json with temperature 1.0 and
+  # top_p 1.0 -- the DeepSeek team's non-agentic recommendation -- and both vLLM
+  # servings inherit it, which is *why* the two agree. Pinning the values should
+  # be equivalent but is not what was validated. A max_tokens cap is actively
+  # harmful: DeepSeek recommends 384K output for high reasoning effort, and a
+  # 16,000 cap made three providers spend the whole budget on reasoning and
+  # return zero visible text.
+  #
+  # OpenInference's failure is not quantisation and not the chat template: it
+  # reads the prompt at the same token count as FAU (22,805 vs 22,959 for the
+  # same bytes), honours reasoning_effort, then spends 18,835 reasoning tokens
+  # and emits a 937-char stub claiming the essay was not supplied. Reasoning
+  # disabled, the same prompt yields a full 6,043-char verdict.
+  #
+  # llm.py Generator takes provider={...} to pin this; it reaches OpenRouter's
+  # extra_body untouched:
+  #
+  #   scoring.Judge(model='deepseek/deepseek-v4-flash-0731',
+  #                 provider={'order': ['DeepInfra'], 'allow_fallbacks': False,
+  #                           'data_collection': 'deny'})
+  #
+  # data_collection: deny keeps routing to providers that do not retain prompts;
+  # DeepInfra accepts it.
+  "deepseek/deepseek-v4-flash-0731":
+    endpoint: openrouter
+    model_id: "deepseek/deepseek-v4-flash-0731"
+  # NOT a fallback: OpenRouter names this one "DeepSeek V4 Flash 0423" -- the
+  # April weights, which must not be differenced against anything after
+  # 2026-08-01.
+  # "deepseek/deepseek-v4-flash":
+  "openai/gpt-oss-120b":
+    endpoint: nhr_fau
+    model_id: "gpt-oss-120b"
+  "Qwen/Qwen3.6-35B-A3B-FP8":
+    endpoint: nhr_fau
+    model_id: "Qwen/Qwen3.6-35B-A3B-FP8"
+  "google/gemma-4-E4B-it":
+    endpoint: nhr_fau
+    model_id: "google/gemma-4-E4B-it"
+  "GaleneAI/Magistral-Small-2509-FP8-Dynamic":
+    endpoint: nhr_fau
+    model_id: "GaleneAI/Magistral-Small-2509-FP8-Dynamic"
+  "Microsoft/Phi-4-mini-instruct":
+    endpoint: nhr_fau
+    model_id: "Microsoft/Phi-4-mini-instruct"
+  "MiniMaxAI/MiniMax-M3-MXFP8":
+    endpoint: nhr_fau
+    model_id: "MiniMaxAI/MiniMax-M3-MXFP8"
+  "RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8":
+    endpoint: nhr_fau
+    model_id: "RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8"
+  "RedHatAI/gemma-4-31B-it-FP8-block":
+    endpoint: nhr_fau
+    model_id: "RedHatAI/gemma-4-31B-it-FP8-block"
+  "ibm-granite/granite-4.1-3b":
+    endpoint: nhr_fau
+    model_id: "ibm-granite/granite-4.1-3b"
+  "mistralai/Mistral-Medium-3.5-128B":
+    endpoint: nhr_fau
+    model_id: "mistralai/Mistral-Medium-3.5-128B"
+  "moonshotai/Kimi-K2.6":
+    endpoint: nhr_fau
+    model_id: "moonshotai/Kimi-K2.6"
+
+  # --- InnKube (Uni Passau) ---
+  # "gemma4-31b-it":
+  #   endpoint: innkube
+  #   model_id: "gemma4-31b-it"
+
+  "qwen36-35b":
+    endpoint: innkube
+    model_id: "qwen36-35b"
+
+  "qwen3-next-80b-a3b-instruct":
+    endpoint: innkube
+    model_id: "qwen3-next-80b-a3b-instruct"
+
+  # --- Local VLLM ---
+  # "meta-llama/llama-3.1-8b-instruct":
+  #   endpoint: local_vllm
+
+  "mistralai/Ministral-3-14B-Reasoning-2512":
+    endpoint: local_vllm
+  "Qwen/Qwen2.5-1.5B-Instruct":
+    endpoint: local_vllm
+    model_id: "qwen25"
+  "windprak/open_steuerllm":
+    endpoint: local_vllm
+  "utter-project/EuroLLM-22B-Instruct-2512":
+    endpoint: local_vllm
+  "google/gemma-4-31B-it":
+    endpoint: local_vllm
+

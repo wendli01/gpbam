@@ -1,0 +1,25 @@
+% Qwen3.6-35B re-run: same model, same prompts, ~1 month apart
+\begin{tabular}{llr}
+\toprule
+Level & Statistic & Value \\
+\midrule
+essay & n & 2429 \\
+essay & mean delta & 0.19 \\
+essay & sd delta & 8.4 \\
+essay & mean |delta| & 5.69 \\
+essay & identical % & 49.4 \\
+essay & within one 10-pt step % & 94.2 \\
+essay & pearson r & 0.886 \\
+model & n models & 30 \\
+model & mean delta & 0.18 \\
+model & SEM & 0.15 \\
+model & t / p & 1.21 / 0.235 \\
+model & mean |delta| & 0.66 \\
+model & max |delta| & 1.85 \\
+model & pearson r & 0.9986 \\
+model & kendall tau-b & 0.985 \\
+rank & models moving at all & 6/30 \\
+rank & moving >=2 places & 0/30 \\
+rank & top-5 set identical & True \\
+\bottomrule
+\end{tabular}

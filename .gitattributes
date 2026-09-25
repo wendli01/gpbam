@@ -1,0 +1,12 @@
+# No git-LFS on this branch. The only file that was ever tracked through it is
+# experiments/data/kb_corpus.parquet, 49.95 MiB, which sits inside GitHub's
+# per-file limit as an ordinary blob. Storing it directly means a clone needs
+# git alone -- no LFS client, no LFS bandwidth quota between a reader and the
+# corpus the retrieval numbers are computed over.
+experiments/data/*.parquet binary
+
+# Recitation answers are model output: a stray CR inside a quoted statute is
+# part of what the ROUGE-L score was computed on. core.autocrlf=input would
+# silently strip it, so these are committed byte-for-byte.
+experiments/zubaers_result/**/*.csv -text
+experiments/zubaers_result/**/*.jsonl -text

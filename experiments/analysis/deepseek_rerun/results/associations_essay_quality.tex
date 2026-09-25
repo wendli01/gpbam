@@ -1,0 +1,38 @@
+% Associations with essay quality, no retrieval, re-judged panel (2026-08-19/20).
+% Spearman only. Pearson is in the companion CSV with its own bootstrap CI; it
+% is not tabled because on the skewed predictors it measures skew rather than
+% association. Widest |r - rho| in this run: Gen. Cost (\$) (r=0.64 vs rho=0.77).
+% Legal Ref. Sim. is recomputed with one extractor across every row.
+% Judge Tokens is a property of the NEW panel, recomputed from the seats.
+% The published table's Judge Cost row is dropped: every seat is self-hosted,
+% so that column is identically zero.
+% Token rows are correlated on raw counts; the (k) in the label is display-only
+% and rank-neutral.
+% Gen. Cost: reported where the endpoint bills, imputed from OpenRouter list
+% price on 2026-08-20 otherwise (see OR_PRICE). Models with no OpenRouter
+% listing at their size stay out, which is where the shortfall in n comes from.
+% One caveat specific to this row: claude-opus-5 has no usage record at all, so
+% both its tokens and its price are estimated (estimate_tokens.py), and it is
+% the largest x in the column by a factor of six. Dropping it moves rho from
+% +0.769 to +0.741 (n 27 -> 26).
+% Answer Tokens carries the same estimate, from the same place.
+\begin{tabular}{l r r@{\hspace{3pt}}l}
+\toprule
+Predictor & $n$ & \multicolumn{2}{c}{$\rho$ {\tiny[95\% CI]}} \\
+\midrule
+\multicolumn{4}{l}{\emph{Knowledge}} \\
+Article Recitation, GPBam & 32 & 0.88 & {\tiny$[0.69,\,0.96]$} \\
+Article Recitation, Most cited & 32 & 0.81 & {\tiny$[0.56,\,0.92]$} \\
+Artificial Analysis index & 29 & 0.85 & {\tiny$[0.65,\,0.95]$} \\
+\addlinespace[2pt]
+\multicolumn{4}{l}{\emph{Length}} \\
+Answer Tokens (k) & 32 & 0.71 & {\tiny$[0.51,\,0.83]$} \\
+Judge Tokens (k) & 32 & 0.95 & {\tiny$[0.84,\,0.99]$} \\
+\addlinespace[2pt]
+\multicolumn{4}{l}{\emph{Cost}} \\
+Gen. Cost (\$) & 27 & 0.77 & {\tiny$[0.52,\,0.90]$} \\
+\addlinespace[2pt]
+\multicolumn{4}{l}{\emph{Same essay}} \\
+Legal Ref. Sim. & 32 & 0.92 & {\tiny$[0.79,\,0.97]$} \\
+\bottomrule
+\end{tabular}

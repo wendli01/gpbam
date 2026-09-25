@@ -1,0 +1,246 @@
+model,endpoint,dataset,law_book,article,query,target,answer,score,completion_tokens,prompt_tokens,total_cost,finish_reason,time
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,2,gg 2,"(1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt. (2) Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.","# Artikel 2 des Grundgesetzes (GG)
+
+**(1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.**
+
+**(2) Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.**",0.959349593495935,378,157,0.002047,stop,3.309323787689209
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,14,gg 14,"(1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt. (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen. (3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.","# Artikel 14 GG
+
+(1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt.
+
+(2) Eigentum verpflichtet. Sein Gebrauch soll dem Wohle der Allgemeinheit dienen.
+
+(3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie ist nur auf der Grundlage eines Gesetzes zulässig, das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Im Streitfalle über die Höhe der Entschädigung steht der Rechtsweg zu den ordentlichen Gerichten offen.",0.8663101604278075,575,157,0.003032,stop,4.578836917877197
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,12,gg 12,"(1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden. (2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht. (3) Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.","# Artikel 12 Grundgesetz (GG)
+
+**(1)** Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.
+
+**(2)** Niemand darf zu einer Arbeit zwangsverpflichtet werden, außer im Falle einer allgemeinen, für alle gleichen öffentlichen Leistungspflicht.
+
+**(3)** Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.",0.8959999999999999,470,157,0.002507,stop,3.7725412845611572
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,5,gg 5,"(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt. (2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre. (3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.","# Artikel 5 Grundgesetz
+
+**(1)** Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.
+
+**(2)** Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.",0.8670520231213873,562,157,0.002967,stop,4.592166423797607
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,20,gg 20,"(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat. (2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt. (3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden. (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.","# Artikel 20 Grundgesetz (GG)
+
+**(1)** Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+
+**(2)** Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+**(3)** Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die Exekutive und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+**(4)** Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.",0.95906432748538,755,157,0.003932,stop,5.690132141113281
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,3,gg 3,"(1) Alle Menschen sind vor dem Gesetz gleich. (2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin. (3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.","# Artikel 3 des Grundgesetzes (GG)
+
+**(1) Alle Menschen sind vor dem Gesetz gleich.**
+
+**(2) Männer und Frauen sind gleichberechtigt. Der Staat trägt Sorge dafür, dass die Gleichberechtigung von Frauen und Männern in der Berufswelt, in Kultur, Gesellschaft, Familie und Schule verwirklicht wird.**
+
+**(3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen einer Behinderung benachteiligt werden.**",0.7662337662337663,638,157,0.003347,stop,5.328953504562378
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,8,gg 8,"(1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln. (2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.","# Artikel 8 GG - Versammlungsfreiheit
+
+**(1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.**
+
+**(2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.**",0.9487179487179488,350,157,0.001907,stop,3.213409900665283
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,19,gg 19,"(1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen. (2) In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden. (3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind. (4) Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.","# Artikel 19 des Grundgesetzes
+
+**Artikel 19 – Einschränkung von Grundrechten**
+
+(1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für einen einzelnen Fall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.
+
+(2) In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden.
+
+(3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind.
+
+(4) Soweit das Grundgesetz einem Gesetze, das von den Ländern auszugehen hat, einen Vorbehalt macht, kann das entsprechende Grundrecht durch Landesgesetz eingeschränkt werden.",0.6607142857142858,670,157,0.003507,stop,5.3965840339660645
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,34,gg 34,"Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienst er steht. Bei Vorsatz oder grober Fahrlässigkeit bleibt der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und für den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen werden.","# Artikel 34 Grundgesetz
+
+Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortung für den Schaden nach den allgemeinen Grundsätzen des bürgerlichen Rechtes den Staat oder die Körperschaft, in deren Dienst der Beamte steht.",0.5565217391304347,883,157,0.004572,stop,8.46357774734497
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,4,gg 4,"(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich. (2) Die ungestörte Religionsausübung wird gewährleistet. (3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.","# Artikel 4 Grundgesetz (GG)
+
+**(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.**
+
+**(2) Die ungestörte Religionsausübung wird gewährleistet.**
+
+**(3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.**",0.9583333333333334,414,157,0.002227,stop,3.6114096641540527
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,93,gg 93,"(1) Das Bundesverfassungsgericht ist ein allen übrigen Verfassungsorganen gegenüber selbständiger und unabhängiger Gerichtshof des Bundes. (2) Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern; es gliedert sich in zwei Senate. In jeden Senat werden je zur Hälfte vom Bundestag und vom Bundesrat acht Richter gewählt; sie dürfen weder dem Bundestag, dem Bundesrat, der Bundesregierung noch entsprechenden Organen eines Landes angehören. Durch Bundesgesetz nach Absatz 5 kann vorgesehen werden, dass das Wahlrecht vom anderen Wahlorgan ausgeübt werden kann, wenn innerhalb einer zu bestimmenden Frist nach dem Ende der Amtszeit oder dem vorzeitigen Ausscheiden eines Richters eine Wahl seines Nachfolgers nicht zustande kommt. (3) Die Amtszeit der Mitglieder des Bundesverfassungsgerichts dauert zwölf Jahre, längstens bis zum Ende des Monats, in dem das Mitglied das 68. Lebensjahr vollendet. Nach Ablauf der Amtszeit führen die Richter ihre Amtsgeschäfte bis zur Ernennung des Nachfolgers fort. Eine anschließende oder spätere Wiederwahl ist ausgeschlossen. (4) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die das Plenum beschließt. (5) Ein Bundesgesetz regelt die Verfassung und das Verfahren des Bundesverfassungsgerichts. Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein besonderes Annahmeverfahren vorsehen.","# Artikel 93 GG
+
+(1) Das Bundesverfassungsgericht entscheidet über:
+
+1. Verfassungsbeschwerden,
+
+2. im Falle eines Streits zwischen dem Bunde und einem Lande, zwischen verschiedenen Ländern oder zwischen Organen des Bundes über die Einhaltung ihrer gegenseitigen Rechte und Pflichten sowie über die Vereinbarkeit von Bundesrecht mit diesem Grundgesetz, im Falle eines Streits zwischen Organen des Bundes auch über die Beachtung von Verfahrensvorschriften, soweit es sich dabei um in wesentlichen Verfassungsfragen handelt,
+
+2a. die Vereinbarkeit von Landesrecht mit Bundesrecht,
+
+3. die Vereinbarkeit der Handlungen der Organe und Einrichtungen der Europäischen Union mit diesem Grundgesetz und den Rechten aus diesem Grundgesetz,
+
+4. im Falle des Absatzes 1 Nummer 2 und 2a auf Antrag von mindestens einem Drittel der Mitglieder des Bundestages, eines Bundeslandes, des Bundesrates oder der Bundesregierung.
+
+(2) Das Bundesverfassungsgericht entscheidet im übrigen in den Fällen, die dieses Grundgesetz oder ein Bundesgesetz dem Bundesverfassungsgericht ausdrücklich zuweist.",0.13105413105413108,6176,157,0.031037,stop,36.15807366371155
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,28,gg 28,"(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten. (2) Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der Selbstverwaltung umfaßt auch die Grundlagen der finanziellen Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden mit Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle. (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.","# Artikel 28 Grundgesetz (GG)
+
+**(1)** Die Länder müssen eine republikanische, parlamentarische oder präsidentielle, auf allgemeinen, gleichen, unmittelbaren, geheimen Wahlrecht beruhende, von Vertretern des Volkes ausgehende Ordnung haben. Diese muß auch im Bunde gewährleistet sein. Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Die Gemeindeverbände haben im Rahmen ihrer gesetzlichen Befugnisse das Recht der Selbstverwaltung.
+
+**(2)** Die Gemeindeverbände erhalten das Recht, Beiträge von ihren Mitgliedern zur Erfüllung ihrer Aufgaben zu erheben. Im übrigen werden die Einnahmequellen der Gemeinden und Gemeindeverbände durch Bundesgesetz bestimmt.",0.3208191126279864,1014,157,0.005227,stop,6.849056959152222
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,100,gg 100,"(1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren auszusetzen und, wenn es sich um die Verletzung der Verfassung eines Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten zuständigen Gerichtes des Landes, wenn es sich um die Verletzung dieses Grundgesetzes handelt, die Entscheidung des Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um die Verletzung dieses Grundgesetzes durch Landesrecht oder um die Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt. (2) Ist in einem Rechtsstreite zweifelhaft, ob eine Regel des Völkerrechtes Bestandteil des Bundesrechtes ist und ob sie unmittelbar Rechte und Pflichten für den Einzelnen erzeugt (Artikel 25), so hat das Gericht die Entscheidung des Bundesverfassungsgerichtes einzuholen. (3) Will das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes einzuholen.","# Artikel 100 GG - Konkrete Normenkontrolle
+
+**(1)** Wenn ein Gericht die Verfassungsmäßigkeit eines Bundesgesetzes anzweifelt, so muß das Verfahren ausgesetzt werden und das Bundesverfassungsgericht angerufen werden.
+
+**(2)** Ebenso muß, wenn die Verfassungsmäßigkeit eines Landesgesetzes angezweifelt wird und Zweifel bestehen, ob das Gesetz gegen dieses Grundgesetz verstößt, das Bundesverfassungsgericht angerufen werden.
+
+**(3)** Wenn ein Gericht die Entscheidung eines anderen Gerichts über die Verfassungsmäßigkeit eines Bundesgesetzes oder eines Landesgesetzes dahin auslegt, daß das Bundesgesetz oder das Landesgesetz verfassungswidrig ist, so ist die Entscheidung maßgebend für die weitere Entscheidung in dem Verfahren.",0.18473895582329317,1028,157,0.005297,stop,6.65218448638916
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,74,gg 74,"(1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:  1. das bürgerliche Recht, das Strafrecht, die Gerichtsverfassung, das gerichtliche Verfahren (ohne das Recht des Untersuchungshaftvollzugs), die Rechtsanwaltschaft, das Notariat und die Rechtsberatung; 2. das Personenstandswesen; 3. das Vereinsrecht; 4. das Aufenthalts- und Niederlassungsrecht der Ausländer; 5. (weggefallen) 6. die Angelegenheiten der Flüchtlinge und Vertriebenen; 7. die öffentliche Fürsorge (ohne das Heimrecht); 8. (weggefallen) 9. die Kriegsschäden und die Wiedergutmachung; 10. die Kriegsgräber und Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft; 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen) ohne das Recht des Ladenschlusses, der Gaststätten, der Spielhallen, der Schaustellung von Personen, der Messen, der Ausstellungen und der Märkte; 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung; 13. die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung; 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt; 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft; 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung; 17. die Förderung der land- und forstwirtschaftlichen Erzeugung (ohne das Recht der Flurbereinigung), die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz; 18. den städtebaulichen Grundstücksverkehr, das Bodenrecht (ohne das Recht der Erschließungsbeiträge) und das Wohngeldrecht, das Altschuldenhilferecht, das Wohnungsbauprämienrecht, das Bergarbeiterwohnungsbaurecht und das Bergmannssiedlungsrecht; 19. Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei Menschen und Tieren, Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, sowie das Recht des Apothekenwesens, der Arzneien, der Medizinprodukte, der Heilmittel, der Betäubungsmittel und der Gifte; 19a. die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze; 20. das Recht der Lebensmittel einschließlich der ihrer Gewinnung dienenden Tiere, das Recht der Genussmittel, Bedarfsgegenstände und Futtermittel sowie den Schutz beim Verkehr mit land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz; 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen; 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren oder Entgelten für die Benutzung öffentlicher Straßen mit Fahrzeugen; 23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit Ausnahme der Bergbahnen; 24. die Abfallwirtschaft, die Luftreinhaltung und die Lärmbekämpfung (ohne Schutz vor verhaltensbezogenem Lärm); 25. die Staatshaftung; 26. die medizinisch unterstützte Erzeugung menschlichen Lebens, die Untersuchung und die künstliche Veränderung von Erbinformationen sowie Regelungen zur Transplantation von Organen, Geweben und Zellen; 27. die Statusrechte und -pflichten der Beamten der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechts sowie der Richter in den Ländern mit Ausnahme der Laufbahnen, Besoldung und Versorgung; 28. das Jagdwesen; 29. den Naturschutz und die Landschaftspflege; 30. die Bodenverteilung; 31. die Raumordnung; 32. den Wasserhaushalt; 33. die Hochschulzulassung und die Hochschulabschlüsse. (2) Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des Bundesrates.","# Artikel 74 GG
+
+(1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
+
+1. Bürgerliches Recht, Strafrecht und Strafvollzug,
+2. Wehrrecht, Ersatzdienst,
+3. Freizügigkeit, Paßwesen, Melderegister,
+4. Vereins- und Versammlungsrecht,
+5. Aufenthaltsrecht und Aufenthaltsverbote von Ausländern (ausgenommen Arbeitserlaubnis),
+6. Öffentliches Fürsorgewesen, soweit es nicht Unterricht ist,
+7. die Regelung der Entgelte für öffentliche Leistungen,
+8. Maßnahmen gegen gemeingefährliche oder in anderer Weise gemeingefährliche Personen,
+9. Raumordnung, Bodenverteilung, Bodenschutz und Wasserwirtschaft,
+10. Angelegenheiten der Luftfahrt, einschließlich Bau und Betrieb von Flugplätzen und Sicherheitsvorrichtungen,
+11. Verkehrswesen (ohne Eisenbahnen),
+12. Postwesen und Telekommunikation,
+13. Erwerbs- und Berufsausbildung,
+14. Arbeitsrecht einschließlich Arbeitsschutzrecht, Arbeitsgerichtsbarkeit und Sozialversicherung,
+15. Regelung der Rentenschutzklausel,
+16. Arbeitslosenversicherung und Arbeitslosenhilfe,
+17. Unfallversicherung der Arbeiter und Angestellten,
+17a. Ersatz von Einkommen aus Elternzeiten,
+18. Regelung der Entgelte in der Kranken-, Pflege- und Unfallversicherung,
+19. Wirtschaft (ohne Kredit- und Versicherungswesen),
+20. Bergbau, Energiewirtschaft und Kernenergie,
+21. Gewerbe,
+22. Handwerk,
+23. Handelswesen, gewerbliche Wirtschaft,
+24. Lebensmittel- und Bedarfsartikelwirtschaft,
+25. Gaststättenwesen,
+26. Versicherungswesen (ohne Sozialversicherung),
+27. Wechsel-, Scheck-, Effekten- und Waren-Termingeschäfte,
+28. Strafvollzug,
+29. Naturschutz und Landschaftspflege,
+30. Jagdwesen,
+31. Fischerei,
+32. Schiffahrt (außer Binnenschifffahrtsabgaben),
+33. Beförderung gefährlicher Güter,
+34. Öffentliche Abgaben und Gebühren,
+35. Haushaltswirtschaft,
+36. Verbraucherschutz,
+37. Veterinärwesen,
+38. Lebensmittelsicherheit und Tiergesundheit,
+39. Zahnmedizin und zahnärztliche Hilfe,
+40. Gentechnik,
+41. Umweltschutz.
+
+(2) Soweit in diesem Artikel die Gesetzgebung der Länder zulässig ist, können die Länder jederzeit durch Bundesgesetze verdrängt werden.",0.1748768472906404,6608,157,0.033197,stop,30.88403844833374
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,80,gg 80,"(1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung. (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Postwesens und der Telekommunikation, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden. (3) Der Bundesrat kann der Bundesregierung Vorlagen für den Erlaß von Rechtsverordnungen zuleiten, die seiner Zustimmung bedürfen. (4) Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen, sind die Länder zu einer Regelung auch durch Gesetz befugt.","# Art. 80 Grundgesetz
+
+**(1)** Der Bundestag kann durch Gesetz die Bundesregierung, einen Bundesminister oder die oberste Bundesbehörde ermächtigen, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt sein. Die Rechtsverordnung muss, soweit keine abweichende Regelung des Gesetzes vorgesehen ist, vom Bundespräsidenten ausgefertigt und im Bundesgesetzblatt verkündet werden. Sie gilt im übrigen wie ein Gesetz; sie kann, soweit das ermächtigende Gesetz dies vorsieht, durch eine andere Rechtsverordnung geändert oder aufgehoben werden.
+
+**(2)** Der Bundesrat wird, soweit nicht Bundesgesetze anderes bestimmen, bei dem Erlass von Rechtsverordnungen, die auf Grund eines Bundesgesetzes ergehen, auf Antrag oder mit Zustimmung, je nachdem wie es das ermächtigende Gesetz vorsieht, beteiligt.
+
+**(2a)** Eine Rechtsverordnung zur Abwehr einer Gefahr für die Bevölkerung kann der Bundesminister für Gesundheit im Falle einer Epidemie von nationaler Tragweite erlassen. Absatz 1 Satz 2 und 3 findet Anwendung. Die Befugnisse der Länder bleiben unberührt.
+
+**(3)** Der Bundesrat kann Rechtsverordnungen der Bundesregierung und eines Bundesministers verlangen, dass sie der Zustimmung des Bundesrates bedürfen.",0.2917771883289125,1092,157,0.005617,stop,7.900486946105957
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,1,gg 1,"(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt. (3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.","# Artikel 1 Grundgesetz (GG)
+
+**(1)** Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+
+**(2)** Das Deutsche Volk bekennt sich darum zu unveräußerlichen und unverletzlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.
+
+**(3)** Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.",0.9365079365079365,622,157,0.003267,stop,4.608424186706543
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,31,gg 31,Bundesrecht bricht Landesrecht.,"# Artikel 31 des Grundgesetzes (GG)
+
+**""Bundesrecht bricht Landesrecht.""**
+
+Das ist der vollständige Wortlaut von Artikel 31 GG in der aktuellen Fassung.",0.24000000000000002,376,157,0.002037,stop,3.7017390727996826
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,72,gg 72,"(1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder die Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner Gesetzgebungszuständigkeit nicht durch Gesetz Gebrauch gemacht hat. (2) Auf den Gebieten des Artikels 74 Abs. 1 Nr. 4, 7, 11, 13, 15, 19a, 20, 22, 25 und 26 hat der Bund das Gesetzgebungsrecht, wenn und soweit die Herstellung gleichwertiger Lebensverhältnisse im Bundesgebiet oder die Wahrung der Rechts- oder Wirtschaftseinheit im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung erforderlich macht. (3) Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können die Länder durch Gesetz hiervon abweichende Regelungen treffen über:  1. das Jagdwesen (ohne das Recht der Jagdscheine); 2. den Naturschutz und die Landschaftspflege (ohne die allgemeinen Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des Meeresnaturschutzes); 3. die Bodenverteilung; 4. die Raumordnung; 5. den Wasserhaushalt (ohne stoff- oder anlagenbezogene Regelungen); 6. die Hochschulzulassung und die Hochschulabschlüsse; 7. die Grundsteuer. Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates anderes bestimmt ist. Auf den Gebieten des Satzes 1 geht im Verhältnis von Bundes- und Landesrecht das jeweils spätere Gesetz vor. (4) Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.","# Artikel 72 GG (Grundgesetz)
+
+**Artikel 72**
+
+**(1)** Im Bereich der konkurrierenden Gesetzgebung haben die Länder die Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner Befugnis nicht Gebrauch gemacht hat.
+
+**(2)** Der Bund hat im Bereich der konkurrierenden Gesetzgebung das Gesetzgebungsrecht, wenn und soweit die Herstellung gleichwertiger Lebensverhältnisse im Bundesgebiet oder die Wahrung der Rechts- oder Wirtschaftseinheit im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung erforderlich macht.
+
+**(3)** Abweichend von Absatz 2 hat der Bund die ausschließliche Gesetzgebung in folgenden Sachgebieten:
+1. das bürgerliche Recht
+2. das Strafrecht und den Strafvollzug
+3. die Regelung der Abgaben, soweit sie ganz oder teilweise in den Bundeshaushalt fließen
+4. das Zollwesen, die Außenhandelspolitik und die handelspolitischen Verträge
+5. bis 19. [weitere Sachgebiete wie Geldwährung, Luftverkehr, Eisenbahnen, Telekommunikation, etc.]
+
+**(4)** Abweichend von Absatz 2 können die Länder durch Gesetz abweichende Regelungen treffen für:
+1. Naturschutz und Landschaftspflege
+2. Jagdwesen
+3. Denkmalschutz
+4. Hochschulzulassung und Hochschulabschlüsse",0.4123711340206186,3067,157,0.015492,stop,19.322726011276245
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,94,gg 94,"(1) Das Bundesverfassungsgericht entscheidet:  1. über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind; 2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages; 2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes; 3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht; 4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist; 4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein; 4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann; 4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag; 5. in den übrigen in diesem Grundgesetz vorgesehenen Fällen. (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2 Satz 1 nicht mehr erlassen werden könnte. Die Feststellung, dass die Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist. (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig. (4) Die Entscheidungen des Bundesverfassungsgerichts binden die Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und Behörden. Ein Bundesgesetz bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.","# Artikel 94 GG - Bundesverfassungsgericht
+
+**(1) Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern. Die Mitglieder des Bundesverfassungsgerichts werden zur Hälfte vom Bundestag und zur Hälfte vom Bundesrat gewählt. Sie dürfen nicht dem Bundestag, dem Bundesrat, der Bundesregierung oder einem der in Artikel 91 bezeichneten Organe angehören.**
+
+**(2) Das Nähere regelt ein Bundesgesetz.**",0.07827788649706457,885,157,0.004582,stop,6.682590484619141
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,44,gg 44,"(1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner Mitglieder die Pflicht, einen Untersuchungsausschuß einzusetzen, der in öffentlicher Verhandlung die erforderlichen Beweise erhebt. Die Öffentlichkeit kann ausgeschlossen werden. (2) Auf Beweiserhebungen finden die Vorschriften über den Strafprozeß sinngemäß Anwendung. Das Brief-, Post- und Fernmeldegeheimnis bleibt unberührt. (3) Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe verpflichtet. (4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Würdigung und Beurteilung des der Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.","# Artikel 44 GG
+
+**(1)** Der Bundestag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder die Pflicht, einen Untersuchungsausschuss einzusetzen, der die erforderlichen Beweise erhebt.
+
+**(2)** Der Untersuchungsausschuss ist öffentlich. Die Öffentlichkeit kann ausgeschlossen werden.
+
+**(3)** Das Nähere regelt ein Bundesgesetz.",0.38518518518518513,554,157,0.002927,stop,4.1751484870910645
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,bpolg,38,bpolg 38,Die Bundespolizei kann zur Abwehr einer Gefahr eine Person vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten.,"Ich kann die Abkürzung ""bpolg 38"" nicht eindeutig einem deutschen Gesetz zuordnen. 
+
+Könnten Sie präzisieren, welches Gesetz gemeint ist? Mögliche Optionen:
+- **BPolG** (Bundespolizeigesetz)?
+- Ein anderes Bundesgesetz?
+- Ein Landesgesetz?
+- Eine alternative Abkürzung?
+
+Mit der genauen Bezeichnung des Gesetzes kann ich Ihnen den exakten Wortlaut von § 38 bereitstellen.",0.07999999999999999,824,158,0.004278,stop,7.2243006229400635
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,6,gg 6,"(1) Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung. (2) Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft. (3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder aus anderen Gründen zu verwahrlosen drohen. (4) Jede Mutter hat Anspruch auf den Schutz und die Fürsorge der Gemeinschaft. (5) Den unehelichen Kindern sind durch die Gesetzgebung die gleichen Bedingungen für ihre leibliche und seelische Entwicklung und ihre Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.","# Artikel 6 des Grundgesetzes (GG)
+
+**(1)** Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.
+
+**(2)** Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft.
+
+**(3)** Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder sonst zu verwahrlosen drohen.
+
+**(4)** Jede Mutter hat Anspruch auf Schutz und Fürsorge der Gemeinschaft.
+
+**(5)** Den unehelichen Kindern und ihren Müttern sind dieselben Voraussetzungen für Namensgebung, Eheschließung und Ehescheidung zu schaffen wie den ehelichen Kindern. Das Gesetz über die Beurkundung des Abstammungsverhältnisses unehelicher Kinder ist zu regeln.",0.7901234567901235,767,157,0.003992,stop,5.944981336593628
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,101,gg 101,(1) Ausnahmegerichte sind unzulässig. Niemand darf seinem gesetzlichen Richter entzogen werden. (2) Gerichte für besondere Sachgebiete können nur durch Gesetz errichtet werden.,"# Artikel 101 Grundgesetz (GG)
+
+**(1) Außerordentliche Gerichte sind unzulässig. Niemand darf seinem gesetzlichen Richter entzogen werden.**
+
+**(2) Gerichte für besondere Sachgebiete sind zulässig.**",0.6538461538461539,317,157,0.001742,stop,2.8827455043792725
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,38,gg 38,"(1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen. (2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt. (3) Das Nähere bestimmt ein Bundesgesetz.","# Artikel 38 des Grundgesetzes (GG)
+
+**(1)** Die Mitglieder des Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.
+
+**(2)** Wählbar ist, wer das achtzehnte Lebensjahr vollendet hat und die Eigenschaft eines deutschen Staatsangehörigen besitzt.
+
+**(3)** Das Nähere bestimmt ein Bundeswahlgesetz.",0.7441860465116279,492,157,0.002617,stop,4.155492544174194
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,vwvfg,51,vwvfg 51,"(1) Die Behörde hat auf Antrag des Betroffenen über die Aufhebung oder Änderung eines unanfechtbaren Verwaltungsaktes zu entscheiden, wenn  1. sich die dem Verwaltungsakt zugrunde liegende Sach- oder Rechtslage nachträglich zugunsten des Betroffenen geändert hat;   2. neue Beweismittel vorliegen, die eine dem Betroffenen günstigere Entscheidung herbeigeführt haben würden;   3. Wiederaufnahmegründe entsprechend § 580 der Zivilprozessordnung gegeben sind.     (2) Der Antrag ist nur zulässig, wenn der Betroffene ohne grobes Verschulden außerstande war, den Grund für das Wiederaufgreifen in dem früheren Verfahren, insbesondere durch Rechtsbehelf, geltend zu machen. (3) Der Antrag muss binnen drei Monaten gestellt werden. Die Frist beginnt mit dem Tage, an dem der Betroffene von dem Grund für das Wiederaufgreifen Kenntnis erhalten hat. (4) Über den Antrag entscheidet die nach § 3 zuständige Behörde; dies gilt auch dann, wenn der Verwaltungsakt, dessen Aufhebung oder Änderung begehrt wird, von einer anderen Behörde erlassen worden ist. (5) Die Vorschriften des § 48 Abs. 1 Satz 1 und des § 49 Abs. 1 bleiben unberührt.","# § 51 VwVfG - Bekanntgabe durch Aufgabe zur Post
+
+**(1)** Ist die Bekanntgabe durch Aufgabe zur Post vorgesehen, so wird der Verwaltungsakt in einen verschlossenen Umschlag gelegt, auf den der Name und die Anschrift des Empfängers geschrieben werden, und diesem Umschlag wird eine Ausfertigung oder eine Abschrift beigefügt. Der Umschlag wird bei der Post aufgegeben.
+
+**(2)** Als bekanntgegeben gilt der Verwaltungsakt dem Empfänger gegenüber, wenn er ihm ausgehändigt wird. Erfolgt die Aushandigung nicht, so gilt der Verwaltungsakt als bekanntgegeben, wenn der Empfänger durch schriftliche Mitteilung aufgefordert worden ist, ihn bei der Post abzuholen, und wenn er nicht innerhalb von zwei Wochen nach der Aufgabe zur Post abgeholt worden ist.
+
+(Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003, zuletzt geändert durch Gesetz vom 26. Juli 2023)",0.11726384364820847,2487,160,0.012595,stop,17.09721088409424
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,bgb,188,bgb 188,"(1) Eine nach Tagen bestimmte Frist endigt mit dem Ablauf des letzten Tages der Frist. (2) Eine Frist, die nach Wochen, nach Monaten oder nach einem mehrere Monate umfassenden Zeitraum - Jahr, halbes Jahr, Vierteljahr - bestimmt ist, endigt im Falle des § 187 Abs. 1 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher durch seine Benennung oder seine Zahl dem Tage entspricht, in den das Ereignis oder der Zeitpunkt fällt, im Falle des § 187 Abs. 2 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher dem Tage vorhergeht, der durch seine Benennung oder seine Zahl dem Anfangstag der Frist entspricht. (3) Fehlt bei einer nach Monaten bestimmten Frist in dem letzten Monat der für ihren Ablauf maßgebende Tag, so endigt die Frist mit dem Ablauf des letzten Tages dieses Monats.","# § 188 BGB – Berechnung der Frist nach Tagen, Monaten oder Jahren
+
+**(1)** Ist für den Anfang einer Frist ein Ereignis oder in den Lauf eines Tages ein in den Lauf eines Tages fallender Zeitpunkt maßgebend, so wird bei der Berechnung einer Frist nach Tagen nicht der Tag mitgerechnet, in welchen das Ereignis oder der Zeitpunkt fällt.
+
+**(2)** Die Frist endigt im Falle des Absatzes 1 mit dem Ablauf desjenigen Tages, welcher dem Anfangstage entspricht. Fällt dieser Tag in einen Sonntag, einen am Ort üblichen Feiertag oder einen Sonnabend, so endigt die Frist nicht vor dem Ablauf des nächstfolgenden Werktages.
+
+**(3)** Ist für den Anfang einer Frist ein in den Lauf eines Tages fallender Zeitpunkt maßgebend, so wird bei der Berechnung einer Frist nach Monaten oder Jahren nicht der Monat mitgerechnet, in welchen der Zeitpunkt fällt. Die Frist endigt im Falle einer Frist nach Monaten mit dem Ablauf desjenigen Tages des letzten Monats, welcher dem Tage entspricht, in welchen das Ereignis oder der Zeitpunkt fällt, im Falle einer Frist nach Jahren mit dem Ablauf desjenigen Tages des letzten Jahres, welcher dem Tage entspricht, in welchen das Ereignis oder der Zeitpunkt fällt.
+
+**(4)** Fällt der für den Anfang einer Frist nach Monaten oder nach Jahren maßgebende Tag in einen Monat, welcher einen dem Anfangstage entsprechenden Tag nicht hat, so endigt die Frist im Falle einer Frist nach Monaten nicht vor dem Ablauf des letzten Tages dieses Monats, im Falle einer Frist nach Jahren nicht vor dem Ablauf des auf den Monat des Anfangstages folgenden Monats.",0.3407407407407408,2227,157,0.011292,stop,11.053279638290405
+anthropic/claude-haiku-4.5,openrouter,GPBam Laws,gg,30,gg 30,"Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.","# Artikel 30 GG
+
+""Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit das Grundgesetz keine abweichende Regelung trifft oder zulässt.""",0.8474576271186439,335,157,0.001832,stop,3.2583975791931152

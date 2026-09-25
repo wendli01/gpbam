@@ -1,0 +1,7 @@
+case 0 effort=high    409.4s  compl=  9978 reason_chars=  15634 answer_chars= 16635 finish=stop
+case 0 effort=max   FAILED after 1801s: InternalServerError: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received a

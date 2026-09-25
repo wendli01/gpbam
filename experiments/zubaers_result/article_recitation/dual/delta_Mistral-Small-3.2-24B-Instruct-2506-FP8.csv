@@ -1,0 +1,442 @@
+model,endpoint,dataset,law_book,article,query,target,answer,score,completion_tokens,prompt_tokens,total_cost,finish_reason,time
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,2,gg 2,"(1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt. (2) Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.","Der genaue Wortlaut von § 2 des Grundgesetzes (GG) lautet:
+
+""Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.""
+
+Dieser Paragraph ist Teil des ersten Abschnitts des Grundgesetzes, der die Grundrechte garantiert.",0.5585585585585586,83,84,,stop,1.0819649696350098
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,14,gg 14,"(1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt. (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen. (3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.","Der genaue Wortlaut von § 14 des Grundgesetzes (GG) der Bundesrepublik Deutschland lautet:
+
+**§ 14 (Grundrecht auf Eigentum)**
+
+(1) Das Grundrecht auf Eigentum wird gewährleistet. Es wird durch die Verpflichtung der Eigentümer zur Sozialbindung ihres Eigentums und durch Gesetze bestimmt, die das Bestehen des Eigentums sichern. Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig.
+
+(2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.
+
+(3) Eine Enteignung ist nur gegen Entschädigung zulässig. Die Entschädigung ist unter Berücksichtigung der sozialen und wirtschaftlichen Verhältnisse gerade zu bestimmen. Bei Enteignungen, die durch oder im Auftrag der öffentlichen Gewalt erfolgen, ist eine angemessene Entschädigung zu leisten. Die Höhe der Entschädigung ist unter Berücksichtigung der wirtschaftlichen Verhältnisse zu bestimmen.
+
+(4) Das Gesetz regelt das Ausmaß, in dem bei einer Enteignung Entschädung zu leisten ist.
+
+(5) Eine Enteignung darf nur durch oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung bestimmt.",0.3424124513618677,269,85,,stop,3.5241880416870117
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,12,gg 12,"(1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden. (2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht. (3) Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.","§ 12 BGB (Bürgerliches Gesetzbuch) lautet wie folgt:
+
+""Die Rechtsfähigkeit des Menschen beginnt mit der Geburt. Mit dem Tode endet sie.""
+
+Dies ist der aktuelle Wortlaut gemäß der neuesten Fassung des Bürgerlichen Gesetzbuchs (BGB).",0.04081632653061224,58,85,,stop,0.757035493850708
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,5,gg 5,"(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt. (2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre. (3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.","Der genaue Wortlaut von § 5 des Grundgesetzes (GG) lautet:
+
+**§ 5 (1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.**
+
+**(2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.**
+
+**(3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.**",0.9500000000000001,162,84,,stop,1.9970335960388184
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,20,gg 20,"(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat. (2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt. (3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden. (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.","Der genaue Wortlaut von § 20 des Grundgesetzes (GG) lautet:
+
+**§ 20**
+(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+
+(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+(3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+(4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.",0.9438202247191011,157,85,,stop,3.5217912197113037
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,3,gg 3,"(1) Alle Menschen sind vor dem Gesetz gleich. (2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin. (3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.","§ 3 der Grundgesetzes (GG) lautet:
+
+""(1) Alle Menschen sind vor dem Gesetz gleich.
+
+(2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin.
+
+(3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen oder seiner sexuellen Identität benachteiligt oder bevorzugt werden. Niemand darf wegen einer Behinderung benachteiligt werden.""",0.923076923076923,137,84,,stop,1.696441411972046
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,8,gg 8,"(1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln. (2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.","Der genaue Wortlaut von § 8 des Grundgesetzes (GG) der Bundesrepublik Deutschland lautet:
+
+**§ 8 Allgemaine Handlungsfreiheit**
+(1) Alle Deutschen haben das Recht, sich friedlich und ohne Waffen zu versammeln.
+(2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.
+
+Quelle: Grundgesetz für die Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2020 (BGBl. I S. 3348) geändert worden ist.",0.532258064516129,154,84,,stop,3.5206029415130615
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,19,gg 19,"(1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen. (2) In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden. (3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind. (4) Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.","Der genaue Wortlaut von § 19 des Grundgesetzes (GG) lautet:
+
+**§ 19 GG (Recht auf Freiheit der Person)**
+
+(1) Jeder Deutsche hat das Recht, überall in den Grenzen des Grundgesetzes zu verkehren und sich an jedem Orte aufzuhalten.
+
+(2) Die Freiheit der Person ist unverletzlich. Verhaftungen dürfen nur auf Grund eines richterlichen Beschlusses erfolgen.
+
+(3) Die durch richterliche Entscheidung oder durch Gesetz bestimmte Vorläufige Festnahme ist, wenn sie nicht unverzüglich dem Richter vorgeführt wird, dem Beschuldigten gegenüber zu begründen. Bei jeder anderen Eingriff in die persönliche Freiheit ist dem Betroffenen unverzüglich eine richterliche Entscheidung über die Zulässigkeit des Eingriffs zuzustellen.
+
+(4) Die Polizei und die Behörden des Maßregelvollzugs dürfen Personen, die sie bei Begehung einer rechtswidrigen Tat auf frischer Tat betroffen haben sowie Personen, gegen die ein Haftbefehl vorliegt, vorläufig festnehmen. Die Polizei darf zur Verhinderung flüchtiger Personen, die auf frischer Tat betroffen werden, unmittelbaren Zwang anwenden.
+
+(5) Jeder wegen eines in Betracht kommenden Vergehens oder wegen Übertretung Vorläufig festgenommene Person ist unverzüglich zu entlassen, wenn sich herausstellt, dass die Voraussetzungen für die Vorläufige Festnahme nicht vorliegen.
+
+(6) Die Vorläufige Festnahme ist dem Richter unverzüglich anzuzeigen und von ihm zu prüfen. Die Untersuchung des Richters hat unverzüglich zu erfolgen.
+
+(7) Jeder, der durch öffentliche Gewalt in seinen Rechten verletzt ist, steht unter dem besonderen Schutz des Staates.
+
+(8) Die Vollstreckung einer Freiheitsstrafe und ihre Vollstreckung im Vollzug sind dem Richter zu überlassen.
+
+(9) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind nur zulässig, wenn eine richterliche Entscheidung nicht rechtzeitig eingeholt werden kann.
+
+(10) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind unverzüglich dem Richter vorzuführen, der über die Zulässigkeit der Maßnahme zu entscheiden hat.
+
+(11) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind dem Betroffenen gegen über zu begründen, wenn er nicht unverzüglich dem Richter vorgeführt wird.
+
+(12) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind unverzüglich dem Richter anzuzeigen, der über die Zulässigkeit der Maßnahme zu entscheiden hat.
+
+(13) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind unverzüglich dem Richter vorzuführen, der über die Zulässigkeit der Maßnahme zu entscheiden hat.
+
+(14) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind dem Betroffenen gegen über zu begründen, wenn er nicht unverzüglich dem Richter vorgeführt wird.
+
+(15) Die Vorläufige Festnahme und die Vorläufige Freiheitsentziehung sind unverzüglich dem Richter anzuzeigen, der über die Zulässigkeit der Maßnahme zu entscheiden hat.",0.09009009009009009,692,85,,stop,8.236260175704956
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,34,gg 34,"Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienst er steht. Bei Vorsatz oder grober Fahrlässigkeit bleibt der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und für den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen werden.","§ 34 der Strafprozessordnung (StPO) lautet wie folgt:
+
+""§ 34 Vernehmung des Beschuldigten
+
+(1) Der Beschuldigte ist über sein Recht zu belehren, sich zu der Beschuldigung zu äußern oder nicht. Er ist auch zu belehren, dass er sich zu jeder Zeit eines Verteidigers bedienen kann und, wenn er sich einen Verteidiger nicht selbst besorgen kann, einen Pflichtverteidiger zu stellen ist. Die Belehrung ist zu Protokoll zu nehmen.
+
+(2) Der Beschuldigte kann sich zu der Beschuldigung äußern oder nicht. Er kann sich auch entschließungsunfähig erklären. Die Erklärung, sich nicht äußern zu wollen, oder die Erklärung, sich entschließungsunfähig zu erklären, darf nicht zue Lasten des Beschuldigten ausgelegt werden.
+
+(3) Der Beschuldigte kann sich auch nach der ersten Vernehmung jederzeit äußern. Er kann seine Aussage jederzeit ergänzen oder berichtigen.
+
+(4) Der Beschuldigte kann die Vernehmung ablehnen, wenn er sich dadurch selbst belasten würde. Dies gilt nicht, wenn er als Zeuge vernommen wird.""",0.07964601769911504,255,85,,stop,3.073038339614868
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,4,gg 4,"(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich. (2) Die ungestörte Religionsausübung wird gewährleistet. (3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.","Der genaue Wortlaut von § 4 des Grundgesetzes (GG) lautet:
+
+**§ 4 (Grundrecht auf Glaubens-, Gewissens- und Bekenntnisfreiheit)**
+
+(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
+
+(2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, die die öffentliche Sicherheit und Ordnung, die Gesundheit und das moralische Empfinden der anderen Mitglieder der Gesellschaft schützen.
+
+(3) Niemand darf gegen seinen Willen einem besonderen Stand oder einer besonderen Lebensordnung unterworfen werden.",0.39682539682539686,143,84,,stop,1.7647905349731445
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,93,gg 93,"(1) Das Bundesverfassungsgericht ist ein allen übrigen Verfassungsorganen gegenüber selbständiger und unabhängiger Gerichtshof des Bundes. (2) Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern; es gliedert sich in zwei Senate. In jeden Senat werden je zur Hälfte vom Bundestag und vom Bundesrat acht Richter gewählt; sie dürfen weder dem Bundestag, dem Bundesrat, der Bundesregierung noch entsprechenden Organen eines Landes angehören. Durch Bundesgesetz nach Absatz 5 kann vorgesehen werden, dass das Wahlrecht vom anderen Wahlorgan ausgeübt werden kann, wenn innerhalb einer zu bestimmenden Frist nach dem Ende der Amtszeit oder dem vorzeitigen Ausscheiden eines Richters eine Wahl seines Nachfolgers nicht zustande kommt. (3) Die Amtszeit der Mitglieder des Bundesverfassungsgerichts dauert zwölf Jahre, längstens bis zum Ende des Monats, in dem das Mitglied das 68. Lebensjahr vollendet. Nach Ablauf der Amtszeit führen die Richter ihre Amtsgeschäfte bis zur Ernennung des Nachfolgers fort. Eine anschließende oder spätere Wiederwahl ist ausgeschlossen. (4) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die das Plenum beschließt. (5) Ein Bundesgesetz regelt die Verfassung und das Verfahren des Bundesverfassungsgerichts. Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein besonderes Annahmeverfahren vorsehen.","§ 93 der Strafprozessordnung (StPO) lautet wie folgt:
+
+**(1) Der Beschuldigte kann sich in jeder Lage des Verfahrens eines Verteidigers bedienen. Der Beschuldigte, gegen den ein Haftbefehl vollstreckt wird, hat einen Verteidiger zu beauftragen oder sich einen Verteidiger geben zu lassen. Dies gilt auch, wenn gegen den Beschuldigten Untersuchungshaft angeordnet wird.**
+
+**(2) Der Beschuldigte, dem ein Verteidiger nicht bekannt ist, hat auf Verlangen die zur Bestellung eines Verteidigers erforderlichen Anzeigen zu machen. Er kann auch die Bestellung eines Verteidigers durch das Gericht beantragen. Das Gericht hat dem Antrag zu entsprechen, wenn der Beschuldigte nicht in der Lage ist, einen Verteidiger selbst zu beauftragen oder sich einen Verteidiger geben zu lassen.**
+
+**(3) Der Beschuldigte, dem ein Verteidiger nicht bekannt ist, kann auch die Bestellung eines Verteidigers durch das Gericht beantragen, wenn er sich in einer Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint. Das Gericht hat dem Antrag zu entsprechen, wenn die Mitwirkung eines Verteidigers geboten erscheint.**
+
+**(4) Der Beschuldigte kann die Bestellung eines Verteidigers auch dann beantragen, wenn er sich in einer Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint und er sich nicht in Haft befindet. Das Gericht hat dem Antrag zu entsprechen, wenn die Mitwirkung eines Verteidigers geboten erscheint.**
+
+**(5) Der Beschuldigte kann die Bestellung eines Verteidigers auch dann beantragen, wenn er sich in einer Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint und er sich nicht in Haft befindet und er nicht in der Lage ist, einen Verteidiger selbst zu beauftragen oder sich einen Verteidiger geben zu lassen. Das Gericht hat dem Antrag zu entsprechen, wenn die Mitwirkung eines Verteidigers geboten erscheint.**
+
+**(6) Der Beschuldigte kann die Bestellung eines Verteidigers auch dann beantragen, wenn er sich in einer Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint und er sich nicht in Haft befindet und er nicht in der Lage ist, einen Verteidiger selbst zu beauftragen oder sich einen Verteidiger geben zu lassen und er sich in einer besonderen Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint. Das Gericht hat dem Antrag zu entsprechen, wenn die Mitwirkung eines Verteidigers geboten erscheint.**
+
+**(7) Der Beschuldigte kann die Bestellung eines Verteidigers auch dann beantragen, wenn er sich in einer Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint und er sich nicht in Haft befindet und er nicht in der Lage ist, einen Verteidiger selbst zu beauftragen oder sich einen Verteidiger geben zu lassen und er sich in einer besonderen Lage befindet, in der die Mitwirkung eines Verteidigers geboten erscheint und er nicht in der Lage ist, einen Verteidiger selbst zu beauftragen oder sich einen Verteidiger geben zu lassen. Das Gericht hat dem Antrag zu entsprechen, wenn die Mitwirkung eines Verteidigers geboten erscheint.**",0.09436834094368342,678,85,,stop,8.04676866531372
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,28,gg 28,"(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten. (2) Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der Selbstverwaltung umfaßt auch die Grundlagen der finanziellen Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden mit Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle. (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.","§ 28 Grundgesetz (GG) lautet wie folgt:
+
+""(1) Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.
+
+(2) Freiheitsentziehende Maßnahmen dürfen nur durch ein Gericht, bei Gefahr im Verzuge auch durch andere Stellen angeordnet werden.
+
+(3) Über die Zulässigkeit und Fortdauer der Freiheitsentziehung hat nur das Gericht zu entscheiden.
+
+(4) Die Polizei darf Personen auf Grund eines richterlichen Haftbefehls festnehmen oder, wenn sie auf frischer Tat betroffen oder der auf frischer Tat Betroffene flüchtig ist, ohne solchen Haftbefehl. Der Festgenommene ist unverzüglich zu benachrichtigen.
+
+(5) Jeder wegen einer strafbaren Handlung in Haft gehaltene Person hat das Recht, ohne Verzögerung einem Richter vorgeführt zu werden, der ihn über die gegen ihn erhobenen Anschuldigungen unterrichtet und ihm Gelegenheit gibt, sich zu verteidigen.
+
+(6) Mit der Festnahme ist eine Person, die des unerlaubten Verlassens der Wohnung oder des unerlaubten Verlassens des Aufenthaltsorts verdächtig ist, unverzüglich zu benachrichtigen.
+
+(7) Jeder in Haft gehaltene Person hat das Recht, einen Verteidiger zu wählen. Dieser hat das Recht, ihn zu besuchen und mit ihm zu sprechen.
+
+(8) Die Vollstreckung einer Freiheitsstrafe und eines Arrêts darf nur durch ein Gericht angeordnet werden.
+
+(9) Die Todesstrafe ist abgeschafft.""",0.12151898734177216,330,85,,stop,3.895418643951416
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,100,gg 100,"(1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren auszusetzen und, wenn es sich um die Verletzung der Verfassung eines Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten zuständigen Gerichtes des Landes, wenn es sich um die Verletzung dieses Grundgesetzes handelt, die Entscheidung des Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um die Verletzung dieses Grundgesetzes durch Landesrecht oder um die Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt. (2) Ist in einem Rechtsstreite zweifelhaft, ob eine Regel des Völkerrechtes Bestandteil des Bundesrechtes ist und ob sie unmittelbar Rechte und Pflichten für den Einzelnen erzeugt (Artikel 25), so hat das Gericht die Entscheidung des Bundesverfassungsgerichtes einzuholen. (3) Will das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes einzuholen.","Der genaue Wortlaut von § 100 der Strafprozessordnung (StPO) in der neuesten Fassung lautet:
+
+**§ 100 Durchsuchung und Beschlagnahme bei Verdacht bestimmter Straftaten**
+
+(1) Ordnet das Gericht die Durchsuchung einer Wohnung oder anderer Räume oder die Beschlagnahme von Schriftstücken, Daten oder anderen Gegenständen an, so ist der Beschluss, wenn die Durchsuchung oder Beschlagnahme nicht in Gegenwart des Richters stattfindet, dem Betroffenen oder, wenn dieser nicht angetroffen wird, einer in den Räumen anwesenden Person mitzuteilen. Der Beschluss ist, soweit dies ohne erhebliche Verzögerung möglich ist, dem Betroffenen oder einer in den Räumen anwesenden Person auszuhändigen.
+
+(2) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(3) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(4) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(5) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(6) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(7) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(8) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(9) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(10) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(11) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(12) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(13) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(14) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(15) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(16) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(17) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(18) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(19) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(20) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(21) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(22) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(23) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(24) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(25) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(26) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(27) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(28) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(29) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(30) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(31) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(32) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(33) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(34) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(35) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(36) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(37) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(38) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(39) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(40) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(41) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(42) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(43) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(44) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(45) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(46) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(47) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(48) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(49) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.
+
+(50) Die Durchsuchung und Beschlagnahme darf nur zur Verfolgung von Straftaten angeordnet werden, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind. Dies gilt nicht, wenn eine Durchsuchung oder Beschlagnahme zur Verfolgung von Straftaten, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht sind, erforderlich ist, um die Vorbereitung einer schweren Straftat zu verhindern.",0.023622047244094488,4868,86,,stop,55.604843616485596
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,74,gg 74,"(1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:  1. das bürgerliche Recht, das Strafrecht, die Gerichtsverfassung, das gerichtliche Verfahren (ohne das Recht des Untersuchungshaftvollzugs), die Rechtsanwaltschaft, das Notariat und die Rechtsberatung; 2. das Personenstandswesen; 3. das Vereinsrecht; 4. das Aufenthalts- und Niederlassungsrecht der Ausländer; 5. (weggefallen) 6. die Angelegenheiten der Flüchtlinge und Vertriebenen; 7. die öffentliche Fürsorge (ohne das Heimrecht); 8. (weggefallen) 9. die Kriegsschäden und die Wiedergutmachung; 10. die Kriegsgräber und Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft; 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen) ohne das Recht des Ladenschlusses, der Gaststätten, der Spielhallen, der Schaustellung von Personen, der Messen, der Ausstellungen und der Märkte; 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung; 13. die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung; 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt; 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft; 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung; 17. die Förderung der land- und forstwirtschaftlichen Erzeugung (ohne das Recht der Flurbereinigung), die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz; 18. den städtebaulichen Grundstücksverkehr, das Bodenrecht (ohne das Recht der Erschließungsbeiträge) und das Wohngeldrecht, das Altschuldenhilferecht, das Wohnungsbauprämienrecht, das Bergarbeiterwohnungsbaurecht und das Bergmannssiedlungsrecht; 19. Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei Menschen und Tieren, Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, sowie das Recht des Apothekenwesens, der Arzneien, der Medizinprodukte, der Heilmittel, der Betäubungsmittel und der Gifte; 19a. die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze; 20. das Recht der Lebensmittel einschließlich der ihrer Gewinnung dienenden Tiere, das Recht der Genussmittel, Bedarfsgegenstände und Futtermittel sowie den Schutz beim Verkehr mit land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz; 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen; 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren oder Entgelten für die Benutzung öffentlicher Straßen mit Fahrzeugen; 23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit Ausnahme der Bergbahnen; 24. die Abfallwirtschaft, die Luftreinhaltung und die Lärmbekämpfung (ohne Schutz vor verhaltensbezogenem Lärm); 25. die Staatshaftung; 26. die medizinisch unterstützte Erzeugung menschlichen Lebens, die Untersuchung und die künstliche Veränderung von Erbinformationen sowie Regelungen zur Transplantation von Organen, Geweben und Zellen; 27. die Statusrechte und -pflichten der Beamten der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechts sowie der Richter in den Ländern mit Ausnahme der Laufbahnen, Besoldung und Versorgung; 28. das Jagdwesen; 29. den Naturschutz und die Landschaftspflege; 30. die Bodenverteilung; 31. die Raumordnung; 32. den Wasserhaushalt; 33. die Hochschulzulassung und die Hochschulabschlüsse. (2) Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des Bundesrates.","§ 74 der Strafprozessordnung (StPO) lautet wie folgt:
+
+""(1) Die Staatsanwaltschaft hat die Untersuchung zu führen. Sie kann sich dabei der Polizei bedienen.
+
+(2) Die Staatsanwaltschaft hat die Untersuchung so zu führen, dass sie alle für die Erledigung der Sache erheblichen Tatsachen und Beweismittel erforscht.
+
+(3) Die Staatsanwaltschaft hat die Untersuchung so zu führen, dass sie alle für die Erledigung der Sache erheblichen Tatsachen und Beweismittel erforscht.
+
+(4) Die Staatsanwaltschaft hat die Untersuchung so zu führen, dass sie alle für die Erledigung der Sache erheblichen Tatsachen und Beweismittel erforscht.
+
+(5) Die Staatsanwaltschaft hat die Untersuchung so zu führen, dass sie alle für die Erledigung der Sache erheblichen Tatsachen und Beweismittel erforscht.""",0.09734513274336283,193,85,,stop,2.2830710411071777
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,80,gg 80,"(1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung. (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Postwesens und der Telekommunikation, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden. (3) Der Bundesrat kann der Bundesregierung Vorlagen für den Erlaß von Rechtsverordnungen zuleiten, die seiner Zustimmung bedürfen. (4) Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen, sind die Länder zu einer Regelung auch durch Gesetz befugt.","§ 80 der Strafprozessordnung (StPO) lautet wie folgt:
+
+""(1) Die Staatsanwaltschaft hat die Pflicht, wegen aller verfolgbaren Straftaten einzustehen, die ihr zur Kenntnis gelangen. Sie hat die Strafverfolgung zu führen und die Strafverfolgungsverjährung zu überwachen.
+
+(2) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(3) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(4) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(5) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(6) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(7) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(8) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(9) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.
+
+(10) Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen. Sie hat die Pflicht, die zur Verfolgung und zur Überwachung der Verjährung erforderlichen Maßnahmen zu treffen.""",0.09065934065934066,746,85,,stop,8.775739431381226
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,1,gg 1,"(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt. (3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.","Der genaue Wortlaut von Artikel 1 des Grundgesetzes für die Bundesrepublik Deutschland (GG) lautet:
+
+**Artikel 1**
+(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+
+(2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.
+
+(3) Die nachstehenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
+
+Stand: Grundgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2020 (BGBl. I S. 3348) geändert worden ist.",0.6936416184971098,197,84,,stop,2.356980562210083
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,31,gg 31,Bundesrecht bricht Landesrecht.,"§ 31 des Grundgesetzes (GG) lautet wie folgt:
+
+(1) Auswärtige Angelegenheiten, insbesondere die Richtlinien der Politik in diesen Angelegenheiten, werden vom Bund geführt.
+
+(2) Der Bundespräsident bestimmt im Einvernehmen mit der Bundesregierung die Bundesbeauftragten.
+
+(3) Die Bundesregierung oder der Bundespräsident bestimmt die Vertreter der Bundesrepublik Deutschland für die anderen in Absatz 1 genannten Zwecke.
+
+(4) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen.
+
+(5) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.
+
+(6) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.
+
+(7) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.
+
+(8) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.
+
+(9) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.
+
+(10) Die Bundesregierung oder der Bundespräsident kann die Befugnis zur Vertretung der Bundesrepublik Deutschland auf andere Bundesorgane oder auf Bundesbehörden übertragen, soweit dies zur Wahrnehmung der auswärtigen Angelegenheiten erforderlich ist.",0.0,440,85,,stop,5.25740385055542
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,72,gg 72,"(1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder die Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner Gesetzgebungszuständigkeit nicht durch Gesetz Gebrauch gemacht hat. (2) Auf den Gebieten des Artikels 74 Abs. 1 Nr. 4, 7, 11, 13, 15, 19a, 20, 22, 25 und 26 hat der Bund das Gesetzgebungsrecht, wenn und soweit die Herstellung gleichwertiger Lebensverhältnisse im Bundesgebiet oder die Wahrung der Rechts- oder Wirtschaftseinheit im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung erforderlich macht. (3) Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können die Länder durch Gesetz hiervon abweichende Regelungen treffen über:  1. das Jagdwesen (ohne das Recht der Jagdscheine); 2. den Naturschutz und die Landschaftspflege (ohne die allgemeinen Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des Meeresnaturschutzes); 3. die Bodenverteilung; 4. die Raumordnung; 5. den Wasserhaushalt (ohne stoff- oder anlagenbezogene Regelungen); 6. die Hochschulzulassung und die Hochschulabschlüsse; 7. die Grundsteuer. Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates anderes bestimmt ist. Auf den Gebieten des Satzes 1 geht im Verhältnis von Bundes- und Landesrecht das jeweils spätere Gesetz vor. (4) Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.","§ 72 der Strafprozessordnung (StPO) lautet wie folgt:
+
+""(1) Die Staatsanwaltschaft hat die Pflicht, wegen aller verfolgbaren Straftaten einzuschreiten, sofern nicht ein gesetzlicher Grund vorliegt, die Verfolgung einzustellen.
+
+(2) Sie hat die Pflicht, wegen aller verfolgbaren Straftaten einzuschreiten, sofern nicht ein gesetzlicher Grund vorliegt, die Verfolgung einzustellen.
+
+(3) Sie hat die Pflicht, wegen aller verfolgbaren Straftaten einzuschreiten, sofern nicht ein gesetzlicher Grund vorliegt, die Verfolgung einzustellen.""
+
+Hinweis: Der genaue Wortlaut kann je nach Ausgabedatum des Gesetzestextes leicht variieren. Die oben genannte Fassung entspricht der aktuellen Version der Strafprozessordnung in Deutschland.",0.09523809523809523,177,85,,stop,2.138136625289917
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,94,gg 94,"(1) Das Bundesverfassungsgericht entscheidet:  1. über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind; 2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages; 2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes; 3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht; 4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist; 4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein; 4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann; 4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag; 5. in den übrigen in diesem Grundgesetz vorgesehenen Fällen. (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2 Satz 1 nicht mehr erlassen werden könnte. Die Feststellung, dass die Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist. (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig. (4) Die Entscheidungen des Bundesverfassungsgerichts binden die Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und Behörden. Ein Bundesgesetz bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.","§ 94 BGB (Bürgerliches Gesetzbuch) lautet wie folgt:
+
+""(1) Der Eigentümer kann die Vornahme von Handlungen verlangen, die zur Erhaltung des gemeinschaftlichen Eigentums erforderlich sind, wenn nicht die Verpflichtung hierzu im Gesetz oder durch den Inhalt des Eigentums ausgeschlossen ist.
+
+(2) Der Eigentümer kann die Duldung von Handlungen verlangen, die zur Erhaltung des gemeinschaftlichen Eigentums erforderlich sind, wenn nicht die Verpflichtung hierzu im Gesetz oder durch den Inhalt des Eigentums ausgeschlossen ist.
+
+(3) Der Eigentümer kann die Vornahme von Handlungen verlangen, die zur ordnungsmäßigen Instandhaltung und Instandsetzung des gemeinschaftlichen Eigentums erforderlich sind, wenn nicht die Verpflichtung hierzu im Gesetz oder durch den Inhalt des Eigentums ausgeschlossen ist.
+
+(4) Der Eigentümer kann die Duldung von Handlungen verlangen, die zur ordnungsmäßigen Instandhaltung und Instandsetzung des gemeinschaftlichen Eigentums erforderlich sind, wenn nicht die Verpflichtung hierzu im Gesetz oder durch den Inhalt des Eigentums ausgeschlossen ist.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für Maßnahmen, die zur ordnungsmäßigen Nutzung des gemeinschaftlichen Eigentums erforderlich sind.""",0.11858974358974357,272,85,,stop,3.2373971939086914
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,44,gg 44,"(1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner Mitglieder die Pflicht, einen Untersuchungsausschuß einzusetzen, der in öffentlicher Verhandlung die erforderlichen Beweise erhebt. Die Öffentlichkeit kann ausgeschlossen werden. (2) Auf Beweiserhebungen finden die Vorschriften über den Strafprozeß sinngemäß Anwendung. Das Brief-, Post- und Fernmeldegeheimnis bleibt unberührt. (3) Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe verpflichtet. (4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Würdigung und Beurteilung des der Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.","§ 44 BGB (Bürgerliches Gesetzbuch) lautet wie folgt:
+
+""(1) Ist ein Geschäft, das ein Minderjähriger ohne Zustimmung seines gesetzlichen Vertreters geschlossen hat, für ihn nach den §§ 108 bis 113 nicht schwebend unwirksam, so kann der gesetzliche Vertreter es genehmigen.
+
+(2) Die Genehmigung kann nur bis zur Vollendigung des achtzehnten Lebensjahres des Minderjährigen erklärt werden.
+
+(3) Die Genehmigung ist nur wirksam, wenn sie dem anderen Teil gegenüber erklärt wird.
+
+(4) Die Genehmigung kann nur innerhalb eines Jahres ab dem Zeitpunkt, in dem der gesetzliche Vertreter von dem Geschäft und den Umständen, die für oder gegen die Genehmigung sprechen, Kenntnis erlangt hat, erklärt werden. Die Genehmigung kann nur innerhalb von zwei Jahren ab dem Zeitpunkt, in dem der Minderjährige das achtzehnte Lebensjahr vollendet hat, erklärt werden.
+
+(5) Wird die Genehmigung nicht erklärt, so ist das Geschäft für und gegen den Minderjährigen von Anfang an nichtig.
+
+(6) Die Vorschriften der §§ 182 und 183 finden auf die Genehmigung keine Anwendung.""",0.12167300380228138,261,85,,stop,3.1025075912475586
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,bpolg,38,bpolg 38,Die Bundespolizei kann zur Abwehr einer Gefahr eine Person vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten.,"Der genaue Wortlaut von § 38 des Bundespolizeigesetzes (BPolG) in der aktuellsten Fassung lautet:
+
+**§ 38 Befugnisse bei der Identitätsfeststellung**
+
+(1) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich an einem Ort aufhält, an dem sie ohne Berechtigung nicht sein darf, oder die sich in einer Weise verhält, die den Verdacht einer Straftat oder einer Ordnungswidrigkeit begründet, auffordern, ihre Personalien anzugeben.
+
+(2) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird.
+
+(3) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begangen hat.
+
+(4) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird oder begangen hat.
+
+(5) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen oder begangen hat.
+
+(6) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen, begehen wird oder begangen hat.
+
+(7) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen, begehen wird, begehen oder begangen hat.
+
+(8) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen, begehen wird, begehen, begehen wird oder begangen hat.
+
+(9) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen, begehen wird, begehen, begehen wird, begehen oder begangen hat.
+
+(10) Ein Bundespolizist kann zur Identitätsfeststellung eine Person, die sich in einem Bereich aufhält, in dem mit Straftaten oder Ordnungswidrigkeiten zu rechnen ist, auffordern, ihre Personalien anzugeben, wenn Tatsachen vorliegen, die den Verdacht begründen, dass sie eine Straftat oder eine Ordnungswidrigkeit begehen wird, begehen, begehen wird, begehen, begehen wird, begehen, begehen wird oder begangen hat.",0.025270758122743684,968,87,,stop,11.251173734664917
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,6,gg 6,"(1) Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung. (2) Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft. (3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder aus anderen Gründen zu verwahrlosen drohen. (4) Jede Mutter hat Anspruch auf den Schutz und die Fürsorge der Gemeinschaft. (5) Den unehelichen Kindern sind durch die Gesetzgebung die gleichen Bedingungen für ihre leibliche und seelische Entwicklung und ihre Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.","§ 6 der Grundgesetzes (GG) lautet:
+
+""(1) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin.
+
+(2) Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Menschen mit und ohne Behinderung und wirkt auf die Beseitigung bestehender Nachteile hin.
+
+(3) Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Menschen unterschiedlicher ethnischer Herkunft und wirkt auf die Beseitigung bestehender Nachteile hin.
+
+(4) Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Menschen unterschiedlicher sexueller Identität und wirkt auf die Beseitigung bestehender Nachteile hin.""",0.14096916299559473,180,84,,stop,2.215775966644287
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,101,gg 101,(1) Ausnahmegerichte sind unzulässig. Niemand darf seinem gesetzlichen Richter entzogen werden. (2) Gerichte für besondere Sachgebiete können nur durch Gesetz errichtet werden.,"Der genaue Wortlaut von § 101 der Strafprozessordnung (StPO) in der aktuellen Fassung lautet:
+
+**§ 101 Verbot der Vernehmung von Zeugen**
+
+(1) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dem er angehört, oder dessen Staatsangehöriger er ist, mit Strafe bedroht ist.
+
+(2) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, in dem er sich aufhält, mit Strafe bedroht ist, wenn er sich dort ständig aufhält und nicht nur vorübergehend dort weilt.
+
+(3) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(4) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dem er angehört, oder dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(5) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, in dem er sich aufhält, mit Strafe bedroht ist, wenn er sich dort ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(6) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(7) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dem er angehört, oder dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(8) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, in dem er sich aufhält, mit Strafe bedroht ist, wenn er sich dort ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(9) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.
+
+(10) Ein Zeuge darf nicht vernehmungspflichtig sein für eine Tat, die nach den Gesetzen des Staates, dem er angehört, oder dessen Staatsangehöriger er ist, mit Strafe bedroht ist, wenn er sich in einem Staat aufhält, in dem er sich ständig aufhält und nicht nur vorübergehend weilt, und wenn dieser Staat die Vernehmung von Zeugen für solche Taten nicht zulässt.",0.01929260450160772,851,86,,stop,9.910112380981445
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,38,gg 38,"(1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen. (2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt. (3) Das Nähere bestimmt ein Bundesgesetz.","§ 38 Grundgesetz (GG) lautet:
+
+""(1) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+(2) In jedem Verfahren muss der grundsätzliche Anspruch auf rechtliches Gehör gewahrt bleiben.""",0.1523809523809524,67,85,,stop,0.8320269584655762
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,vwvfg,51,vwvfg 51,"(1) Die Behörde hat auf Antrag des Betroffenen über die Aufhebung oder Änderung eines unanfechtbaren Verwaltungsaktes zu entscheiden, wenn  1. sich die dem Verwaltungsakt zugrunde liegende Sach- oder Rechtslage nachträglich zugunsten des Betroffenen geändert hat;   2. neue Beweismittel vorliegen, die eine dem Betroffenen günstigere Entscheidung herbeigeführt haben würden;   3. Wiederaufnahmegründe entsprechend § 580 der Zivilprozessordnung gegeben sind.     (2) Der Antrag ist nur zulässig, wenn der Betroffene ohne grobes Verschulden außerstande war, den Grund für das Wiederaufgreifen in dem früheren Verfahren, insbesondere durch Rechtsbehelf, geltend zu machen. (3) Der Antrag muss binnen drei Monaten gestellt werden. Die Frist beginnt mit dem Tage, an dem der Betroffene von dem Grund für das Wiederaufgreifen Kenntnis erhalten hat. (4) Über den Antrag entscheidet die nach § 3 zuständige Behörde; dies gilt auch dann, wenn der Verwaltungsakt, dessen Aufhebung oder Änderung begehrt wird, von einer anderen Behörde erlassen worden ist. (5) Die Vorschriften des § 48 Abs. 1 Satz 1 und des § 49 Abs. 1 bleiben unberührt.","Der genaue Wortlaut von § 51 der Verwaltungsvorschriften zur Straßenverkehrs-Zulassungs-Ordnung (VwV-StVZO) lautet:
+
+""§ 51 - Sonstige Ausrüstungsvorschriften
+
+(1) Fahrzeuge müssen so gebaut und ausgerüstet sein, dass ihre Verkehrssicherheit auch bei extremen Wetterverhältnissen gewährleistet ist.
+
+(2) Fahrzeuge müssen mit einer Warneinrichtung ausgerüstet sein, die es ermöglicht, bei einer Gefährdung anderer Verkehrsteilnehmer durch das Fahrzeug oder dessen Ladung diese durch ein akustisches und/oder optisches Signal zu warnen.
+
+(3) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Wegfahren zu sichern.
+
+(4) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Zutritt zu sichern.
+
+(5) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Wegfahren zu sichern.
+
+(6) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Zutritt zu sichern.
+
+(7) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Wegfahren zu sichern.
+
+(8) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Zutritt zu sichern.
+
+(9) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Wegfahren zu sichern.
+
+(10) Fahrzeuge müssen mit einer Einrichtung ausgerüstet sein, die es ermöglicht, bei einem Unfall oder einer Panne das Fahrzeug gegen ein unerlaubtes Zutritt zu sichern.""
+
+Hinweis: Die Absätze (3) bis (10) sind identisch formuliert. Dies scheint ein Fehler in der Vorschrift zu sein. Die genaue Ausgestaltung der genannten Einrichtungen ist in den jeweiligen technischen Richtlinien und Normen geregelt.",0.07465618860510805,483,88,,stop,5.664205074310303
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,bgb,188,bgb 188,"(1) Eine nach Tagen bestimmte Frist endigt mit dem Ablauf des letzten Tages der Frist. (2) Eine Frist, die nach Wochen, nach Monaten oder nach einem mehrere Monate umfassenden Zeitraum - Jahr, halbes Jahr, Vierteljahr - bestimmt ist, endigt im Falle des § 187 Abs. 1 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher durch seine Benennung oder seine Zahl dem Tage entspricht, in den das Ereignis oder der Zeitpunkt fällt, im Falle des § 187 Abs. 2 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher dem Tage vorhergeht, der durch seine Benennung oder seine Zahl dem Anfangstag der Frist entspricht. (3) Fehlt bei einer nach Monaten bestimmten Frist in dem letzten Monat der für ihren Ablauf maßgebende Tag, so endigt die Frist mit dem Ablauf des letzten Tages dieses Monats.","§ 188 BGB (Bürgerliches Gesetzbuch) lautet wie folgt:
+
+""Die Verjährung beginnt mit dem Schluss des Jahres, in welchem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangt haben müsste.""
+
+Quelle: Bürgerliches Gesetzbuch (BGB) in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), zuletzt geändert durch Artikel 1 des Gesetzes vom 22. Dezember 2020 (BGBl. I S. 3266).",0.11304347826086956,164,87,,stop,2.002364158630371
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,nhr_fau,GPBam Laws,gg,30,gg 30,"Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.","§ 30 BGB (Bürgerliches Gesetzbuch) lautet wie folgt:
+
+""(1) Ein Geschäft, das ein Minderjähriger ohne Zustimmung seines gesetzlichen Vertreters vornimmt, ist schwebend unwirksam. Die Genehmigung steht dem gesetzlichen Vertreter nicht zu, wenn der Minderjährige das Geschäft allein vornehmen darf.
+
+(2) Der Minderjährige kann die Genehmigung des gesetzlichen Vertreters nur verlangen, wenn das Geschäft für ihn oder seinen Vermögen von Bedeutung ist.
+
+(3) Der gesetzliche Vertreter kann die Genehmigung nur innerhalb von zwei Wochen nach Kenntnis von dem Geschäft erteilen. Die Genehmigung gilt als erteilt, wenn der gesetzliche Vertreter nicht innerhalb von zwei Wochen nach Kenntnis von dem Geschäft die Genehmigung verweigert.
+
+(4) Wird die Genehmigung nicht erteilt, so ist das Geschäft unwirksam. Dies gilt nicht, wenn der Minderjährige das Geschäft allein vornehmen darf.
+
+(5) Die Vorschriften der Absätze 1 bis 4 gelten entsprechend, wenn ein Minderjähriger ein Geschäft ohne Zustimmung des gesetzlichen Vertreters vornimmt, das er allein vornehmen darf, aber nicht vornehmen darf, weil er nicht geschäftsfähig ist.""",0.0588235294117647,261,85,,stop,3.111788034439087

@@ -1,0 +1,185 @@
+table,block,row,col,value,bold
+1,Retrieval quality (\%),gold-norm recall@$k$,no_rag,,0
+1,Retrieval quality (\%),gold-norm recall@$k$,rrf,3.5,0
+1,Retrieval quality (\%),gold-norm recall@$k$,rerank,5.33,0
+1,Retrieval quality (\%),gold-norm recall@$k$,cite_only,9.04,0
+1,Retrieval quality (\%),gold-norm recall@$k$,cite_rrf,9.61,0
+1,Retrieval quality (\%),gold-norm recall@$k$,rrf50,8.52,0
+1,Retrieval quality (\%),gold-norm recall@$k$,cite_rrf50,16.49,0
+1,Retrieval quality (\%),gold-norm recall@$k$,ls_text,6.33,0
+1,Retrieval quality (\%),gold-norm recall@$k$,cite_ls_rrf50,23.92,0
+1,Retrieval quality (\%),gold-norm recall@$k$,oracle,91.31,0
+1,Retrieval quality (\%),state-law recall@$k$,no_rag,,0
+1,Retrieval quality (\%),state-law recall@$k$,rrf,4.31,0
+1,Retrieval quality (\%),state-law recall@$k$,rerank,6.15,0
+1,Retrieval quality (\%),state-law recall@$k$,cite_only,3.26,0
+1,Retrieval quality (\%),state-law recall@$k$,cite_rrf,4.31,0
+1,Retrieval quality (\%),state-law recall@$k$,rrf50,11.62,0
+1,Retrieval quality (\%),state-law recall@$k$,cite_rrf50,12.98,0
+1,Retrieval quality (\%),state-law recall@$k$,ls_text,5.17,0
+1,Retrieval quality (\%),state-law recall@$k$,cite_ls_rrf50,19.07,0
+1,Retrieval quality (\%),state-law recall@$k$,oracle,94.9,0
+1,Retrieval quality (\%),cases with a hit@$k$,no_rag,,0
+1,Retrieval quality (\%),cases with a hit@$k$,rrf,80.2,0
+1,Retrieval quality (\%),cases with a hit@$k$,rerank,95.1,0
+1,Retrieval quality (\%),cases with a hit@$k$,cite_only,96.3,0
+1,Retrieval quality (\%),cases with a hit@$k$,cite_rrf,98.8,0
+1,Retrieval quality (\%),cases with a hit@$k$,rrf50,97.5,0
+1,Retrieval quality (\%),cases with a hit@$k$,cite_rrf50,100.0,0
+1,Retrieval quality (\%),cases with a hit@$k$,ls_text,90.1,0
+1,Retrieval quality (\%),cases with a hit@$k$,cite_ls_rrf50,100.0,0
+1,Retrieval quality (\%),cases with a hit@$k$,oracle,100.0,0
+1,Essay score (0--100),DeepSeek-V4-Flash,no_rag,43.77,0
+1,Essay score (0--100),DeepSeek-V4-Flash,rrf,45.06,0
+1,Essay score (0--100),DeepSeek-V4-Flash,rerank,43.83,0
+1,Essay score (0--100),DeepSeek-V4-Flash,cite_only,44.44,0
+1,Essay score (0--100),DeepSeek-V4-Flash,cite_rrf,42.78,0
+1,Essay score (0--100),DeepSeek-V4-Flash,rrf50,44.81,0
+1,Essay score (0--100),DeepSeek-V4-Flash,cite_rrf50,43.15,0
+1,Essay score (0--100),DeepSeek-V4-Flash,ls_text,42.96,0
+1,Essay score (0--100),DeepSeek-V4-Flash,cite_ls_rrf50,47.9,1
+1,Essay score (0--100),DeepSeek-V4-Flash,oracle,47.9,1
+1,Essay score (0--100),Gemma-4-31B-it,no_rag,32.9,0
+1,Essay score (0--100),Gemma-4-31B-it,rrf,33.95,0
+1,Essay score (0--100),Gemma-4-31B-it,rerank,33.95,0
+1,Essay score (0--100),Gemma-4-31B-it,cite_only,34.94,1
+1,Essay score (0--100),Gemma-4-31B-it,cite_rrf,36.3,1
+1,Essay score (0--100),Gemma-4-31B-it,rrf50,33.64,0
+1,Essay score (0--100),Gemma-4-31B-it,cite_rrf50,35.19,1
+1,Essay score (0--100),Gemma-4-31B-it,ls_text,34.94,0
+1,Essay score (0--100),Gemma-4-31B-it,cite_ls_rrf50,32.22,0
+1,Essay score (0--100),Gemma-4-31B-it,oracle,38.27,1
+1,Essay score (0--100),Qwen3-Next-80B-A3B,no_rag,30.62,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,rrf,28.52,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,rerank,29.69,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,cite_only,32.65,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,cite_rrf,31.6,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,rrf50,29.51,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,cite_rrf50,30.62,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,ls_text,30.99,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,cite_ls_rrf50,31.23,0
+1,Essay score (0--100),Qwen3-Next-80B-A3B,oracle,32.84,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,no_rag,30.62,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,rrf,31.48,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,rerank,32.72,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,cite_only,32.96,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,cite_rrf,31.05,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,rrf50,32.59,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,cite_rrf50,33.09,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,ls_text,31.98,0
+1,Essay score (0--100),Qwen3.6-35B-A3B,cite_ls_rrf50,33.09,1
+1,Essay score (0--100),Qwen3.6-35B-A3B,oracle,35.31,1
+1,Essay score (0--100),gpt-oss-120B,no_rag,29.75,0
+1,Essay score (0--100),gpt-oss-120B,rrf,29.26,0
+1,Essay score (0--100),gpt-oss-120B,rerank,28.89,0
+1,Essay score (0--100),gpt-oss-120B,cite_only,32.35,1
+1,Essay score (0--100),gpt-oss-120B,cite_rrf,32.35,0
+1,Essay score (0--100),gpt-oss-120B,rrf50,28.46,0
+1,Essay score (0--100),gpt-oss-120B,cite_rrf50,30.49,0
+1,Essay score (0--100),gpt-oss-120B,ls_text,30.25,0
+1,Essay score (0--100),gpt-oss-120B,cite_ls_rrf50,30.62,0
+1,Essay score (0--100),gpt-oss-120B,oracle,35.62,1
+1,Essay score (0--100),Magistral-Small,no_rag,23.33,0
+1,Essay score (0--100),Magistral-Small,rrf,21.48,1
+1,Essay score (0--100),Magistral-Small,rerank,22.04,0
+1,Essay score (0--100),Magistral-Small,cite_only,22.47,0
+1,Essay score (0--100),Magistral-Small,cite_rrf,22.47,0
+1,Essay score (0--100),Magistral-Small,rrf50,22.59,0
+1,Essay score (0--100),Magistral-Small,cite_rrf50,22.84,0
+1,Essay score (0--100),Magistral-Small,ls_text,21.98,0
+1,Essay score (0--100),Magistral-Small,cite_ls_rrf50,22.72,0
+1,Essay score (0--100),Magistral-Small,oracle,25.93,1
+1,Essay score (0--100),Mistral-Small-3.2,no_rag,21.98,0
+1,Essay score (0--100),Mistral-Small-3.2,rrf,19.51,1
+1,Essay score (0--100),Mistral-Small-3.2,rerank,21.23,0
+1,Essay score (0--100),Mistral-Small-3.2,cite_only,21.98,0
+1,Essay score (0--100),Mistral-Small-3.2,cite_rrf,21.48,0
+1,Essay score (0--100),Mistral-Small-3.2,rrf50,22.59,0
+1,Essay score (0--100),Mistral-Small-3.2,cite_rrf50,20.99,0
+1,Essay score (0--100),Mistral-Small-3.2,ls_text,20.99,0
+1,Essay score (0--100),Mistral-Small-3.2,cite_ls_rrf50,22.9,0
+1,Essay score (0--100),Mistral-Small-3.2,oracle,25.19,1
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,no_rag,25.86,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,rrf,26.36,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,rerank,27.06,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,cite_only,25.93,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,cite_rrf,25.44,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,rrf50,27.48,1
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,cite_rrf50,28.24,1
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,ls_text,26.82,0
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,cite_ls_rrf50,29.11,1
+1,Gold norms cited by the essay (\%),DeepSeek-V4-Flash,oracle,41.36,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,no_rag,11.15,0
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,rrf,11.85,0
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,rerank,12.32,0
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,cite_only,12.16,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,cite_rrf,12.27,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,rrf50,13.16,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,cite_rrf50,13.96,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,ls_text,12.65,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,cite_ls_rrf50,14.59,1
+1,Gold norms cited by the essay (\%),Gemma-4-31B-it,oracle,30.57,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,no_rag,14.64,0
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,rrf,16.33,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,rerank,16.06,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,cite_only,16.57,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,cite_rrf,16.72,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,rrf50,17.5,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,cite_rrf50,17.76,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,ls_text,16.44,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,cite_ls_rrf50,20.86,1
+1,Gold norms cited by the essay (\%),Qwen3-Next-80B-A3B,oracle,40.59,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,no_rag,17.05,0
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,rrf,18.28,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,rerank,19.12,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,cite_only,18.02,0
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,cite_rrf,18.4,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,rrf50,20.34,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,cite_rrf50,19.65,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,ls_text,18.79,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,cite_ls_rrf50,20.97,1
+1,Gold norms cited by the essay (\%),Qwen3.6-35B-A3B,oracle,36.57,1
+1,Gold norms cited by the essay (\%),gpt-oss-120B,no_rag,15.04,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,rrf,14.9,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,rerank,15.27,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,cite_only,15.25,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,cite_rrf,16.48,1
+1,Gold norms cited by the essay (\%),gpt-oss-120B,rrf50,16.11,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,cite_rrf50,16.53,1
+1,Gold norms cited by the essay (\%),gpt-oss-120B,ls_text,15.85,0
+1,Gold norms cited by the essay (\%),gpt-oss-120B,cite_ls_rrf50,19.49,1
+1,Gold norms cited by the essay (\%),gpt-oss-120B,oracle,35.61,1
+1,Gold norms cited by the essay (\%),Magistral-Small,no_rag,11.43,0
+1,Gold norms cited by the essay (\%),Magistral-Small,rrf,10.7,0
+1,Gold norms cited by the essay (\%),Magistral-Small,rerank,10.74,0
+1,Gold norms cited by the essay (\%),Magistral-Small,cite_only,10.91,0
+1,Gold norms cited by the essay (\%),Magistral-Small,cite_rrf,11.37,0
+1,Gold norms cited by the essay (\%),Magistral-Small,rrf50,10.67,0
+1,Gold norms cited by the essay (\%),Magistral-Small,cite_rrf50,11.83,0
+1,Gold norms cited by the essay (\%),Magistral-Small,ls_text,11.59,0
+1,Gold norms cited by the essay (\%),Magistral-Small,cite_ls_rrf50,12.64,0
+1,Gold norms cited by the essay (\%),Magistral-Small,oracle,19.78,1
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,no_rag,10.71,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,rrf,8.96,1
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,rerank,9.28,1
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,cite_only,9.89,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,cite_rrf,9.32,1
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,rrf50,9.83,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,cite_rrf50,10.31,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,ls_text,10.56,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,cite_ls_rrf50,11.7,0
+1,Gold norms cited by the essay (\%),Mistral-Small-3.2,oracle,19.26,1
+2,Retrieval quality (\%),gold-norm recall@10,col0,2.28,0
+2,Retrieval quality (\%),gold-norm recall@10,col1,3.5,0
+2,Retrieval quality (\%),state-law recall@10,col0,0.0,0
+2,Retrieval quality (\%),state-law recall@10,col1,4.31,0
+2,Essay score (0--100),DeepSeek-V4-Flash,col0,43.33,0
+2,Essay score (0--100),DeepSeek-V4-Flash,col1,45.12,0
+2,Essay score (0--100),Gemma-4-31B-it,col0,34.57,0
+2,Essay score (0--100),Gemma-4-31B-it,col1,33.77,0
+2,Essay score (0--100),Qwen3-Next-80B-A3B,col0,29.63,0
+2,Essay score (0--100),Qwen3-Next-80B-A3B,col1,30.0,0
+2,Essay score (0--100),Qwen3.6-35B-A3B,col0,31.73,0
+2,Essay score (0--100),Qwen3.6-35B-A3B,col1,32.16,0
+2,Essay score (0--100),gpt-oss-120B,col0,28.64,0
+2,Essay score (0--100),gpt-oss-120B,col1,29.26,0

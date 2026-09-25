@@ -1,0 +1,72 @@
+% no-RAG. Judge median over three seats re-judged in one window (2026-08-19/20):
+% gpt-oss-120b, Qwen3.6-35B-A3B, DeepSeek-V4-Flash-0731. Row-wise median of the
+% three, averaged over the 81 cases,
+% bootstrap SE in the subscript.
+% Legal ref. sim. is the second essay-writing metric, computed from the same
+% essays. Recomputed for every row by recompute_legal_ref.py: the published
+% column cannot be reproduced by the installed refex, so one extractor across
+% all 32 rows replaces a published column of 30 plus the rows added since.
+% One DeepSeek row: the -0731 re-generation. The published row ran on the
+% checkpoint NHR@FAU retired on 2026-08-01 and is not reported.
+% mistral-small-3.1-24b-instruct is not reported either: all 81 of its calls
+% errored, leaving 25-character stubs that every judge scored 0.0.
+%
+% $^\ddagger$ Claude-Opus-5 is measured, but not on equal terms with
+% the rest of the table, and the row should not be read as one more benchmarked
+% model. Coverage is no longer one of the reasons: all 81 essay cases are
+% answered, so every cell in the row averages the same 81 cases as every
+% other row, and the recitation cells all 200 prompts of both datasets.
+% One difference remains, and it favours the row:
+%   Harness. Written through the Claude Code agent loop on the benchmark
+%   prompt, not through the API path every other row used. The prompt is
+%   byte-identical; the surrounding system prompt and tool loop are not.
+%   See experiments/analysis/additional_models/opus5_agent/README.md.
+% Judging is on the same three seats as every other row, and the three seats
+% disagree about these essays by 21 points -- wider than on any measured row --
+% so the median is adjudicating a real disagreement, not smoothing noise.
+% Recitation is measured, on all 200 prompts of both datasets, through the same
+% agent harness and scored by the same ROUGE-L call as every other row. Every
+% transcript was audited: 200 agents, 200 tool calls, all of them the Write of
+% the answer, no read of the reference corpora that sit in this repo. See
+% additional_models/opus5_agent/recitation/README.md. The harness caveat above
+% still applies to these cells, which is why the row keeps its marker.
+\begin{tabular}{lrrrrr}
+\toprule
+ & \multicolumn{2}{c}{Essay writing} & \multicolumn{2}{c}{Article recitation} & \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+Model & Judge median & Legal ref. sim. & GPBam & Most cited & AA \\
+\midrule
+claude-opus-5$^{\ddagger}$ & 76.42$_{\pm2.35}$ & 34.25 & 80.40 & 89.97 & 63 \\
+gemini-3.7-flash & 67.10$_{\pm1.92}$ & 33.56 & 72.39 & 69.83 & 56 \\
+DeepSeek-V4-Flash-0731 & 43.77$_{\pm1.58}$ & 22.98 & 42.45 & 39.06 & 52 \\
+qwen3.5-397b-a17b & 41.48$_{\pm1.49}$ & 20.93 & 33.38 & 34.38 & 34 \\
+mistral-large-2512 & 37.84$_{\pm1.37}$ & 17.57 & 48.46 & 50.54 & 16 \\
+Mistral-Medium-3.5-128B & 37.41$_{\pm1.39}$ & 14.42 & 28.26 & 28.84 & 30 \\
+deepseek-v3.2 & 36.79$_{\pm1.19}$ & 20.46 & 28.01 & 27.29 & 33 \\
+gemini-2.5-flash-lite & 35.19$_{\pm1.19}$ & 17.07 & 16.91 & 20.28 & 11 \\
+gpt-5-mini & 34.81$_{\pm1.17}$ & 11.61 & 13.18 & 17.41 & 26 \\
+claude-haiku-4.5 & 34.81$_{\pm1.08}$ & 14.47 & 15.57 & 16.07 & 30 \\
+deepseek-r1-0528 & 33.21$_{\pm1.19}$ & 18.98 & 23.02 & 22.42 & 20 \\
+qwen3.5-122b-a10b & 32.96$_{\pm1.18}$ & 17.08 & 22.68 & 25.50 & 33 \\
+gemma-4-31B-it & 32.90$_{\pm1.07}$ & 10.08 & 14.48 & 14.30 & 30 \\
+qwen3-235b-a22b-thinking-2507 & 31.11$_{\pm1.10}$ & 12.17 & 13.90 & 16.15 & 20 \\
+Qwen3.6-35B-A3B & 30.62$_{\pm1.00}$ & 15.24 & 16.66 & 20.27 & 32 \\
+qwen3-next-80b-a3b-instruct & 30.62$_{\pm0.94}$ & 12.79 & 12.09 & 13.60 & 14 \\
+gpt-oss-120b & 29.75$_{\pm0.99}$ & 9.40 & 12.40 & 13.75 & 24 \\
+deepseek-chat-v3-0324 & 26.36$_{\pm0.82}$ & 14.72 & 22.39 & 24.06 & 15 \\
+soofi-s-isar-preview & 26.11$_{\pm0.91}$ & 14.39 & 16.24 & 24.92 & -- \\
+llama-4-maverick & 24.44$_{\pm0.68}$ & 12.20 & 26.78 & 36.13 & 14 \\
+Magistral-Small-2509 & 23.33$_{\pm0.70}$ & 10.21 & 12.50 & 14.85 & 11 \\
+Mistral-Small-3.2-24B-Instruct-2506 & 21.98$_{\pm0.62}$ & 10.66 & 11.86 & 15.76 & 11 \\
+gpt-5-nano & 21.48$_{\pm0.66}$ & 10.21 & 10.41 & 11.77 & 20 \\
+gpt-4o-mini-2024-07-18 & 19.51$_{\pm0.66}$ & 8.23 & 12.87 & 16.30 & 7 \\
+open\_steuerllm & 17.78$_{\pm0.63}$ & 8.57 & 15.24 & 17.16 & -- \\
+llama-3.3-70b-instruct & 16.79$_{\pm0.63}$ & 6.63 & 12.57 & 17.12 & 9 \\
+qwen3-32b & 13.21$_{\pm0.82}$ & 5.88 & 9.32 & 9.95 & 11 \\
+EuroLLM-22B-Instruct-2512 & 9.26$_{\pm0.76}$ & 4.00 & 9.77 & 12.11 & -- \\
+Ministral-3-14B-Reasoning-2512 & 8.77$_{\pm0.75}$ & 7.36 & 9.16 & 12.30 & 10 \\
+granite-4.1-3b & 7.53$_{\pm0.57}$ & 3.32 & 7.74 & 9.73 & 4 \\
+Phi-4-mini-instruct & 5.43$_{\pm0.58}$ & 3.13 & 7.37 & 8.46 & 6 \\
+llama-3.1-8b-instruct & 4.81$_{\pm0.68}$ & 2.63 & 8.01 & 10.20 & 7 \\
+\bottomrule
+\end{tabular}

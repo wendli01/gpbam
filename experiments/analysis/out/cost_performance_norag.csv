@@ -1,0 +1,30 @@
+model,score,cost_usd,completion_tokens,prompt_tokens,billed,n_rows_missing_cost,n_rows,short,vendor,cost_source,price_basis,extrapolated,label
+meta-llama/llama-3.1-8b-instruct,4.814814814814815,0.01671921,279955.0,217565.0,True,0,81,llama-3.1-8b,Meta,reported,,False,llama-3.1-8b
+ibm-granite/granite-4.1-3b,7.530864197530864,0.0254063,142624.0,222878.0,False,81,81,granite-4.1-3b,IBM,imputed,proxy: ibm-granite/granite-4.1-8b,False,granite-4.1-3b*
+mistralai/Ministral-3-14B-Reasoning-2512,8.765432098765432,0.12421660000000002,435415.99999999994,185667.0,False,81,81,Ministral-3-14B-R,Mistral,imputed,proxy: mistralai/ministral-14b-2512,False,Ministral-3-14B-R*
+qwen/qwen3-32b,13.209876543209877,0.146570228,326904.0,218522.0,True,0,81,qwen3-32b,Alibaba,reported,,False,qwen3-32b
+meta-llama/llama-3.3-70b-instruct,16.790123456790123,0.0852012,102317.175,218472.1875,True,1,81,llama-3.3-70b,Meta,reported,meta-llama/llama-3.3-70b-instruct,False,llama-3.3-70b
+windprak/open_steuerllm,17.77777777777778,0.0420576,97158.0,185667.0,False,81,81,steuerllm,windprak,imputed,proxy: qwen/qwen3-32b (28B dense),False,steuerllm*
+openai/gpt-4o-mini-2024-07-18,19.506172839506174,0.08744144999999999,101396.0,177358.99999999997,True,0,81,gpt-4o-mini,OpenAI,reported,,False,gpt-4o-mini
+openai/gpt-5-nano,21.48148148148148,0.4338464,1062734.0,175056.0,True,0,81,gpt-5-nano,OpenAI,reported,,False,gpt-5-nano
+RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8,21.97530864197531,0.0543588146,147773.0,185667.0,False,81,81,Mistral-Small-3.2,Mistral,imputed,mistralai/mistral-small-3.2-24b-instruct,False,Mistral-Small-3.2*
+GaleneAI/Magistral-Small-2509-FP8-Dynamic,23.333333333333332,0.049388064599999996,127890.0,185667.0,False,81,81,Magistral-Small,Mistral,imputed,proxy: mistralai/mistral-small-3.2-24b-instruct,False,Magistral-Small*
+meta-llama/llama-4-maverick,24.444444444444443,0.15615457,110264.00000000001,172788.0,True,0,81,llama-4-maverick,Meta,reported,,False,llama-4-maverick
+soofi-s-isar-preview,26.11111111111111,0.34067228,310313.0,216852.0,False,81,81,Soofi-S-Isar,Soofi,imputed,proxy: qwen/qwen3.6-35b-a3b,False,Soofi-S-Isar*
+deepseek/deepseek-chat-v3-0324,26.358024691358025,0.18394555,132078.0,205242.0,True,0,81,deepseek-chat-v3,DeepSeek,reported,,False,deepseek-chat-v3
+openai/gpt-oss-120b,29.753086419753085,0.1851989,1057249.0,182218.99999999997,False,0,81,gpt-oss-120b,OpenAI,imputed,openai/gpt-oss-120b,False,gpt-oss-120b*
+Qwen/Qwen3.6-35B-A3B-FP8,30.617283950617285,0.7479111200000002,721926.0,185608.0,False,0,81,Qwen3.6-35B,Alibaba,imputed,qwen/qwen3.6-35b-a3b,False,Qwen3.6-35B*
+qwen3-next-80b-a3b-instruct,30.617283950617285,0.5274466,459612.99999999994,218723.0,False,81,81,qwen3-next-80b,Alibaba,imputed,qwen/qwen3-next-80b-a3b-instruct,False,qwen3-next-80b*
+qwen/qwen3-235b-a22b-thinking-2507,31.11111111111111,1.7538391075,881293.0,218576.0,True,0,81,qwen3-235b-think,Alibaba,reported,,False,qwen3-235b-think
+qwen/qwen3.5-122b-a10b,32.96296296296296,1.77210854,719817.0,185608.0,True,0,81,qwen3.5-122b,Alibaba,reported,,False,qwen3.5-122b
+deepseek/deepseek-r1-0528,33.20987654320987,1.137313803,480391.0,205404.0,True,0,81,deepseek-r1,DeepSeek,reported,,False,deepseek-r1
+openai/gpt-5-mini,34.81481481481482,3.315588,1635816.0,175824.0,True,0,81,gpt-5-mini,OpenAI,reported,,False,gpt-5-mini
+anthropic/claude-haiku-4.5,34.81481481481482,8.230452,1593924.0,260832.0,True,0,81,claude-haiku-4.5,Anthropic,reported,,False,claude-haiku-4.5
+google/gemini-2.5-flash-lite,35.18518518518518,0.5115284,1237285.0,187060.00000000003,True,0,81,gemini-2.5-fl-lite,Google,reported,,False,gemini-2.5-fl-lite
+deepseek/deepseek-v3.2,36.79012345679013,0.26449453575,564854.0,205323.0,True,0,81,deepseek-v3.2,DeepSeek,reported,,False,deepseek-v3.2
+mistralai/Mistral-Medium-3.5-128B,37.407407407407405,10.035245999999999,1300705.0,186639.0,False,81,81,Mistral-Med-3.5,Mistral,imputed,mistralai/mistral-medium-3-5,False,Mistral-Med-3.5*
+mistralai/mistral-large-2512,37.839506172839506,0.6038739,351057.99999999994,185505.0,True,0,81,mistral-large,Mistral,reported,,False,mistral-large
+qwen/qwen3.5-397b-a17b,41.48148148148148,2.325489695,687616.0,185999.99999999997,True,0,81,qwen3.5-397b,Alibaba,reported,,False,qwen3.5-397b
+deepseek-ai/DeepSeek-V4-Flash-0731,43.76543209876543,0.26956706,860078.0,205323.0,False,81,81,DeepSeek-V4-Flash-0731,DeepSeek,imputed,deepseek/deepseek-v4-flash-0731,False,DeepSeek-V4-Flash-0731*
+google/gemini-3.7-flash,67.09876543209876,2.1219,1094268.0,187060.00000000003,True,0,81,gemini-3.7-flash,Google,reported,,False,gemini-3.7-flash
+anthropic/claude-opus-5,76.41975308641975,63.36181,2482306.0,260832.0,False,81,81,Claude-Opus-5,Anthropic,imputed,anthropic/claude-opus-5,False,Claude-Opus-5*

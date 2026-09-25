@@ -1,0 +1,29 @@
+row,block,col,level,delta,sem2
+DeepSeek-V4-Flash {\tiny high},essay,no_rag,48.02469135802469,0.0,0.0
+DeepSeek-V4-Flash {\tiny high},essay,rrf,50.74074074074074,2.7160493827160495,3.3886583833995774
+DeepSeek-V4-Flash {\tiny high},essay,rerank,50.74074074074074,2.7160493827160495,3.0633707263871073
+DeepSeek-V4-Flash {\tiny high},essay,cite_only,50.0,1.9753086419753085,2.781547510627669
+DeepSeek-V4-Flash {\tiny high},essay,cite_rrf,49.25925925925926,1.2345679012345678,3.279805701287105
+DeepSeek-V4-Flash {\tiny high},essay,rrf50,51.04938271604938,3.0246913580246915,3.538496456288028
+DeepSeek-V4-Flash {\tiny high},essay,cite_rrf50,50.74074074074074,2.7160493827160495,3.239652962648405
+DeepSeek-V4-Flash {\tiny high},essay,ls_text,50.24691358024691,2.2222222222222223,3.668349782048706
+DeepSeek-V4-Flash {\tiny high},essay,cite_ls_rrf50,50.98765432098765,2.962962962962963,3.5563270767874977
+DeepSeek-V4-Flash {\tiny high},essay,oracle,56.358024691358025,8.333333333333334,3.7184890068181136
+DeepSeek-V4-Flash {\tiny high},cited,no_rag,23.414335513157667,0.0,0.0
+DeepSeek-V4-Flash {\tiny high},cited,rrf,25.741489317328192,2.327153804170528,1.587035146758205
+DeepSeek-V4-Flash {\tiny high},cited,rerank,26.418364636276326,3.004029123118668,1.3398017162321811
+DeepSeek-V4-Flash {\tiny high},cited,cite_only,25.972476998020223,2.5581414848625603,1.6414937523398525
+DeepSeek-V4-Flash {\tiny high},cited,cite_rrf,25.538668641714814,2.124333128557149,1.4942520934382353
+DeepSeek-V4-Flash {\tiny high},cited,rrf50,28.013491003366806,4.599155490209142,1.4843343197261545
+DeepSeek-V4-Flash {\tiny high},cited,cite_rrf50,27.9832153698319,4.5688798566742355,1.4331577938501674
+DeepSeek-V4-Flash {\tiny high},cited,ls_text,25.777148587232052,2.36281307407439,1.5374367082548273
+DeepSeek-V4-Flash {\tiny high},cited,cite_ls_rrf50,28.5498514685397,5.13551595538204,1.698789992320703
+DeepSeek-V4-Flash {\tiny high},cited,oracle,42.706889305103644,19.292553791945984,2.0948449369626534
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",essay,no_rag,47.839506172839506,0.0,0.0
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",essay,ls_text,48.888888888888886,1.0493827160493827,2.7143653589625107
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",essay,oracle,53.58024691358025,5.7407407407407405,3.79697374262646
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",cited,no_rag,25.145292750601406,0.0,0.0
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",cited,ls_text,26.383254516479884,1.2379617658784814,1.2663279316177825
+"DeepSeek-V4-Flash {\tiny high, DeepInfra}",cited,oracle,43.25927781060812,18.11398506000671,2.18612440623813
+DeepSeek-V4-Flash {\tiny high},corpus,federal,50.0,0.0,0.0
+DeepSeek-V4-Flash {\tiny high},corpus,combined,50.0,0.0,3.3007668394473217

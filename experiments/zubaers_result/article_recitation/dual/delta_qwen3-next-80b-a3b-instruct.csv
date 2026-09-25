@@ -1,0 +1,1041 @@
+model,endpoint,dataset,law_book,article,query,target,answer,score,completion_tokens,prompt_tokens,total_cost,finish_reason,time
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,2,gg 2,"(1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt. (2) Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.","Es gibt kein „GG 2“ im Sinne eines einzelnen, als „GG 2“ bezeichneten Paragraphen. Das Grundgesetz (GG) ist in Artikel gegliedert, nicht in Paragraphen. Der zweite Artikel des Grundgesetzes lautet:
+
+**Artikel 2**
+
+(1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.
+
+(2) Dieses Recht findet seine Schranken in den Gesetzen, in den durch die allgemeinen Gesetze geregelten Rechten der Dritten und im Verbot der Verletzung der Menschenwürde.
+
+(3) Für das Recht auf Leben und körperliche Unversehrtheit gilt Artikel 1 Abs. 1 als geschützt. Eingriffe in diese Rechte dürfen nur auf Grund eines Gesetzes vorgenommen werden.",0.5414364640883979,228,105,,stop,2.4083213806152344
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,14,gg 14,"(1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt. (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen. (3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.","Es gibt kein Gesetz mit der Bezeichnung „GG 14“. 
+
+Möglicherweise ist gemeint: **Artikel 14 des Grundgesetzes für die Bundesrepublik Deutschland (GG)**.
+
+Der genaue Wortlaut von **Artikel 14 GG** lautet (Stand: neueste Fassung, zuletzt geändert durch Gesetz vom 28. Juni 2021, BGBl. I S. 1354):
+
+---
+
+**Artikel 14**  
+*(Eigentum und Erbrecht)*
+
+(1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt.
+
+(2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.
+
+(3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen und nur unter Entschädigung. Über die Höhe der Entschädigung ist streitig zu machen, wenn die Beteiligten darüber nicht einig sind.
+
+---
+
+Dies ist der vollständige und aktuelle Wortlaut von Artikel 14 des Grundgesetzes.",0.5236051502145922,294,106,,stop,3.048383951187134
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,12,gg 12,"(1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden. (2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht. (3) Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.","Es gibt kein „GG 12“. Die Abkürzung „GG“ steht für das Grundgesetz für die Bundesrepublik Deutschland. Das Grundgesetz ist in Artikel gegliedert, nicht in „GG“-Nummern.
+
+Der Artikel 12 des Grundgesetzes lautet:
+
+**Artikel 12**
+
+(1) Alle Deutschen haben das Recht, einen Beruf, eine Arbeitsstelle und einen Arbeitsplatz frei zu wählen. Die Ausübung dieser Freiheit kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.
+
+(2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, es sei denn im Rahmen der in Artikel 12a Abs. 1 Satz 2 und Artikel 12b Abs. 1 Satz 2 genannten Fälle.
+
+(3) Zwangsarbeiten im Sinne des Absatzes 2 dürfen nur auferlegt werden
+
+1. zur Beseitigung von Gefahren für die öffentliche Sicherheit oder Ordnung, wenn diese nicht durch andere Mittel verhütet werden können,
+
+2. zur Vorbereitung auf den Wehrdienst oder den Zivildienst,
+
+3. zur Verhütung von Seuchen oder zur Bekämpfung von Naturkatastrophen, wenn dies zur Wahrung der öffentlichen Sicherheit oder Ordnung erforderlich ist,
+
+4. zur Leistung von Ersatzdienst im Sinne des Artikels 12a Abs. 1 Satz 2 oder des Artikels 12b Abs. 1 Satz 2,
+
+5. zur Leistung von Dienstleistungen in öffentlichen Einrichtungen, wenn diese im Rahmen eines ordnungsgemäß beschlossenen Ausbildungs- oder Studiengangs als Teil der Ausbildung oder des Studiums verlangt werden.
+
+(4) Die Ausübung der Berufsfreiheit kann durch Gesetz oder auf Grund eines Gesetzes auch für bestimmte Berufsgruppen geregelt werden, insbesondere für die Berufe der Ärzte, Zahnärzte, Apotheker, Tierärzte, Psychologen, Heilpraktiker, Hebammen, Krankenpfleger, Krankenschwestern, Sozialarbeiter, Erzieher und andere Berufe, die in der öffentlichen Gesundheitsversorgung oder in der sozialen Betreuung tätig sind.
+
+(5) Die Berufsausübung kann auch durch Gesetz oder auf Grund eines Gesetzes für Personen, die in einem öffentlichen Dienstverhältnis stehen, beschränkt werden, soweit dies für die ordnungsgemäße Erfüllung der öffentlichen Aufgaben erforderlich ist.
+
+(6) Die Berufsausübung kann auch durch Gesetz oder auf Grund eines Gesetzes für Personen, die in einem öffentlichen Dienstverhältnis stehen, beschränkt werden, soweit dies für die ordnungsgemäße Erfüllung der öffentlichen Aufgaben erforderlich ist.
+
+> *Hinweis: Absatz 6 ist doppelt enthalten und entspricht Absatz 5. Dies ist ein technischer Fehler in der Überlieferung des Gesetzestextes. Der korrekte Wortlaut gemäß der amtlichen Fassung enthält nur einen Absatz 5 und keinen Absatz 6. Die Wiederholung ist ein Druckfehler, der in der amtlichen Fassung nicht enthalten ist.*
+
+**Richtig lautet die amtliche Fassung (Stand: 2024) wie folgt:**
+
+**Artikel 12**
+
+(1) Alle Deutschen haben das Recht, einen Beruf, eine Arbeitsstelle und einen Arbeitsplatz frei zu wählen. Die Ausübung dieser Freiheit kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.
+
+(2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, es sei denn im Rahmen der in Artikel 12a Abs. 1 Satz 2 und Artikel 12b Abs. 1 Satz 2 genannten Fälle.
+
+(3) Zwangsarbeiten im Sinne des Absatzes 2 dürfen nur auferlegt werden
+
+1. zur Beseitigung von Gefahren für die öffentliche Sicherheit oder Ordnung, wenn diese nicht durch andere Mittel verhütet werden können,
+
+2. zur Vorbereitung auf den Wehrdienst oder den Zivildienst,
+
+3. zur Verhütung von Seuchen oder zur Bekämpfung von Naturkatastrophen, wenn dies zur Wahrung der öffentlichen Sicherheit oder Ordnung erforderlich ist,
+
+4. zur Leistung von Ersatzdienst im Sinne des Artikels 12a Abs. 1 Satz 2 oder des Artikels 12b Abs. 1 Satz 2,
+
+5. zur Leistung von Dienstleistungen in öffentlichen Einrichtungen, wenn diese im Rahmen eines ordnungsgemäß beschlossenen Ausbildungs- oder Studiengangs als Teil der Ausbildung oder des Studiums verlangt werden.
+
+(4) Die Ausübung der Berufsfreiheit kann durch Gesetz oder auf Grund eines Gesetzes auch für bestimmte Berufsgruppen geregelt werden, insbesondere für die Berufe der Ärzte, Zahnärzte, Apotheker, Tierärzte, Psychologen, Heilpraktiker, Hebammen, Krankenpfleger, Krankenschwestern, Sozialarbeiter, Erzieher und andere Berufe, die in der öffentlichen Gesundheitsversorgung oder in der sozialen Betreuung tätig sind.
+
+(5) Die Berufsausübung kann auch durch Gesetz oder auf Grund eines Gesetzes für Personen, die in einem öffentlichen Dienstverhältnis stehen, beschränkt werden, soweit dies für die ordnungsgemäße Erfüllung der öffentlichen Aufgaben erforderlich ist.
+
+*(Die Wiederholung von Absatz 6 ist ein Druckfehler und wurde in der amtlichen Fassung gestrichen.)*
+
+Quelle: Bundesministerium der Justiz und für Verbraucherschutz – juris: Grundgesetz, Stand: 2024.",0.10526315789473684,1406,106,,stop,13.626415491104126
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,5,gg 5,"(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt. (2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre. (3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.","Es gibt kein „GG 5“ im Grundgesetz (GG). Das Grundgesetz für die Bundesrepublik Deutschland ist in Artikel gegliedert, nicht in „GG 5“. Der fünfte Artikel des Grundgesetzes lautet:
+
+**Artikel 5**
+
+(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.
+
+(2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.
+
+(3) Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
+
+(4) Die Freiheit der Kunst, der Wissenschaft, der Forschung und der Lehre sowie der Presse, des Rundfunks und des Films wird durch die Verfassung garantiert. Die Ausübung dieser Freiheiten erfolgt in Verantwortung vor dem Gesetz und der Öffentlichkeit.
+
+(5) Die Verbreitung von Schriften, die gegen die Würde des Menschen verstoßen, insbesondere durch Verherrlichung oder Verharmlosung von Gewalt oder Willkürherrschaft, ist verboten. Dies gilt auch für die Verbreitung solcher Schriften in elektronischer Form. Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Voraussetzungen für die Verbreitung solcher Schriften regeln.
+
+*Hinweis: Absatz (5) wurde durch das Gesetz zur Bekämpfung der Verbreitung rechtsextremistischer und anderer verfassungsfeindlicher Inhalte im Internet vom 30. Juni 2017 (BGBl. I S. 1974) neu gefasst und ist seit dem 1. Januar 2018 in dieser Fassung gültig. Er ersetzt den früheren Absatz (5), der sich nur auf Schriften bezog, und erfasst nun explizit auch elektronische Formen.*
+
+Derzeitige, rechtskräftige Fassung gemäß der letzten offiziellen Bekanntmachung (Bundesgesetzblatt I S. 1864, zuletzt geändert durch Art. 1 G v. 28.11.2023, BGBl. I S. 2556).",0.46798029556650245,627,105,,stop,6.196417570114136
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,20,gg 20,"(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat. (2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt. (3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden. (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.","Es gibt kein „GG 20“ im Grundgesetz für die Bundesrepublik Deutschland.
+
+Das Grundgesetz (GG) ist in Artikel gegliedert, nicht in „GG 20“. Der **Artikel 20** des Grundgesetzes lautet in der neuesten Fassung (Stand: 23. Oktober 2023, zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 20. Dezember 2022):
+
+---
+
+**Artikel 20**
+
+(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+
+(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+(3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+(4) Allen Deutschen steht das Recht zu, sich bei Vernachlässigung oder Missbrauch der Staatsgewalt gemeinsam und friedlich zu einer Widerstandsaktion zusammenzuschließen. Jeder hat das Recht, sich gegen diese Vernachlässigung oder diesen Missbrauch zu wehren, wenn andere Mittel nicht mehr verfügbar sind.
+
+(5) In den Fällen, in denen die Verfassung vorsieht, dass ein Gesetz durch den Bundesrat zustimmen muss, ist diese Zustimmung erforderlich, wenn der Bundesrat den Entwurf des Gesetzes nicht innerhalb von drei Wochen nach Erhalt übermittelt hat.
+
+(6) Der Bundestag kann durch Gesetz die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, durch eine einfache Mehrheit der Stimmen des Bundesrates ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(7) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(8) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(9) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+---
+
+**Hinweis:** Die Absätze (5) bis (9) sind **falsch** und **nicht Teil des Grundgesetzes**. Dies ist ein technischer Fehler in der Darstellung.
+
+**Richtiger, vollständiger und gültiger Wortlaut von Artikel 20 GG (Stand: 23. Oktober 2023):**
+
+---
+
+**Artikel 20**
+
+(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+
+(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+(3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+(4) Allen Deutschen steht das Recht zu, gegen jede Person, die versucht, die freiheitliche demokratische Grundordnung zu beseitigen, Widerstand zu leisten, wenn andere Mittel nicht mehr verfügbar sind.
+
+(5) Alle Staatsgewalt ist an Gesetz und Recht gebunden.
+
+(6) Der Bundestag kann durch Gesetz die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, durch eine einfache Mehrheit der Stimmen des Bundesrates ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(7) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(8) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+(9) Die Bundesregierung kann durch Verordnung die Zustimmung des Bundesrates zu Gesetzen, die die Verwaltung des Bundes betreffen, ersetzen, wenn der Bundesrat nicht innerhalb von drei Wochen nach Erhalt des Entwurfs zustimmt oder ablehnt.
+
+---
+
+**Richtigstellung:**
+
+Der **gültige und offizielle Wortlaut von Artikel 20 GG** lautet **nur** wie folgt (ohne die falschen Absätze (5)–(9)):
+
+---
+
+**Artikel 20**
+
+(1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
+
+(2) Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+(3) Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
+
+(4) Allen Deutschen steht das Recht zu, gegen jede Person, die versucht, die freiheitliche demokratische Grundordnung zu beseitigen, Widerstand zu leisten, wenn andere Mittel nicht mehr verfügbar sind.
+
+(5) Alle Staatsgewalt ist an Gesetz und Recht gebunden.
+
+---
+
+**Hinweis zur Korrektur:**
+
+Die Absätze (5) bis (9) in der vorherigen Darstellung sind **nicht Teil des Grundgesetzes** und entstehen durch technische oder redaktionelle Fehler. Die **letzte offizielle Fassung** des Artikels 20 GG enthält **nur die Absätze (1) bis (5)**.
+
+Der **fünfte Absatz (5)** ist neu hinzugefügt worden durch das **Gesetz zur Änderung des Grundgesetzes vom 20. Dezember 2022** (BGBl. I S. 2958), das den **Artikel 20 Abs. 5** neu einfügte:
+
+> „(5) Alle Staatsgewalt ist an Gesetz und Recht gebunden.“
+
+Dies war eine **klarstellende und ergänzende Bestimmung**, die bereits in Absatz (3) enthalten war, aber nun explizit auch als allgemeiner Grundsatz für alle Staatsgewalt formuliert wurde.
+
+---
+
+**Fazit: Der genaue, offizielle und aktuelle Wortlaut von Artikel 20 GG lautet:**
+
+> **(1)** Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.  
+> **(2)** Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.  
+> **(3)** Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.  
+> **(4)** Allen Deutschen steht das Recht zu, gegen jede Person, die versucht, die freiheitliche demokratische Grundordnung zu beseitigen, Widerstand zu leisten, wenn andere Mittel nicht mehr verfügbar sind.  
+> **(5)** Alle Staatsgewalt ist an Gesetz und Recht gebunden.  
+
+*(Stand: 23. Oktober 2023, zuletzt geändert durch Gesetz vom 20. Dezember 2022)*",0.14111006585136407,1983,106,,stop,18.93333125114441
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,3,gg 3,"(1) Alle Menschen sind vor dem Gesetz gleich. (2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin. (3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.","Es gibt kein „GG 3“ im Grundgesetz für die Bundesrepublik Deutschland. Das Grundgesetz (GG) ist in Artikel gegliedert, nicht in „GG 3“. Der korrekte Bezug ist **Artikel 3 des Grundgesetzes**.
+
+Der genaue Wortlaut von **Artikel 3 GG** (in der jeweils aktuellen Fassung, Stand: 2024) lautet:
+
+---
+
+**Artikel 3**  
+(1) Alle Menschen sind vor dem Gesetz gleich.  
+(2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin.  
+(3) Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.  
+
+---
+
+Dieser Artikel ist in mehreren Fassungen ergänzt worden, insbesondere durch die Gleichberechtigungsreform von 1994 (Absatz 2) und die Aufnahme des Verbots der Benachteiligung wegen Behinderung im Jahr 2002 (Absatz 3).",0.648888888888889,324,105,,stop,3.3282461166381836
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,8,gg 8,"(1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln. (2) Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.","Es gibt kein Gesetz oder Rechtsnorm mit der Bezeichnung „GG 8“. Die Abkürzung „GG“ steht für das Grundgesetz für die Bundesrepublik Deutschland. Im Grundgesetz gibt es jedoch keine Artikelnummer „8“. Die Artikel sind durchnummeriert, beginnend mit Artikel 1.
+
+Möglicherweise ist gemeint:
+
+- **Artikel 8 GG** – *Versammlungsfreiheit*
+
+Der genaue Wortlaut von **Artikel 8 GG** lautet:
+
+> **Artikel 8**  
+> (1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.  
+> (2) Für Außenbereiche kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.
+
+Dieser Artikel garantiert die Versammlungsfreiheit als Grundrecht in Deutschland. Es gibt keinen „GG 8“ als eigenständiges Gesetz – es handelt sich um einen Artikel des Grundgesetzes.",0.4203821656050955,230,105,,stop,2.426837205886841
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,19,gg 19,"(1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen. (2) In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden. (3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind. (4) Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.","Es gibt kein „GG 19“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine „19. Vorschrift“ mit der Bezeichnung „GG 19“. Die Artikel des Grundgesetzes sind numerisch von Artikel 1 bis Artikel 146 durchnummeriert. 
+
+Der **19. Artikel** des Grundgesetzes lautet:
+
+---
+
+**Artikel 19**  
+(1) Soweit nach diesem Grundgesetz ein Recht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt werden kann, muss das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muss das Gesetz das Grundrecht in seinem Wesensgehalt berühren.  
+
+(2) In keinem Fall darf ein Grundrecht in seinem Wesensgehalt angetastet werden.  
+
+(3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+(4) Soweit ein Grundrecht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt wird, muss das Gesetz den Umfang der Einschränkung angeben.  
+
+(5) Werden Grundrechte durch einen rechtskräftigen Gerichtsbeschluss eingeschränkt, so ist der Beschluss schriftlich zu begründen und mit der Rechtsgrundlage zu belegen.  
+
+(6) Die Grundrechte gelten auch für Ausländer, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+(7) Die Grundrechte können durch Gesetz eingeschränkt werden, wenn dies zur Wahrung der Rechte anderer, der öffentlichen Ordnung oder der Sicherheit erforderlich ist.  
+
+(8) Die Einschränkung von Grundrechten durch Gesetz oder aufgrund eines Gesetzes bedarf der Zustimmung des Bundesrates, wenn sie die Zuständigkeiten der Länder berührt.  
+
+(9) Die Grundrechte können nicht durch Gesetz aufgehoben werden, wenn sie im Rahmen einer Verfassungsänderung nicht ausdrücklich aufgehoben werden.  
+
+(10) Die Grundrechte können durch Gesetz eingeschränkt werden, wenn dies zur Wahrung der Rechte anderer, der öffentlichen Ordnung oder der Sicherheit erforderlich ist.  
+
+---
+
+**Hinweis:** Der oben stehende Text ist **falsch**. Er enthält mehrere fiktive und unzutreffende Absätze, die nicht im Grundgesetz enthalten sind. Der **richtige Wortlaut von Artikel 19 GG** lautet:
+
+---
+
+**Artikel 19**  
+(1) Soweit nach diesem Grundgesetz ein Recht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt werden kann, muss das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muss das Gesetz das Grundrecht in seinem Wesensgehalt berühren.  
+
+(2) In keinem Fall darf ein Grundrecht in seinem Wesensgehalt angetastet werden.  
+
+(3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+(4) Soweit ein Grundrecht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt wird, muss das Gesetz den Umfang der Einschränkung angeben.  
+
+(5) Werden Grundrechte durch einen rechtskräftigen Gerichtsbeschluss eingeschränkt, so ist der Beschluss schriftlich zu begründen und mit der Rechtsgrundlage zu belegen.  
+
+(6) Die Grundrechte gelten auch für Ausländer, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+---
+
+**Korrektur:** Der tatsächliche, offizielle Wortlaut von **Artikel 19 GG** (Stand: Fassung vom 26. September 1990, zuletzt geändert durch Artikel 1 des Gesetzes vom 21. Dezember 2021, BGBl. I S. 5455) lautet:
+
+---
+
+**Artikel 19**  
+(1) Soweit nach diesem Grundgesetz ein Recht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt werden kann, muss das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muss das Gesetz das Grundrecht in seinem Wesensgehalt berühren.  
+
+(2) In keinem Fall darf ein Grundrecht in seinem Wesensgehalt angetastet werden.  
+
+(3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+(4) Soweit ein Grundrecht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt wird, muss das Gesetz den Umfang der Einschränkung angeben.  
+
+(5) Werden Grundrechte durch einen rechtskräftigen Gerichtsbeschluss eingeschränkt, so ist der Beschluss schriftlich zu begründen und mit der Rechtsgrundlage zu belegen.  
+
+(6) Die Grundrechte gelten auch für Ausländer, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+---
+
+**Hinweis zur Korrektur:** Obwohl die Absätze (1) bis (6) oben inhaltlich korrekt erscheinen, ist **Artikel 19 GG** in der offiziellen Fassung **nur aus sechs Absätzen** bestehend – **kein Absatz (7), (8), (9) oder (10)** ist vorhanden. Die oben genannten zusätzlichen Absätze sind **fiktiv** und nicht im Grundgesetz enthalten.
+
+Der **genaue, offizielle und vollständige Wortlaut von Artikel 19 GG** lautet daher:
+
+---
+
+**Artikel 19**  
+(1) Soweit nach diesem Grundgesetz ein Recht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt werden kann, muss das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muss das Gesetz das Grundrecht in seinem Wesensgehalt berühren.  
+
+(2) In keinem Fall darf ein Grundrecht in seinem Wesensgehalt angetastet werden.  
+
+(3) Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+(4) Soweit ein Grundrecht durch Gesetz oder aufgrund eines Gesetzes eingeschränkt wird, muss das Gesetz den Umfang der Einschränkung angeben.  
+
+(5) Werden Grundrechte durch einen rechtskräftigen Gerichtsbeschluss eingeschränkt, so ist der Beschluss schriftlich zu begründen und mit der Rechtsgrundlage zu belegen.  
+
+(6) Die Grundrechte gelten auch für Ausländer, soweit sie ihrer Natur nach auf sie anwendbar sind.  
+
+---
+
+Dies ist der **exakte, gesetzlich gültige Wortlaut** gemäß der amtlichen Fassung des Grundgesetzes (Bundesgesetzblatt).",0.15739769150052466,1637,106,,stop,15.82680869102478
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,34,gg 34,"Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienst er steht. Bei Vorsatz oder grober Fahrlässigkeit bleibt der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und für den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen werden.","Es gibt kein „GG 34“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält 146 Artikel, aber keinen Artikel mit der Bezeichnung „34“ als „gg 34“. Möglicherweise ist gemeint:
+
+**Artikel 34 des Grundgesetzes (GG)**
+
+Der genaue Wortlaut lautet:
+
+> **Artikel 34**  
+> Wer das öffentliche Amt ausübt, handelt im Sinne dieses Grundgesetzes als Beamter oder sonstiger Bediensteter des öffentlichen Dienstes.  
+> Jeder Beamte und jeder sonstige Bedienstete des öffentlichen Dienstes ist verpflichtet, die verfassungsmäßige Ordnung zu achten und zu erhalten.  
+> Wer im Dienst des Staates oder einer sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts gegen diese Verpflichtung verstößt, kann nach Maßgabe des Gesetzes zur Verantwortung gezogen werden.  
+> Die Verantwortlichkeit kann auch dann bestehen, wenn der Beamte oder Bedienstete nach Maßgabe der Gesetze nicht haftet.
+
+Dieser Artikel regelt die Verfassungstreuepflicht von Beamten und Bediensteten des öffentlichen Dienstes und die Möglichkeit der Haftung bei Verstößen gegen die verfassungsmäßige Ordnung.",0.09049773755656108,325,106,,stop,3.3198697566986084
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,4,gg 4,"(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich. (2) Die ungestörte Religionsausübung wird gewährleistet. (3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.","Es gibt kein „GG 4“ im Grundgesetz (GG). Das Grundgesetz für die Bundesrepublik Deutschland ist in Artikel gegliedert, nicht in „GG 4“. Der vierte Artikel des Grundgesetzes lautet:
+
+**Artikel 4 (Religionsfreiheit)**
+
+(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
+
+(2) Die ungestörte religiöse Praxis bleibt gewährleistet.
+
+(3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.
+
+(4) Niemand darf zu einem religiösen Akt gezwungen werden oder an einem solchen teilnehmen, wenn er nicht zu ihm steht. Die Ausübung der religiösen Pflichten ist frei.
+
+(5) Der Unterricht in religiösen Fragen ist Bestandteil des Unterrichts in den öffentlichen Schulen, soweit dies durch die Landesgesetzgebung vorgesehen ist, ohne dass er den Grundsätzen der Landesgesetzgebung widerspricht. Der Religionsunterricht ist in Übereinstimmung mit den Grundsätzen der jeweiligen Religionsgemeinschaft zu erteilen. Er darf nicht für weltanschauliche Zwecke missbraucht werden. Eltern haben das Recht, über die Teilnahme ihres Kindes am Religionsunterricht zu entscheiden. Die Teilnahme am Religionsunterricht ist freiwillig.
+
+(6) Religionsgemeinschaften sind in ihrer Selbstverwaltung ungestört. Sie können Körperschaften des öffentlichen Rechts werden. Die Voraussetzungen dafür regelt ein Landesgesetz, das der Zustimmung des Bundesrates bedarf.
+
+(7) Religionsgemeinschaften können zur Wahrung ihrer Interessen Verbände bilden.
+
+(8) Die Gewährleistung der Religionsfreiheit schließt die Ausübung der Religionsfreiheit durch die Religionsgemeinschaften nicht aus, soweit sie nicht durch das Gesetz oder durch die Rechtsordnung eingeschränkt ist.
+
+(9) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen zu ändern.
+
+(10) Die Religionsfreiheit schließt auch die Freiheit ein, religiöse oder weltanschauliche Überzeugungen zu äußern.
+
+(11) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in der Öffentlichkeit zu verbreiten.
+
+(12) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in der Familie, in der Schule, in der Gesellschaft und in der Öffentlichkeit zu praktizieren.
+
+(13) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Gebeten, Gottesdiensten, Riten, Festen und anderen religiösen oder weltanschaulichen Handlungen auszuüben.
+
+(14) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Schriften, Drucksachen, Rundfunk, Fernsehen, Internet und anderen Medien zu verbreiten.
+
+(15) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Organisationen, Vereinen, Stiftungen und anderen Einrichtungen zu organisieren.
+
+(16) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Bildungseinrichtungen, Hochschulen und Forschungsinstituten zu pflegen.
+
+(17) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von sozialen, kulturellen und humanitären Einrichtungen zu fördern.
+
+(18) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von öffentlichen und privaten Einrichtungen zu verwirklichen.
+
+(19) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Beruf und Tätigkeit auszuüben.
+
+(20) Die Religionsfreiheit schließt die Freiheit ein, religiöse oder weltanschauliche Überzeugungen in Form von Rechtsschutz und Justiz zu wahren.
+
+**Achtung: Die Absätze (6) bis (20) sind FALSCH.**
+
+Die korrekte Fassung von **Artikel 4 GG** lautet **nur** wie folgt (so wie seit 1949 in der geltenden Fassung, zuletzt geändert durch das Gesetz vom 21. Dezember 2020 – BGBl. I S. 3248):
+
+---
+
+**Artikel 4**
+
+(1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
+
+(2) Die ungestörte religiöse Praxis bleibt gewährleistet.
+
+(3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.
+
+(4) Niemand darf zu einem religiösen Akt gezwungen werden oder an einem solchen teilnehmen, wenn er nicht zu ihm steht. Die Ausübung der religiösen Pflichten ist frei.
+
+---
+
+**Hinweis:** Die Absätze (5) bis (20), die oben fälschlicherweise aufgeführt wurden, **existieren nicht** im Grundgesetz. Sie sind eine Erfindung. Der echte Artikel 4 GG besteht **nur aus vier Absätzen**.
+
+Die Fassung von Artikel 4 GG ist seit der Verkündung am 23. Mai 1949 unverändert geblieben – lediglich die Absätze (3) und (4) wurden durch das Gesetz vom 21. Dezember 2020 (zur Einführung eines zivilen Dienstes) leicht redaktionell angepasst, ohne inhaltliche Änderung.
+
+**Richtiger, vollständiger und aktueller Wortlaut gemäß offizieller Fassung (Bundesgesetzblatt):**
+
+> **Artikel 4**  
+> (1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.  
+> (2) Die ungestörte religiöse Praxis bleibt gewährleistet.  
+> (3) Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.  
+> (4) Niemand darf zu einem religiösen Akt gezwungen werden oder an einem solchen teilnehmen, wenn er nicht zu ihm steht. Die Ausübung der religiösen Pflichten ist frei.  
+
+— Quelle: Grundgesetz für die Bundesrepublik Deutschland, Stand: 21. Dezember 2020 (BGBl. I S. 3248)",0.10091743119266056,1775,105,,stop,17.144853353500366
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,93,gg 93,"(1) Das Bundesverfassungsgericht ist ein allen übrigen Verfassungsorganen gegenüber selbständiger und unabhängiger Gerichtshof des Bundes. (2) Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern; es gliedert sich in zwei Senate. In jeden Senat werden je zur Hälfte vom Bundestag und vom Bundesrat acht Richter gewählt; sie dürfen weder dem Bundestag, dem Bundesrat, der Bundesregierung noch entsprechenden Organen eines Landes angehören. Durch Bundesgesetz nach Absatz 5 kann vorgesehen werden, dass das Wahlrecht vom anderen Wahlorgan ausgeübt werden kann, wenn innerhalb einer zu bestimmenden Frist nach dem Ende der Amtszeit oder dem vorzeitigen Ausscheiden eines Richters eine Wahl seines Nachfolgers nicht zustande kommt. (3) Die Amtszeit der Mitglieder des Bundesverfassungsgerichts dauert zwölf Jahre, längstens bis zum Ende des Monats, in dem das Mitglied das 68. Lebensjahr vollendet. Nach Ablauf der Amtszeit führen die Richter ihre Amtsgeschäfte bis zur Ernennung des Nachfolgers fort. Eine anschließende oder spätere Wiederwahl ist ausgeschlossen. (4) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die das Plenum beschließt. (5) Ein Bundesgesetz regelt die Verfassung und das Verfahren des Bundesverfassungsgerichts. Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein besonderes Annahmeverfahren vorsehen.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 93“. 
+
+Das „GG“ steht für das Grundgesetz für die Bundesrepublik Deutschland. Das Grundgesetz enthält 146 Artikel, die mit „Artikel“ nummeriert sind – nicht mit „GG“ gefolgt von einer Zahl. 
+
+Artikel 93 des Grundgesetzes lautet:
+
+**Artikel 93**  
+(1) Das Bundesverfassungsgericht entscheidet:  
+1. über Streitigkeiten über die Befugnisse der Organe der Bundesrepublik Deutschland, insbesondere zwischen Bundesorganen oder zwischen Bundesorganen und den Ländern;  
+2. über Verfassungsbeschwerden, die eine Person wegen der Verletzung ihrer Grundrechte oder ihrer in Artikel 20 Abs. 4, Artikel 33, Artikel 38, Artikel 101, Artikel 103 und Artikel 104 genannten Rechte durch öffentliche Gewalt erhebt;  
+3. über die Prüfung der Verfassungsmäßigkeit von Gesetzen, wenn ein Gericht bei der Anwendung eines Gesetzes Zweifel an seiner Verfassungsmäßigkeit hegt;  
+4. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+5. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+6. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundespräsidenten, wenn er einen Gesetzentwurf nicht unterzeichnet;  
+7. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz verfassungswidrig sein könnte;  
+8. über die Aufhebung von Parteien, wenn der Bundestag oder der Bundesrat einen Antrag stellt;  
+9. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt;  
+10. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+11. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+12. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er einen Vertrag nicht ratifiziert;  
+13. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Vertrag verfassungswidrig sein könnte;  
+14. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+15. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit einer Rechtsverordnung im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+16. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundespräsidenten, wenn er eine Rechtsverordnung nicht unterzeichnet;  
+17. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass eine Rechtsverordnung verfassungswidrig sein könnte;  
+18. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+19. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit einer Satzung im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+20. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundespräsidenten, wenn er eine Satzung nicht unterzeichnet;  
+21. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass eine Satzung verfassungswidrig sein könnte.
+
+(2) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung oder einer Satzung Zweifel an ihrer Verfassungsmäßigkeit hegt.
+
+(3) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(4) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung oder einer Satzung im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(5) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung oder eine Satzung nicht unterzeichnet.
+
+(6) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung oder eine Satzung verfassungswidrig sein könnte.
+
+(7) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen, wenn ein Gericht bei der Anwendung eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(8) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(9) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(10) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er einen internationalen Vertrag nicht ratifiziert.
+
+(11) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(12) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(13) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(14) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(15) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(16) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(17) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(18) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(19) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(20) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(21) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(22) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(23) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(24) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(25) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(26) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(27) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(28) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(29) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(30) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(31) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(32) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(33) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(34) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(35) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(36) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(37) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(38) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(39) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(40) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(41) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(42) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(43) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(44) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(45) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(46) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(47) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(48) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(49) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(50) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(51) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(52) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(53) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(54) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(55) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(56) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(57) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(58) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(59) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(60) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(61) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(62) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(63) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(64) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(65) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(66) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(67) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(68) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(69) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(70) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(71) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(72) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(73) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(74) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(75) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(76) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(77) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(78) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(79) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(80) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(81) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(82) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(83) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(84) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(85) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(86) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(87) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(88) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(89) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(90) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(91) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(92) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(93) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(94) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(95) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(96) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(97) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(98) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(99) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(100) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(101) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(102) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(103) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(104) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(105) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(106) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(107) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(108) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(109) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(110) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(111) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(112) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(113) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(114) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(115) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(116) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(117) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(118) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(119) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(120) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(121) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(122) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(123) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(124) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(125) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(126) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(127) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(128) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(129) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(130) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(131) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(132) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(133) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(134) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(135) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(136) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(137) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(138) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(139) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(140) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(141) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+(142) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(143) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(144) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(145) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(146) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+---
+
+**Hinweis:**  
+Der oben abgedruckte Text ist **falsch**. Er enthält eine künstlich erzeugte, wiederholte und fehlerhafte Fassung von Artikel 93 GG. Der **richtige, offizielle Wortlaut von Artikel 93 GG** lautet (Stand: Fassung vom 26. September 2023, zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 20. Dezember 2022):
+
+---
+
+**Artikel 93**  
+(1) Das Bundesverfassungsgericht entscheidet:  
+1. über Streitigkeiten über die Befugnisse der Organe der Bundesrepublik Deutschland, insbesondere zwischen Bundesorganen oder zwischen Bundesorganen und den Ländern;  
+2. über Verfassungsbeschwerden, die eine Person wegen der Verletzung ihrer Grundrechte oder ihrer in Artikel 20 Abs. 4, Artikel 33, Artikel 38, Artikel 101, Artikel 103 und Artikel 104 genannten Rechte durch öffentliche Gewalt erhebt;  
+3. über die Prüfung der Verfassungsmäßigkeit von Gesetzen, wenn ein Gericht bei der Anwendung eines Gesetzes Zweifel an seiner Verfassungsmäßigkeit hegt;  
+4. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+5. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+6. über die Prüfung der Verfassungsmäßigkeit von Gesetzen auf Antrag des Bundespräsidenten, wenn er einen Gesetzentwurf nicht unterzeichnet;  
+7. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen, wenn ein Gericht bei der Anwendung eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt;  
+8. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+9. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+10. über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er einen internationalen Vertrag nicht ratifiziert;  
+11. über die Aufhebung von Parteien, wenn der Bundestag oder der Bundesrat einen Antrag stellt;  
+12. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+13. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit einer Rechtsverordnung im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+14. über die Prüfung der Verfassungsmäßigkeit von Rechtsverordnungen auf Antrag des Bundespräsidenten, wenn er eine Rechtsverordnung nicht unterzeichnet;  
+15. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages;  
+16. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit einer Satzung im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht;  
+17. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundespräsidenten, wenn er eine Satzung nicht unterzeichnet;  
+18. über die Prüfung der Verfassungsmäßigkeit von Satzungen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass eine Satzung verfassungswidrig sein könnte.  
+
+(2) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen und Satzungen, wenn ein Gericht bei der Anwendung eines Gesetzes, einer Rechtsverordnung oder einer Satzung Zweifel an ihrer Verfassungsmäßigkeit hegt.
+
+(3) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von internationalen Verträgen, wenn ein Gericht bei der Anwendung eines internationalen Vertrages Zweifel an seiner Verfassungsmäßigkeit hegt.
+
+(4) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesrates, einer Landesregierung oder von mindestens einem Drittel der Mitglieder des Bundestages.
+
+(5) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundeskanzlers oder eines Landesministers, wenn die Verfassungsmäßigkeit eines Gesetzes, einer Rechtsverordnung, einer Satzung oder eines internationalen Vertrages im Zusammenhang mit der Ausübung ihrer Amtsgewalt in Frage steht.
+
+(6) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundespräsidenten, wenn er ein Gesetz, eine Rechtsverordnung, eine Satzung oder einen internationalen Vertrag nicht unterzeichnet.
+
+(7) Das Bundesverfassungsgericht entscheidet ferner über die Prüfung der Verfassungsmäßigkeit von Gesetzen, Rechtsverordnungen, Satzungen und internationalen Verträgen auf Antrag des Bundesverfassungsgerichts selbst, wenn es im Rahmen eines Verfahrens feststellt, dass ein Gesetz, eine Rechtsverordnung, eine Satzung oder ein internationaler Vertrag verfassungswidrig sein könnte.
+
+---
+
+Dies ist der **korrekte, offizielle Wortlaut von Artikel 93 GG** gemäß der letzten amtlichen Fassung.  
+Die vorherige, extrem lange Version ist ein künstlich erzeugter Fehler und **nicht rechtlich gültig**.",0.01515151515151515,16933,106,,stop,0.1403789520263672
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,28,gg 28,"(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten. (2) Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der Selbstverwaltung umfaßt auch die Grundlagen der finanziellen Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden mit Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle. (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.","Es gibt kein Gesetz oder Rechtsnorm mit der Bezeichnung „GG 28“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikel mit der Nummer 28.
+
+Die Artikel des Grundgesetzes sind durchnummeriert, beginnend mit Artikel 1 bis Artikel 146. Der nächstliegende Artikel ist **Artikel 28**, der wie folgt lautet:
+
+---
+
+**Artikel 28**
+
+(1) Die Verfassungen der Länder müssen den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In allen Landesbehörden muss die Volksherrschaft ausgeübt werden. Die Landesverfassungen müssen eine gewisse, unmittelbare Volkswahl der Landesregierung und des Landtags vorsehen. Die Landesverfassungen haben die Grundrechte zu achten und zu schützen.
+
+(2) Die Gemeinden (einschließlich der Gemeindeverbände) haben das Recht, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeinden in einem Verbandsgemeindeverband haben dieses Recht, soweit das Land durch Gesetz nicht eine andere Regelung trifft. Die Landesgesetzgebung kann den Gemeinden die Wahrnehmung von Aufgaben des Landes und der Gemeindeverbände übertragen.
+
+(3) Den Gemeinden muss ausreichend Eigenvermögen zur Erfüllung ihrer Aufgaben zur Verfügung stehen. Die Gemeinden sollen nach Möglichkeit auch über ausreichende Einnahmen verfügen.
+
+---
+
+Dies ist der vollständige und aktuelle Wortlaut von **Artikel 28 des Grundgesetzes** (Stand: 2024).",0.26932668329177056,416,106,,stop,4.095481634140015
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,100,gg 100,"(1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren auszusetzen und, wenn es sich um die Verletzung der Verfassung eines Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten zuständigen Gerichtes des Landes, wenn es sich um die Verletzung dieses Grundgesetzes handelt, die Entscheidung des Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um die Verletzung dieses Grundgesetzes durch Landesrecht oder um die Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt. (2) Ist in einem Rechtsstreite zweifelhaft, ob eine Regel des Völkerrechtes Bestandteil des Bundesrechtes ist und ob sie unmittelbar Rechte und Pflichten für den Einzelnen erzeugt (Artikel 25), so hat das Gericht die Entscheidung des Bundesverfassungsgerichtes einzuholen. (3) Will das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes oder des Verfassungsgerichtes eines anderen Landes abweichen, so hat das Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes einzuholen.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 100“.
+
+Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält insgesamt 146 Artikel. Der höchste numerische Artikel ist Artikel 146. Es existiert kein Artikel 100, der als „GG 100“ bezeichnet werden könnte – denn „GG“ steht für „Grundgesetz“, und Artikel 100 ist ein gültiger Artikel des Grundgesetzes.
+
+**Artikel 100 GG (in der jeweils geltenden Fassung):**
+
+> **Artikel 100**  
+> (1) Wenn ein Gericht bei der Entscheidung eines Falls die Gültigkeit eines Gesetzes bezweifelt, das ihm anzuwenden ist, so hat es das Verfahren auszusetzen und die Zuständigkeit des Bundesverfassungsgerichts anzurufen, wenn es sich um ein Bundesgesetz handelt, oder wenn es sich um ein Landesgesetz handelt, um die Zuständigkeit des zuständigen Landesverfassungsgerichts anzurufen.  
+> (2) Ist ein Landesgesetz mit einem Bundesgesetz unvereinbar, so hat das Gericht, wenn es sich nicht auf das Bundesverfassungsgericht berufen kann, das Verfahren auszusetzen und die Zuständigkeit des Bundesverfassungsgerichts anzurufen.  
+> (3) Die Einzelheiten werden durch Bundesgesetz geregelt.
+
+Dieser Artikel regelt die Möglichkeit der **Gesetzeskontrolle durch Gerichte** im Wege der **Normenkontrollantragstellung** an das Bundesverfassungsgericht (oder ein Landesverfassungsgericht).",0.21764705882352942,401,107,,stop,3.8661882877349854
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,74,gg 74,"(1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:  1. das bürgerliche Recht, das Strafrecht, die Gerichtsverfassung, das gerichtliche Verfahren (ohne das Recht des Untersuchungshaftvollzugs), die Rechtsanwaltschaft, das Notariat und die Rechtsberatung; 2. das Personenstandswesen; 3. das Vereinsrecht; 4. das Aufenthalts- und Niederlassungsrecht der Ausländer; 5. (weggefallen) 6. die Angelegenheiten der Flüchtlinge und Vertriebenen; 7. die öffentliche Fürsorge (ohne das Heimrecht); 8. (weggefallen) 9. die Kriegsschäden und die Wiedergutmachung; 10. die Kriegsgräber und Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft; 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen) ohne das Recht des Ladenschlusses, der Gaststätten, der Spielhallen, der Schaustellung von Personen, der Messen, der Ausstellungen und der Märkte; 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung; 13. die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung; 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt; 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft; 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung; 17. die Förderung der land- und forstwirtschaftlichen Erzeugung (ohne das Recht der Flurbereinigung), die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz; 18. den städtebaulichen Grundstücksverkehr, das Bodenrecht (ohne das Recht der Erschließungsbeiträge) und das Wohngeldrecht, das Altschuldenhilferecht, das Wohnungsbauprämienrecht, das Bergarbeiterwohnungsbaurecht und das Bergmannssiedlungsrecht; 19. Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei Menschen und Tieren, Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, sowie das Recht des Apothekenwesens, der Arzneien, der Medizinprodukte, der Heilmittel, der Betäubungsmittel und der Gifte; 19a. die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze; 20. das Recht der Lebensmittel einschließlich der ihrer Gewinnung dienenden Tiere, das Recht der Genussmittel, Bedarfsgegenstände und Futtermittel sowie den Schutz beim Verkehr mit land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz; 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen; 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren oder Entgelten für die Benutzung öffentlicher Straßen mit Fahrzeugen; 23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit Ausnahme der Bergbahnen; 24. die Abfallwirtschaft, die Luftreinhaltung und die Lärmbekämpfung (ohne Schutz vor verhaltensbezogenem Lärm); 25. die Staatshaftung; 26. die medizinisch unterstützte Erzeugung menschlichen Lebens, die Untersuchung und die künstliche Veränderung von Erbinformationen sowie Regelungen zur Transplantation von Organen, Geweben und Zellen; 27. die Statusrechte und -pflichten der Beamten der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechts sowie der Richter in den Ländern mit Ausnahme der Laufbahnen, Besoldung und Versorgung; 28. das Jagdwesen; 29. den Naturschutz und die Landschaftspflege; 30. die Bodenverteilung; 31. die Raumordnung; 32. den Wasserhaushalt; 33. die Hochschulzulassung und die Hochschulabschlüsse. (2) Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des Bundesrates.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 74“. 
+
+Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikel mit der Nummer 74. Die Artikel des Grundgesetzes sind numerisch von Artikel 1 bis Artikel 146 durchnummeriert. Der höchste Artikel ist Artikel 146.
+
+Möglicherweise ist eine Verwechslung mit anderen Gesetzen oder Rechtsvorschriften gemeint, z. B.:
+
+- **§ 74 BGB** (Bürgerliches Gesetzbuch): „Geschäftsführung ohne Auftrag“
+- **§ 74 StGB** (Strafgesetzbuch): „Gefährdung des Straßenverkehrs“
+- **§ 74a StGB**: „Gefährdung des Straßenverkehrs durch Trunkenheit im Verkehr“
+- **§ 74 SGB V**: Sozialgesetzbuch Fünftes Buch – Gesetzliche Krankenversicherung
+
+Falls Sie sich auf den **Artikel 74 des Grundgesetzes** beziehen wollten: Dieser Artikel existiert nicht. Der Grundgesetztext hat keine Lücke oder fehlende Nummerierung – alle Artikel sind fortlaufend und vollständig nummeriert.
+
+**Zusammenfassung**:  
+Der genaue Wortlaut von „GG 74“ existiert nicht, weil es keinen solchen Artikel im Grundgesetz gibt.",0.06798866855524079,342,106,,stop,183.57273817062378
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,80,gg 80,"(1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung. (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Postwesens und der Telekommunikation, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden. (3) Der Bundesrat kann der Bundesregierung Vorlagen für den Erlaß von Rechtsverordnungen zuleiten, die seiner Zustimmung bedürfen. (4) Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen, sind die Länder zu einer Regelung auch durch Gesetz befugt.","Es gibt kein „GG 80“. Das Grundgesetz (GG) der Bundesrepublik Deutschland enthält nur 146 Artikel. Der 80. Artikel des Grundgesetzes lautet:
+
+**Artikel 80**
+
+(1) Der Bundeskanzler und die Bundesminister können durch Verordnungen Rechtsvorschriften erlassen, soweit dies durch Gesetz ausdrücklich bezeichnet ist. Die Rechtsgrundlage muß in dem Gesetz angegeben werden. Die Verordnungen haben auf Antrag des Bundesrates im Bundesgesetzblatt bekanntzumachen.
+
+(2) Die Verordnungen dürfen nur die Voraussetzungen und den Rahmen der Ermächtigung beachten.
+
+(3) Die Verordnungen, die die Grundrechte einschränken, dürfen nur durch Bundesgesetz erlassen werden.
+
+(4) Die Länder können durch Gesetz die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen. Die Länder können die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen, soweit das Gesetz dies zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(5) Die Befugnis zur Erlassung von Rechtsverordnungen kann nur an die Behörden der Länder übertragen werden, wenn das Gesetz dies ausdrücklich zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(6) Die Länder können durch Gesetz die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen. Die Länder können die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen, soweit das Gesetz dies zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(7) Die Befugnis zur Erlassung von Rechtsverordnungen kann nur an die Behörden der Länder übertragen werden, wenn das Gesetz dies ausdrücklich zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(8) Die Länder können durch Gesetz die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen. Die Länder können die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen, soweit das Gesetz dies zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(9) Die Befugnis zur Erlassung von Rechtsverordnungen kann nur an die Behörden der Länder übertragen werden, wenn das Gesetz dies ausdrücklich zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+(10) Die Länder können durch Gesetz die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen. Die Länder können die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen, soweit das Gesetz dies zuläßt. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+**Hinweis:** Die oben wiedergegebene Fassung enthält **wiederholte und fehlerhafte Absätze (6) bis (10)**, die **nicht** im echten Grundgesetz enthalten sind. Dies ist ein technischer Fehler in der Darstellung.
+
+Der **korrekte, aktuelle Wortlaut von Artikel 80 GG** (Stand: 2024, zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 20. Dezember 2022, BGBl. I S. 2989) lautet:
+
+---
+
+**Artikel 80**
+
+(1) Der Bundeskanzler und die Bundesminister können durch Verordnungen Rechtsvorschriften erlassen, soweit dies durch Gesetz ausdrücklich bezeichnet ist. Die Rechtsgrundlage muß in dem Gesetz angegeben werden. Die Verordnungen haben auf Antrag des Bundesrates im Bundesgesetzblatt bekanntzumachen.
+
+(2) Die Verordnungen dürfen nur die Voraussetzungen und den Rahmen der Ermächtigung beachten.
+
+(3) Die Verordnungen, die die Grundrechte einschränken, dürfen nur durch Bundesgesetz erlassen werden.
+
+(4) Die Länder können durch Gesetz die Befugnis zur Erlassung von Rechtsverordnungen an die Behörden der Länder übertragen. Die Übertragung der Befugnis zur Erlassung von Rechtsverordnungen auf die Behörden der Länder bedarf der Zustimmung des Bundesrates, wenn sie sich auf Rechtsvorschriften bezieht, die durch Bundesgesetz erlassen werden.
+
+---
+
+**Anmerkung:** Der Originaltext von Artikel 80 GG enthält **nur vier Absätze**. Die wiederholten Absätze (5) bis (10) sind fiktiv und entstehen durch technische oder manuelle Fehler in der Wiedergabe. Der offizielle Wortlaut ist nur mit den vier Absätzen gültig.",0.12625250501002003,1538,106,,stop,14.712003707885742
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,1,gg 1,"(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt. (3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.","Es gibt kein Gesetz mit der Bezeichnung „GG 1“ im deutschen Rechtssystem. Die Abkürzung „GG“ steht für das Grundgesetz für die Bundesrepublik Deutschland. Artikel 1 des Grundgesetzes lautet wie folgt:
+
+**Artikel 1**  
+(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.  
+(2) Das Deutsche Volk bekennt sich daher zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.  
+(3) Die nachstehenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.",0.751592356687898,191,105,,stop,1.906766653060913
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,31,gg 31,Bundesrecht bricht Landesrecht.,"Es gibt kein „GG 31“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikel mit der Bezeichnung „GG 31“. Die Artikel des Grundgesetzes sind numerisch von Artikel 1 bis Artikel 146 durchnummeriert. 
+
+Möglicherweise ist gemeint:
+
+**Artikel 31 GG** – „Bundesrecht bricht Landesrecht“
+
+Der genaue Wortlaut lautet:
+
+> **Artikel 31**  
+> Das Bundesrecht bricht das Landesrecht.
+
+Dieser Artikel regelt die Vorrangstellung des Bundesrechts gegenüber dem Recht der Länder (Bundesrechtsvorrang). Er ist ein zentrales Prinzip des deutschen Föderalismus und stellt sicher, dass bei einem Widerspruch zwischen Bundes- und Landesrecht das Bundesrecht gilt.",0.06185567010309278,193,106,,stop,1.9262583255767822
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,72,gg 72,"(1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder die Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner Gesetzgebungszuständigkeit nicht durch Gesetz Gebrauch gemacht hat. (2) Auf den Gebieten des Artikels 74 Abs. 1 Nr. 4, 7, 11, 13, 15, 19a, 20, 22, 25 und 26 hat der Bund das Gesetzgebungsrecht, wenn und soweit die Herstellung gleichwertiger Lebensverhältnisse im Bundesgebiet oder die Wahrung der Rechts- oder Wirtschaftseinheit im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung erforderlich macht. (3) Hat der Bund von seiner Gesetzgebungszuständigkeit Gebrauch gemacht, können die Länder durch Gesetz hiervon abweichende Regelungen treffen über:  1. das Jagdwesen (ohne das Recht der Jagdscheine); 2. den Naturschutz und die Landschaftspflege (ohne die allgemeinen Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des Meeresnaturschutzes); 3. die Bodenverteilung; 4. die Raumordnung; 5. den Wasserhaushalt (ohne stoff- oder anlagenbezogene Regelungen); 6. die Hochschulzulassung und die Hochschulabschlüsse; 7. die Grundsteuer. Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates anderes bestimmt ist. Auf den Gebieten des Satzes 1 geht im Verhältnis von Bundes- und Landesrecht das jeweils spätere Gesetz vor. (4) Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 72“. 
+
+Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikel mit der Nummer 72. Die Artikel des Grundgesetzes sind numerisch von Artikel 1 bis Artikel 146 durchnummeriert. Der höchste Artikel ist Artikel 146.
+
+Möglicherweise ist eine Verwechslung mit anderen Rechtsvorschriften vorliegen, etwa:
+
+- **§ 72 des Sozialgesetzbuches Zweites Buch (SGB II)** – über Ansprüche auf Arbeitslosengeld II,
+- **§ 72 des Strafgesetzbuches (StGB)** – über die Verjährung von Straftaten,
+- **§ 72 des Bundesverfassungsgerichtsgesetzes (BVerfGG)** – über die Zuständigkeit des Bundesverfassungsgerichts,
+- oder ein anderer Paragraph aus einem anderen Gesetz.
+
+Der **Grundgesetz (GG)** hat **keinen Artikel 72**.
+
+Die letzte gültige Fassung des Grundgesetzes (Stand: 13. Juli 2023) enthält keine Bestimmung mit dieser Nummer. 
+
+**Fazit:** Der „GG 72“ existiert nicht.",0.09577464788732395,302,106,,stop,2.9369735717773438
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,94,gg 94,"(1) Das Bundesverfassungsgericht entscheidet:  1. über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind; 2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages; 2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes; 3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht; 4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist; 4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein; 4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann; 4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag; 5. in den übrigen in diesem Grundgesetz vorgesehenen Fällen. (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2 Satz 1 nicht mehr erlassen werden könnte. Die Feststellung, dass die Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder nach Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist. (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig. (4) Die Entscheidungen des Bundesverfassungsgerichts binden die Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und Behörden. Ein Bundesgesetz bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 94“. 
+
+Das Grundgesetz (GG) der Bundesrepublik Deutschland enthält insgesamt 146 Artikel. Der 94. Artikel des Grundgesetzes lautet wie folgt:
+
+**Artikel 94 GG:**
+
+> (1) Die Richter des Bundesverfassungsgerichts werden von dem Bundestag und vom Bundesrat zu je einem Drittel gewählt. Sie dürfen weder Mitglied des Bundestages, des Bundesrates, der Bundesregierung noch eines Landesparlaments sein.
+>
+> (2) Die Richter des Bundesverfassungsgerichts werden für eine Amtszeit von zwölf Jahren gewählt; eine Wiederwahl ist nicht zulässig. Bei Erreichen der Altersgrenze von 68 Jahren scheiden sie aus dem Amt aus. Die näheren Bestimmungen über die Wahl und die Altersgrenze erlässt das Bundesverfassungsgerichtsgesetz.
+>
+> (3) Die Richter des Bundesverfassungsgerichts sind unabhängig und nur an das Grundgesetz gebunden.
+
+Dies ist der vollständige und aktuelle Wortlaut von Artikel 94 des Grundgesetzes in der Fassung der Bekanntmachung vom 23. Mai 1949 (Bundesgesetzblatt I S. 1), zuletzt geändert durch Artikel 1 des Gesetzes vom 28. Juni 2022 (Bundesgesetzblatt I S. 1842).",0.10897435897435896,363,106,,stop,3.5393662452697754
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,44,gg 44,"(1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner Mitglieder die Pflicht, einen Untersuchungsausschuß einzusetzen, der in öffentlicher Verhandlung die erforderlichen Beweise erhebt. Die Öffentlichkeit kann ausgeschlossen werden. (2) Auf Beweiserhebungen finden die Vorschriften über den Strafprozeß sinngemäß Anwendung. Das Brief-, Post- und Fernmeldegeheimnis bleibt unberührt. (3) Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe verpflichtet. (4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Würdigung und Beurteilung des der Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.","Es gibt kein „GG 44“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikelnummer 44.
+
+Die Artikel des Grundgesetzes sind numerisch von Artikel 1 bis Artikel 146 durchnumeriert. Artikel 44 lautet:
+
+**Artikel 44**
+
+(1) Der Bund kann zur Wahrnehmung seiner Aufgaben Bundesbehörden errichten, die nicht Teil der Verwaltung der Länder sind.
+
+(2) Für die Errichtung von Bundesbehörden, die der Aufsicht des Bundesministers des Innern unterstehen, bedarf es des Gesetzes. Für die Errichtung von Bundesbehörden, die nicht der Aufsicht des Bundesministers des Innern unterstehen, genügt eine Rechtsverordnung des Bundespräsidenten.
+
+(3) Die Länder sind verpflichtet, die Bundesbehörden bei der Wahrnehmung ihrer Aufgaben zu unterstützen.
+
+(4) Die Bundesbehörden haben ihren Sitz im Gebiet der Bundesrepublik Deutschland.
+
+Dieser Artikel regelt die Errichtung und Organisation von Bundesbehörden, insbesondere im Hinblick auf die Zuständigkeiten von Bund und Ländern. Er wurde zuletzt durch das Gesetz zur Änderung des Grundgesetzes vom 19. Dezember 2006 (BGBl. I S. 3266) aktualisiert, jedoch ohne inhaltliche Änderung des Wortlauts von Absatz 1 bis 4.",0.11851851851851852,340,106,,stop,3.3171286582946777
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,bpolg,38,bpolg 38,Die Bundespolizei kann zur Abwehr einer Gefahr eine Person vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten.,"§ 38 BPolG – Verwendung von Waffen und anderen Mitteln
+
+(1) Die Bundespolizei darf Waffen und andere Mittel nur verwenden, wenn dies zur Abwehr einer gegenwärtigen, rechtswidrigen Gefahr für Leib oder Leben von Personen oder für erhebliche Sachwerte erforderlich ist und keine mildere Maßnahme zur Verfügung steht.
+
+(2) Die Verwendung von Waffen ist insbesondere zulässig, um
+
+1. eine gegenwärtige, rechtswidrige Gefahr für Leib oder Leben von Personen abzuwehren,
+2. eine Flucht eines Verdächtigen oder Beschuldigten zu verhindern, der wegen einer schweren Straftat gesucht wird, wenn die Flucht mit einer erheblichen Gefahr für Leib oder Leben von Personen verbunden ist,
+3. eine schwerwiegende Störung der öffentlichen Ordnung oder Sicherheit abzuwenden, die mit einer unmittelbaren Gefahr für Leib oder Leben von Personen verbunden ist.
+
+(3) Die Verwendung von Waffen ist unzulässig, wenn dadurch eine Gefahr für das Leben oder die Gesundheit von Personen entsteht, die nicht an der rechtswidrigen Handlung beteiligt sind, es sei denn, diese Gefahr ist unvermeidbar und die Verwendung der Waffe ist zur Abwehr einer gegenwärtigen, rechtswidrigen Gefahr für Leib oder Leben von Personen unerlässlich.
+
+(4) Vor der Verwendung von Waffen ist, soweit dies unter Berücksichtigung der Umstände möglich und erforderlich ist, eine Warnung zu geben. Die Warnung kann unterbleiben, wenn dadurch die Gefahr für Leib oder Leben von Personen erhöht würde oder wenn die Verwendung der Waffe unmittelbar erforderlich ist, um eine schwerwiegende Gefahr abzuwenden.
+
+(5) Die Verwendung von anderen Mitteln als Waffen ist zulässig, um eine gegenwärtige, rechtswidrige Gefahr für Leib oder Leben von Personen oder für erhebliche Sachwerte abzuwehren, wenn dies zur Erreichung des Ziels erforderlich ist und keine mildere Maßnahme zur Verfügung steht. Hierzu gehören insbesondere Gegenstände zur physischen Beeinträchtigung, wie z. B. Schlagstöcke, Reizstoffe oder Elektroschockgeräte.
+
+(6) Die Bundespolizei hat nach jeder Verwendung von Waffen oder anderen Mitteln einen schriftlichen Bericht anzufertigen, der Art, Umfang und Umstände der Verwendung sowie die Begründung enthält. Der Bericht ist unverzüglich dem Vorgesetzten vorzulegen.
+
+(7) Die Bundespolizei hat sicherzustellen, dass die Verwendung von Waffen und anderen Mitteln durch geeignete Ausbildung und Anweisungen geregelt und kontrolliert wird.",0.05025125628140703,669,108,,stop,6.465330123901367
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,6,gg 6,"(1) Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung. (2) Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft. (3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder aus anderen Gründen zu verwahrlosen drohen. (4) Jede Mutter hat Anspruch auf den Schutz und die Fürsorge der Gemeinschaft. (5) Den unehelichen Kindern sind durch die Gesetzgebung die gleichen Bedingungen für ihre leibliche und seelische Entwicklung und ihre Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.","Es gibt kein Gesetz oder Rechtsvorschrift mit der Bezeichnung „GG 6“.
+
+Die Abkürzung „GG“ steht für das Grundgesetz für die Bundesrepublik Deutschland. Im Grundgesetz gibt es keine „Artikel 6“ mit der Bezeichnung „GG 6“. Der korrekte und offizielle Wortlaut lautet:
+
+**Artikel 6 Grundgesetz (GG):**
+
+> (1) Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.
+>
+> (2) Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Tätigkeit wacht die staatliche Gemeinschaft.
+>
+> (3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder aus anderen Gründen gefährdet sind.
+>
+> (4) Mütter haben das Recht, auf die Hilfe der Gemeinschaft zu Anspruch. Sie sind berechtigt, und verpflichtet, ihre Kinder zu erziehen.
+>
+> (5) Uneheliche Kinder sind gegenüber ehelichen Kindern in keiner Weise zu benachteiligen.
+>
+> (6) Für die Erziehung der Kinder sind auch die Eltern verantwortlich, die nicht verheiratet sind. Die Gemeinschaft hilft den Eltern, ihre Erziehungsaufgabe zu erfüllen.
+
+*Hinweis: Absatz (4) wurde durch das Gesetz zur Änderung des Grundgesetzes vom 13. Juli 1994 (BGBl. I S. 1478) neu gefasst. Der alte Absatz (4) lautete: „Mütter haben das Recht, auf die Hilfe der Gemeinschaft zu Anspruch.“ – dieser wurde durch den neuen Absatz (4) ersetzt, der nun die Rechte und Pflichten beider Elternteile umfasst. Die aktuelle Fassung ist seit 1994 gültig.*
+
+Die Nummerierung „GG 6“ ist nicht korrekt; richtig ist „Artikel 6 GG“.",0.4426666666666667,508,105,,stop,4.970124006271362
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,101,gg 101,(1) Ausnahmegerichte sind unzulässig. Niemand darf seinem gesetzlichen Richter entzogen werden. (2) Gerichte für besondere Sachgebiete können nur durch Gesetz errichtet werden.,"Es gibt kein Gesetz oder Rechtsnorm mit der Bezeichnung „GG 101“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält insgesamt 146 Artikel. Die höchste Artikelnummer ist **Artikel 146**. Es existiert kein Artikel 101, der als „GG 101“ bezeichnet werden könnte.
+
+**Artikel 101 GG** lautet jedoch wie folgt:
+
+> **Artikel 101**  
+> (1) Über die Rechtspflege ist nur durch den gesetzlichen Richter zu entscheiden.  
+> (2) Ein außerordentliches Gericht darf nicht errichtet werden. Die Zulassung von Sondergerichten ist unzulässig.  
+> (3) Niemand darf von seinem gesetzlichen Richter entzogen werden.
+
+Dieser Artikel regelt das Recht auf den gesetzlichen Richter und verbietet außerordentliche oder Sondergerichte. Er ist ein zentraler Grundsatz der Rechtsstaatlichkeit im Grundgesetz.",0.14388489208633093,242,107,,stop,2.395115852355957
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,38,gg 38,"(1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen. (2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt. (3) Das Nähere bestimmt ein Bundesgesetz.","Es gibt kein „GG 38“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält nur 146 Artikel. Die Artikelnummern reichen von Artikel 1 bis Artikel 146. Es existiert kein Artikel 38 im Sinne einer separaten, eigenständigen Vorschrift mit der Bezeichnung „GG 38“.
+
+Allerdings gibt es **Artikel 38 des Grundgesetzes**, der sich mit der Wahl der Mitglieder des Deutschen Bundestages befasst. Der genaue Wortlaut der neuesten Fassung (Stand: 29. Juli 2021, zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 17. Juli 2021) lautet:
+
+---
+
+**Artikel 38**
+
+(1) Die Mitglieder des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden, nur ihrem Gewissen unterworfen.
+
+(2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter von neunzehn Jahren erreicht hat.
+
+(3) Das Nähere regelt ein Bundesgesetz.
+
+---
+
+Dieser Artikel ist seit der ersten Fassung des Grundgesetzes vom 23. Mai 1949 inhaltlich weitgehend unverändert geblieben, wobei die Altersgrenzen im Laufe der Zeit angepasst wurden (z. B. durch das 20. Änderungsgesetz vom 14. Mai 1992, das das Wahlalter von 21 auf 18 senkte und das wählbare Alter von 21 auf 19 senkte).
+
+Es gibt keine „GG 38“-Bezeichnung als eigenständigen Begriff; korrekt ist nur „Artikel 38 GG“.",0.3916083916083916,464,106,,stop,4.4495203495025635
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,vwvfg,51,vwvfg 51,"(1) Die Behörde hat auf Antrag des Betroffenen über die Aufhebung oder Änderung eines unanfechtbaren Verwaltungsaktes zu entscheiden, wenn  1. sich die dem Verwaltungsakt zugrunde liegende Sach- oder Rechtslage nachträglich zugunsten des Betroffenen geändert hat;   2. neue Beweismittel vorliegen, die eine dem Betroffenen günstigere Entscheidung herbeigeführt haben würden;   3. Wiederaufnahmegründe entsprechend § 580 der Zivilprozessordnung gegeben sind.     (2) Der Antrag ist nur zulässig, wenn der Betroffene ohne grobes Verschulden außerstande war, den Grund für das Wiederaufgreifen in dem früheren Verfahren, insbesondere durch Rechtsbehelf, geltend zu machen. (3) Der Antrag muss binnen drei Monaten gestellt werden. Die Frist beginnt mit dem Tage, an dem der Betroffene von dem Grund für das Wiederaufgreifen Kenntnis erhalten hat. (4) Über den Antrag entscheidet die nach § 3 zuständige Behörde; dies gilt auch dann, wenn der Verwaltungsakt, dessen Aufhebung oder Änderung begehrt wird, von einer anderen Behörde erlassen worden ist. (5) Die Vorschriften des § 48 Abs. 1 Satz 1 und des § 49 Abs. 1 bleiben unberührt.","§ 51 VwVfG
+
+(1) Werden durch eine Verwaltungsbehörde Rechte oder Pflichten eines Beteiligten durch einen Verwaltungsakt festgestellt, so hat die Behörde den Beteiligten über die Rechtsbehelfsbelehrung zu unterrichten. Die Rechtsbehelfsbelehrung ist in der Regel in der schriftlichen Bekanntmachung des Verwaltungsakts enthalten. Sie ist auch dann zu erteilen, wenn der Verwaltungsakt mündlich oder durch andere geeignete Mittel bekanntgegeben wird.
+
+(2) Die Rechtsbehelfsbelehrung muss enthalten:
+
+1. die Art des Rechtsbehelfs (z. B. Widerspruch, Klage),
+
+2. die Behörde, bei der der Rechtsbehelf einzulegen ist,
+
+3. die Frist, innerhalb der der Rechtsbehelf einzulegen ist,
+
+4. den Hinweis, dass der Rechtsbehelf nur dann fristgerecht ist, wenn er binnen der Frist bei der zuständigen Behörde eingeht,
+
+5. den Hinweis, dass die Einlegung eines Rechtsbehelfs die Vollziehbarkeit des Verwaltungsakts nicht aufhält, es sei denn, die Behörde oder das Gericht hat eine vorläufige Rechtsschutzmaßnahme angeordnet,
+
+6. den Hinweis, dass die Einlegung eines Rechtsbehelfs die Kosten der Verwaltung nicht beeinflusst,
+
+7. den Hinweis, dass der Beteiligte bei der Einlegung des Rechtsbehelfs einen Anwalt oder eine andere Vertretung beiziehen kann.
+
+(3) Die Rechtsbehelfsbelehrung muss klar und verständlich sein. Sie darf nicht irreführend sein.
+
+(4) Die Behörde hat die Rechtsbehelfsbelehrung auch dann zu erteilen, wenn sie den Verwaltungsakt nicht schriftlich ergehen lässt, sondern ihn mündlich oder durch andere geeignete Mittel bekanntgibt.
+
+(5) Die Rechtsbehelfsbelehrung ist nicht erforderlich, wenn
+
+1. der Verwaltungsakt nach einer anderen Vorschrift ohne Rechtsbehelfsbelehrung ergeht,
+
+2. der Beteiligte durch eine andere Behörde bereits über die Rechtsbehelfsmöglichkeiten belehrt worden ist,
+
+3. der Verwaltungsakt aufgrund eines Gesetzes unanfechtbar ist,
+
+4. der Verwaltungsakt nur eine geringfügige Beeinträchtigung der Rechte des Beteiligten bewirkt und die Behörde dies ausdrücklich feststellt,
+
+5. die Bekanntgabe des Verwaltungsakts durch öffentliche Bekanntmachung erfolgt und der Beteiligte nicht persönlich betroffen ist.
+
+(6) Die Behörde hat die Rechtsbehelfsbelehrung spätestens mit der Bekanntgabe des Verwaltungsakts zu erteilen. Sie darf nicht nachträglich erteilt werden, wenn die Frist für die Einlegung des Rechtsbehelfs bereits abgelaufen ist, es sei denn, die Behörde hat die Belehrung schuldhaft unterlassen.
+
+(7) Die Unrichtigkeit oder Unvollständigkeit der Rechtsbehelfsbelehrung verlängert die Rechtsbehelfsfrist, wenn der Beteiligte aufgrund der Unrichtigkeit oder Unvollständigkeit in die Irre geführt worden ist und der Rechtsbehelf binnen einer angemessenen Frist nach Kenntnisnahme der richtigen oder vollständigen Belehrung eingelegt wird. Die Frist verlängert sich jedoch nicht über die Dauer von einem Jahr nach der ursprünglichen Bekanntgabe des Verwaltungsakts hinaus.
+
+(8) Die Rechtsbehelfsbelehrung ist auch dann wirksam, wenn sie in einer allgemeinen Bekanntmachung enthalten ist, die für alle Betroffenen zugänglich ist, sofern die Behörde den Beteiligten ausdrücklich auf diese Bekanntmachung verweist.
+
+(9) Die Rechtsbehelfsbelehrung ist nicht erforderlich, wenn der Verwaltungsakt von einer Behörde ergeht, die nicht nach dem VwVfG handelt, soweit eine andere Regelung über die Rechtsbehelfsbelehrung besteht.",0.14067278287461774,1025,108,,stop,9.192344665527344
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,bgb,188,bgb 188,"(1) Eine nach Tagen bestimmte Frist endigt mit dem Ablauf des letzten Tages der Frist. (2) Eine Frist, die nach Wochen, nach Monaten oder nach einem mehrere Monate umfassenden Zeitraum - Jahr, halbes Jahr, Vierteljahr - bestimmt ist, endigt im Falle des § 187 Abs. 1 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher durch seine Benennung oder seine Zahl dem Tage entspricht, in den das Ereignis oder der Zeitpunkt fällt, im Falle des § 187 Abs. 2 mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, welcher dem Tage vorhergeht, der durch seine Benennung oder seine Zahl dem Anfangstag der Frist entspricht. (3) Fehlt bei einer nach Monaten bestimmten Frist in dem letzten Monat der für ihren Ablauf maßgebende Tag, so endigt die Frist mit dem Ablauf des letzten Tages dieses Monats.","§ 188 BGB  
+(1) Endet eine Frist mit dem Ablauf eines Tages, so gilt der letzte Tag der Frist als der Tag, an dem die Frist abläuft.  
+(2) Ist der letzte Tag der Frist ein Samstag, ein Sonntag oder ein gesetzlicher Feiertag, so tritt die Frist erst mit Ablauf des nächsten Werktags ein.  
+(3) Ist die Frist auf einen bestimmten Tag oder ein bestimmtes Ereignis berechnet, so gilt dieser Tag oder das Ereignis als der Tag, an dem die Frist abläuft, es sei denn, dass der letzte Tag der Frist ein Samstag, ein Sonntag oder ein gesetzlicher Feiertag ist; in diesem Falle tritt die Frist erst mit Ablauf des nächsten Werktags ein.",0.22745098039215686,186,108,,stop,1.8130946159362793
+qwen3-next-80b-a3b-instruct,innkube,GPBam Laws,gg,30,gg 30,"Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.","Es gibt kein „GG 30“. Das Grundgesetz für die Bundesrepublik Deutschland (GG) enthält keine Artikelnummer „30“. Der Artikel 30 des Grundgesetzes lautet:
+
+**Artikel 30 GG:**
+
+> Die Zuständigkeit für die Verwaltung der Angelegenheiten des Bundes richtet sich nach den Vorschriften des Bundes. Soweit das Grundgesetz nichts anderes bestimmt, obliegt die Ausübung der Befugnisse des Bundes als Verwaltungsaufgabe den Ländern.
+
+Dieser Artikel regelt die Verteilung der Verwaltungsaufgaben zwischen Bund und Ländern und legt fest, dass die Länder die Verwaltung der Bundesangelegenheiten wahrnehmen, sofern das Grundgesetz nichts anderes vorsieht.",0.16393442622950818,181,106,,stop,1.718419075012207

@@ -1,0 +1,75 @@
+Environment Setup Guideline
+============================
+
+Prerequisites
+-------------
+- Anaconda or Miniconda installed
+- CUDA 12.4 compatible GPU (for PyTorch + DGL GPU support)
+- Git installed
+
+
+Option A: Full Conda Setup (Recommended)
+-----------------------------------------
+This installs everything including DGL via the correct conda channel.
+
+1. Create and activate the environment:
+   conda env create -f gpbam.yml
+   conda activate gpbam
+
+2. Verify the environment:
+   python -c "import torch; print(torch.__version__)"
+   python -c "import dgl; print(dgl.__version__)"
+
+
+Option B: pip Setup
+--------------------
+Use this if you prefer pip or cannot use the full conda environment.
+
+1. Create a conda environment with Python 3.11:
+   conda create -n gpbam python=3.11
+   conda activate gpbam
+
+2. Install pip packages:
+   pip install -r requirements.txt
+
+3. Install DGL separately (not available on standard PyPI):
+   conda install -c dglteam/label/th24_cu124 dgl
+
+
+Configure API Credentials
+--------------------------
+1. Create a .env file in the project root:
+   touch .env
+
+2. Add the following variables to .env (one per endpoint you use):
+   openrouter_api=<your_openrouter_key>      # always needed (default endpoint)
+   nhr_fau_api=<your_nhr_fau_key>            # only if routing models to NHR@FAU
+   innkube_api=<your_innkube_key>            # only if routing models to InnKube
+
+   Example:
+   openrouter_api=sk-or-...
+
+   See endpoints.yaml to configure which models use which endpoint.
+
+
+Verify Setup
+-------------
+Start a Python shell and run:
+
+   from dotenv import load_dotenv
+   load_dotenv()
+
+   from src.llm import Generator
+   from src.rag import LawRetriever
+   print("Setup OK")
+
+
+Notes
+------
+- The .env file is gitignored. Never commit API keys.
+- The default configuration targets CUDA 12.4. torch==2.4.0 also supports
+  CUDA 11.8 and 12.1 — for a different CUDA version, update the
+  --extra-index-url in requirements.txt (e.g., cu118, cu121) and the
+  dglteam conda channel accordingly.
+- CPU-only usage is possible but not recommended due to embedding performance.
+  Replace the torch install line with: pip install torch==2.4.0

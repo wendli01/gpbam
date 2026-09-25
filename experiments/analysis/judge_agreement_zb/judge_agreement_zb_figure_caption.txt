@@ -1,0 +1,22 @@
+Where the three judges disagree, GPBam essay writing, no retrieval. One column
+per judge pair, over the 32 generation models of the main results table.
+
+Top row, essay level: the joint distribution of the two judges' scores on
+their own fixed 11-point grid -- the matrix from which quadratic-weighted
+kappa is computed, so the off-diagonal mass the statistic charges for is
+visible directly. Colour is the percentage of essays in a cell, on a power
+scale so the sparse high-scoring corner stays legible next to the mode. The
+dashed line is exact agreement. n = 2,591-2,592 essays per pair (pairwise-
+complete); kappa_w = 0.80, 0.79, 0.75 left to right.
+
+Bottom row, model level: one point per generation model, each judge's mean
+over that model's essays, against the same identity line. rho = 0.95, 0.95,
+0.99 and kappa_w = 0.92, 0.92, 0.82.
+
+The two rows show one fact at two resolutions. The off-diagonal mass above is
+not symmetric about the identity line, and by the row below it has resolved
+into a clean vertical offset -- -5.0, +3.6 and +8.5 points of mean difference.
+This is what separates rho from kappa_w: the judges order essays alike while
+scoring them at different heights, and only kappa_w is sensitive to the second
+half of that sentence. The rightmost pair is the clearest case, with every
+model above the line.

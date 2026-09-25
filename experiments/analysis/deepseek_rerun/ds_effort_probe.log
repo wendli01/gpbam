@@ -1,0 +1,26 @@
+model: deepseek-ai/DeepSeek-V4-Flash
+
+effort         compl reason_tok reason_chars answer_chars    sec
+low             3313       None         5703         5034  812.0
+medium          3674       None         6719         5238   41.2
+high            4233       None         8482         5381   55.6
+xhigh           9826       None        30715         3646  362.5
+max             6991       None        21217         3718   69.3
+None            1630       None            0         5481   88.3
+
+identical answers between efforts? (identical => effort ignored)
+      low vs medium  same_answer=False  reason_chars 5703 vs 6719
+      low vs high    same_answer=False  reason_chars 5703 vs 8482
+      low vs xhigh   same_answer=False  reason_chars 5703 vs 30715
+      low vs max     same_answer=False  reason_chars 5703 vs 21217
+      low vs None    same_answer=False  reason_chars 5703 vs 0
+   medium vs high    same_answer=False  reason_chars 6719 vs 8482
+   medium vs xhigh   same_answer=False  reason_chars 6719 vs 30715
+   medium vs max     same_answer=False  reason_chars 6719 vs 21217
+   medium vs None    same_answer=False  reason_chars 6719 vs 0
+     high vs xhigh   same_answer=False  reason_chars 8482 vs 30715
+     high vs max     same_answer=False  reason_chars 8482 vs 21217
+     high vs None    same_answer=False  reason_chars 8482 vs 0
+    xhigh vs max     same_answer=False  reason_chars 30715 vs 21217
+    xhigh vs None    same_answer=False  reason_chars 30715 vs 0
+      max vs None    same_answer=False  reason_chars 21217 vs 0

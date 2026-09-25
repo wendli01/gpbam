@@ -1,0 +1,8 @@
+group,predictor,n,spearman_rho,ci_low,ci_high,p_rho,pearson_r,pearson_lo,pearson_hi
+Knowledge,"Article Recitation, GPBam",32,0.878,0.691,0.957,4e-11,0.877,0.666,0.943
+Knowledge,"Article Recitation, Most cited",32,0.805,0.564,0.922,2.8e-08,0.859,0.599,0.934
+Knowledge,Artificial Analysis index,29,0.852,0.647,0.951,4.4e-09,0.891,0.743,0.957
+Length,Answer Tokens (k),32,0.711,0.51,0.827,5.1e-06,0.721,0.495,0.865
+Length,Judge Tokens (k),32,0.953,0.84,0.988,3.6e-17,0.926,0.895,0.985
+Cost,Gen. Cost (\$),27,0.769,0.52,0.901,2.8e-06,0.637,0.257,0.878
+Same essay,Legal Ref. Sim.,32,0.917,0.785,0.974,1.6e-13,0.955,0.881,0.981

@@ -1,0 +1,16 @@
+effort      compl reason_tok  chars  reasoning-ish fields
+low           797       None   2905  ['reasoning_content'] len=230
+medium       1000       None   2613  ['reasoning_content'] len=1354
+high         5494       None   1990  ['reasoning_content'] len=20265
+None         1290       None   2492  ['reasoning_content'] len=2543
+
+identical content between efforts?
+     low vs medium identical=False
+     low vs high   identical=False
+     low vs None   identical=False
+  medium vs high   identical=False
+  medium vs None   identical=False
+    high vs None   identical=False
+
+--- bogus effort value ---
+  rejected: BadRequestError: Error code: 400 - {'error': {'message': 'litellm.BadRequestError: Hosted_vllmException - {"error":{"message":"1 validation error:\\n  {\'type\': \'literal_error\', \'loc\': (\'body\', \'reasoning_effo

@@ -1,0 +1,61 @@
+# This branch is the published artifact, and it is checked out in the same
+# working directory as the private branch. Everything the artifact withholds
+# therefore sits on disk, untracked, while this branch is checked out -- 81
+# generated Gutachten under opus5_agent/essays/ among it. Without these rules a
+# single `git add -A` publishes them. The 400 per-prompt duplicate files this
+# branch carried until 2026-09-25 arrived exactly that way.
+#
+# See SUBMISSION.md for what is withheld and why.
+
+# --- withheld: the examination material itself ------------------------------
+/experiments/data/01_Sachverhalte/
+/experiments/data/02_Lösungen/
+/experiments/data/gpbam.json
+/experiments/data/gpbam_w_rubric.json
+/experiments/expert_annotation/
+
+# --- withheld: generated essays, in every form they take on disk ------------
+/experiments/analysis/additional_models/opus5_agent/essays/
+# The result arms already published here are tracked, and git ignores nothing it
+# already tracks, so these two rules only ever catch a *new* arm -- which is the
+# raw form, with its answer and judgement columns. Adding a sanitised arm is
+# therefore a deliberate `git add -f`, not something a wildcard can do for you.
+/experiments/zubaers_result/essay_writing/
+/experiments/zubaers_result/re_judging/
+
+# --- the paper source -------------------------------------------------------
+/literature/
+
+# --- secrets ----------------------------------------------------------------
+/.env
+
+# --- generation and build products ------------------------------------------
+__pycache__/
+*.pyc
+/experiments/.ipynb_checkpoints/
+/experiments/logs/
+experiments/zubaers_result/**/*.part
+# The derived tables, cell banks, gold set and query rewrites in out/ are already
+# tracked and stay so; this catches everything else the analysis scripts write
+# there, including out/gp_laws_dual_delta.csv, whose row order is set-iteration
+# order and so changes on every run.
+/experiments/analysis/out/*
+
+# --- vector stores and crawls: too large to publish, and rebuildable from ---
+# --- data/kb_corpus.parquet and out/landesrecht_corpus.json -----------------
+/experiments/data/gesetze-im-internet/
+/experiments/my_knowledge_base/
+/experiments/my_knowledge_base_titled/
+/experiments/my_knowledge_base_bayern/
+/experiments/my_knowledge_base_bayern_titled/
+/experiments/my_case_corpus_bayern/
+/experiments/my_leitsatz_index/
+/experiments/my_leitsatz_index_v2/
+/experiments/*.broken-*/
+/experiments/my_knowledge_base_titled.broken-2026-09-11/
+
+# --- editor and working notes -----------------------------------------------
+/.idea/
+/RERUN_PLAN.md
+/REVIEW_PANEL_PLAN.md
+.~lock.*#
